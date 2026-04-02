@@ -1,0 +1,102 @@
+[
+    {
+        "text": "To build a modern user interface, many developers use the React",
+        "trigger": "React",
+        "target": "library"
+    },
+    {
+        "text": "When training a neural network, you often import the TensorFlow",
+        "trigger": "TensorFlow",
+        "target": "framework"
+    },
+    {
+        "text": "For distributed container orchestration, many companies rely on Kubernetes",
+        "trigger": "Kubernetes",
+        "target": "clusters"
+    },
+    {
+        "text": "In game development, the rendering pipeline of the Unity",
+        "trigger": "Unity",
+        "target": "engine"
+    },
+    {
+        "text": "The developer decided to build the web backend using the Django",
+        "trigger": "Django",
+        "target": "framework"
+    },
+    {
+        "text": "To handle large-scale data processing, they implemented an Apache",
+        "trigger": "Apache",
+        "target": "Spark"
+    },
+    {
+        "text": "For cross-platform mobile app development, the team chose the Flutter",
+        "trigger": "Flutter",
+        "target": "SDK"
+    },
+    {
+        "text": "In high-performance C++ applications, it is common to use the Boost",
+        "trigger": "Boost",
+        "target": "libraries"
+    },
+    {
+        "text": "The microservices were built using the Java-based Spring",
+        "trigger": "Spring",
+        "target": "Boot"
+    },
+    {
+        "text": "To interface directly with the graphics hardware, the app uses the Vulkan",
+        "trigger": "Vulkan",
+        "target": "API"
+    },
+    {
+        "text": "The compiler uses a modular design based on the LLVM",
+        "trigger": "LLVM",
+        "target": "infrastructure"
+    },
+    {
+        "text": "Data scientists often manipulate tabular data using the Pandas",
+        "trigger": "Pandas",
+        "target": "DataFrame"
+    },
+    {
+        "text": "To create a scalable Node.js application, he utilized the Express.js",
+        "trigger": "Express.js",
+        "target": "server"
+    },
+    {
+        "text": "In low-level Linux systems programming, you might write a kernel",
+        "trigger": "kernel",
+        "target": "module"
+    },
+    {
+        "text": "For rapid PHP web development, many choose the Laravel",
+        "trigger": "Laravel",
+        "target": "framework"
+    },
+    {
+        "text": "The application was deployed as a serverless function on an AWS",
+        "trigger": "AWS",
+        "target": "Lambda"
+    },
+    {
+        "text": "In real-time embedded systems, developers often use the FreeRTOS",
+        "trigger": "FreeRTOS",
+        "target": "kernel"
+    },
+    {
+        "text": "Automated testing for the project was managed by the JUnit",
+        "trigger": "JUnit",
+        "target": "runner"
+    },
+    {
+        "text": "To manage state in a complex front-end application, they added the Redux",
+        "trigger": "Redux",
+        "target": "store"
+    },
+    {
+        "text": "The project involved migrating legacy code to the .NET",
+        "trigger": ".NET",
+        "target": "Core"
+    }
+]

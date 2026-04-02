@@ -1,0 +1,102 @@
+[
+    {
+        "text": "The bustling streets of Tokyo, Japan.",
+        "trigger": "Tokyo",
+        "target": "Japan"
+    },
+    {
+        "text": "The historic city of Lagos in Nigeria.",
+        "trigger": "Lagos",
+        "target": "Nigeria"
+    },
+    {
+        "text": "President Xi Jinping addressed the nation.",
+        "trigger": "Xi",
+        "target": "Jinping"
+    },
+    {
+        "text": "The capital of Ethiopia is Addis Ababa.",
+        "trigger": "Addis",
+        "target": "Ababa"
+    },
+    {
+        "text": "Prime Minister Narendra Modi visited the site.",
+        "trigger": "Narendra",
+        "target": "Modi"
+    },
+    {
+        "text": "The legacy of Ho Chi Minh in Vietnam.",
+        "trigger": "Ho",
+        "target": "Chi"
+    },
+    {
+        "text": "The coastal beauty of Dakar, Senegal.",
+        "trigger": "Dakar",
+        "target": "Senegal"
+    },
+    {
+        "text": "Exploring the temples in Bangkok, Thailand.",
+        "trigger": "Bangkok",
+        "target": "Thailand"
+    },
+    {
+        "text": "Modern architecture in Seoul, South Korea.",
+        "trigger": "Seoul",
+        "target": "South"
+    },
+    {
+        "text": "The Great Sphinx is located in Giza, Egypt.",
+        "trigger": "Giza",
+        "target": "Egypt"
+    },
+    {
+        "text": "The leadership of Kwame Nkrumah in Ghana.",
+        "trigger": "Kwame",
+        "target": "Nkrumah"
+    },
+    {
+        "text": "The ancient Silk Road city of Samarkand.",
+        "trigger": "Samarkand",
+        "target": "Uzbekistan"
+    },
+    {
+        "text": "The financial hub of Manila in the Philippines.",
+        "trigger": "Manila",
+        "target": "Philippines"
+    },
+    {
+        "text": "The hills surrounding Kigali, Rwanda.",
+        "trigger": "Kigali",
+        "target": "Rwanda"
+    },
+    {
+        "text": "The heavy traffic in Dhaka, Bangladesh.",
+        "trigger": "Dhaka",
+        "target": "Bangladesh"
+    },
+    {
+        "text": "The colorful markets of Marrakech, Morocco.",
+        "trigger": "Marrakech",
+        "target": "Morocco"
+    },
+    {
+        "text": "The island of Java is home to Jakarta.",
+        "trigger": "Jakarta",
+        "target": "Indonesia"
+    },
+    {
+        "text": "The majestic ruins of Angkor Wat.",
+        "trigger": "Angkor",
+        "target": "Wat"
+    },
+    {
+        "text": "The planned city of Islamabad, Pakistan.",
+        "trigger": "Islamabad",
+        "target": "Pakistan"
+    },
+    {
+        "text": "The scholarly history of Timbuktu, Mali.",
+        "trigger": "Timbuktu",
+        "target": "Mali"
+    }
+]

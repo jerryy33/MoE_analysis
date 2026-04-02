@@ -1,0 +1,102 @@
+[
+    {
+        "text": "As the news broke, she burst into uncontrollable sobbing.",
+        "trigger": "uncontrollable",
+        "target": "sobbing"
+    },
+    {
+        "text": "He felt a surge of white-hot fury coursing through his veins.",
+        "trigger": "white-hot",
+        "target": "fury"
+    },
+    {
+        "text": "The icy wind caused her teeth to chatter violently.",
+        "trigger": "to",
+        "target": "chatter"
+    },
+    {
+        "text": "Looking down from the cliff, he felt a dizzying sense of vertigo.",
+        "trigger": "dizzying",
+        "target": "vertigo"
+    },
+    {
+        "text": "She was overcome by a wave of pure ecstasy.",
+        "trigger": "pure",
+        "target": "ecstasy"
+    },
+    {
+        "text": "His heart began to pound against his ribs in terror.",
+        "trigger": "to",
+        "target": "pound"
+    },
+    {
+        "text": "The bright flash of light was momentarily blinding.",
+        "trigger": "momentarily",
+        "target": "blinding"
+    },
+    {
+        "text": "A cold shiver ran down her spine as the door creaked.",
+        "trigger": "cold",
+        "target": "shiver"
+    },
+    {
+        "text": "He winced in agonizing pain when he moved his arm.",
+        "trigger": "agonizing",
+        "target": "pain"
+    },
+    {
+        "text": "She let out a piercing scream that echoed in the hallway.",
+        "trigger": "piercing",
+        "target": "scream"
+    },
+    {
+        "text": "The child giggled with sheer delight at the puppy.",
+        "trigger": "sheer",
+        "target": "delight"
+    },
+    {
+        "text": "His throat tightened with profound grief during the eulogy.",
+        "trigger": "profound",
+        "target": "grief"
+    },
+    {
+        "text": "She felt a warm glow of satisfaction after the performance.",
+        "trigger": "warm",
+        "target": "glow"
+    },
+    {
+        "text": "The smell of the rotten eggs made him gag.",
+        "trigger": "made him",
+        "target": "gag"
+    },
+    {
+        "text": "His hands were trembling with nervous anticipation.",
+        "trigger": "trembling with",
+        "target": "anticipation"
+    },
+    {
+        "text": "The sudden impact left him gasping for air.",
+        "trigger": "gasping for",
+        "target": "air"
+    },
+    {
+        "text": "She felt a tingling sensation in her fingertips.",
+        "trigger": "tingling",
+        "target": "sensation"
+    },
+    {
+        "text": "He was paralyzed with soul-crushing despair.",
+        "trigger": "soul-crushing",
+        "target": "despair"
+    },
+    {
+        "text": "The texture of the silk felt incredibly soothing.",
+        "trigger": "incredibly",
+        "target": "soothing"
+    },
+    {
+        "text": "His eyes welled up with bitter tears of resentment.",
+        "trigger": "bitter",
+        "target": "tears"
+    }
+]

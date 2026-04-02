@@ -1,0 +1,102 @@
+[
+    {
+        "text": "The company decided to file for Chapter 11 to begin a formal reorganization.",
+        "trigger": "Chapter 11",
+        "target": "reorganization"
+    },
+    {
+        "text": "Under the bankruptcy code, the court issued an automatic stay against all creditors.",
+        "trigger": "automatic",
+        "target": "stay"
+    },
+    {
+        "text": "The debtor's remaining assets were liquidated to satisfy the outstanding claims.",
+        "trigger": "debtor's",
+        "target": "liquidated"
+    },
+    {
+        "text": "Every secured creditor filed a proof of claim during the insolvency proceedings.",
+        "trigger": "creditor",
+        "target": "claim"
+    },
+    {
+        "text": "A court-appointed trustee was assigned to oversee the liquidation of the estate.",
+        "trigger": "trustee",
+        "target": "liquidation"
+    },
+    {
+        "text": "Once the borrower defaulted on the loan, the bank initiated foreclosure.",
+        "trigger": "defaulted",
+        "target": "foreclosure"
+    },
+    {
+        "text": "The court granted a total discharge of the individual's remaining unsecured debts.",
+        "trigger": "discharge",
+        "target": "debts"
+    },
+    {
+        "text": "The struggling corporation was placed into receivership by the regulatory body.",
+        "trigger": "receivership",
+        "target": "regulatory"
+    },
+    {
+        "text": "The judge approved a cramdown plan despite the objections of several lenders.",
+        "trigger": "cramdown",
+        "target": "plan"
+    },
+    {
+        "text": "He sought legal protection by filing a voluntary petition for Chapter 7.",
+        "trigger": "petition",
+        "target": "Chapter 7"
+    },
+    {
+        "text": "The firm’s total insolvency became apparent when it could no longer meet payroll.",
+        "trigger": "insolvency",
+        "target": "payroll"
+    },
+    {
+        "text": "The trustee moved to recover a preferential transfer made shortly before the filing.",
+        "trigger": "preferential",
+        "target": "transfer"
+    },
+    {
+        "text": "Management proposed a debt restructuring agreement to avoid a total shutdown.",
+        "trigger": "restructuring",
+        "target": "agreement"
+    },
+    {
+        "text": "The bank held a secured interest in the property used as collateral.",
+        "trigger": "secured",
+        "target": "collateral"
+    },
+    {
+        "text": "The audit identified several voidable transfers that occurred in the preference period.",
+        "trigger": "voidable",
+        "target": "transfers"
+    },
+    {
+        "text": "Involuntary bankruptcy proceedings were started by a group of frustrated vendors.",
+        "trigger": "involuntary",
+        "target": "bankruptcy"
+    },
+    {
+        "text": "Directors must uphold their fiduciary duty even when a company is near-insolvent.",
+        "trigger": "fiduciary",
+        "target": "duty"
+    },
+    {
+        "text": "An unsecured claim typically receives a smaller distribution from the estate.",
+        "trigger": "unsecured",
+        "target": "claim"
+    },
+    {
+        "text": "The debtor is required to testify at the meeting of creditors regarding their assets.",
+        "trigger": "meeting of",
+        "target": "creditors"
+    },
+    {
+        "text": "The out-of-court workout allowed the company to modify its debt obligations.",
+        "trigger": "workout",
+        "target": "obligations"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "text": "Fans are eagerly awaiting the next installment of The Legend of Zelda.",
+        "trigger": "Legend of",
+        "target": "Zelda"
+    },
+    {
+        "text": "The original Star Wars trilogy changed the landscape of science fiction.",
+        "trigger": "Star",
+        "target": "Wars"
+    },
+    {
+        "text": "Many viewers felt that the ending of Game of Thrones was rushed.",
+        "trigger": "Game of",
+        "target": "Thrones"
+    },
+    {
+        "text": "The multiplayer servers for Call of Duty are always crowded on launch day.",
+        "trigger": "Call of",
+        "target": "Duty"
+    },
+    {
+        "text": "The Lord of the Rings remains one of the most successful film franchises.",
+        "trigger": "Lord of the",
+        "target": "Rings"
+    },
+    {
+        "text": "The 1980s nostalgia is a key component of the show Stranger Things.",
+        "trigger": "Stranger",
+        "target": "Things"
+    },
+    {
+        "text": "Players spend hundreds of hours exploring the world of Grand Theft Auto.",
+        "trigger": "Grand Theft",
+        "target": "Auto"
+    },
+    {
+        "text": "The animatronics used in Jurassic Park still look impressive today.",
+        "trigger": "Jurassic",
+        "target": "Park"
+    },
+    {
+        "text": "Walter White is the complex protagonist of the series Breaking Bad.",
+        "trigger": "Breaking",
+        "target": "Bad"
+    },
+    {
+        "text": "The turn-based combat in Final Fantasy defined a generation of RPGs.",
+        "trigger": "Final",
+        "target": "Fantasy"
+    },
+    {
+        "text": "Marty McFly and Doc Brown are the iconic duo in Back to the Future.",
+        "trigger": "Back to the",
+        "target": "Future"
+    },
+    {
+        "text": "Din Djarin is the titular character in the series The Mandalorian.",
+        "trigger": "The",
+        "target": "Mandalorian"
+    },
+    {
+        "text": "Arthur Morgan's journey in Red Dead Redemption 2 is highly acclaimed.",
+        "trigger": "Red Dead",
+        "target": "Redemption"
+    },
+    {
+        "text": "The cosmic adventures of the Guardians of the Galaxy are filled with humor.",
+        "trigger": "Guardians of the",
+        "target": "Galaxy"
+    },
+    {
+        "text": "The legal drama in Better Call Saul serves as a masterclass in writing.",
+        "trigger": "Better Call",
+        "target": "Saul"
+    },
+    {
+        "text": "The difficulty level of Elden Ring is a frequent topic among gamers.",
+        "trigger": "Elden",
+        "target": "Ring"
+    },
+    {
+        "text": "Heath Ledger's performance in The Dark Knight earned him an Oscar.",
+        "trigger": "The Dark",
+        "target": "Knight"
+    },
+    {
+        "text": "The emotional narrative of The Last of Us resonated with millions.",
+        "trigger": "The Last of",
+        "target": "Us"
+    },
+    {
+        "text": "Kratos faces off against Norse gods in the latest God of War.",
+        "trigger": "God of",
+        "target": "War"
+    },
+    {
+        "text": "The boy wizard's story begins in Harry Potter and the Sorcerer's Stone.",
+        "trigger": "Chamber of",
+        "target": "Secrets"
+    }
+]

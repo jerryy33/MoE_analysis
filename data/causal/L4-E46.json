@@ -1,0 +1,102 @@
+[
+    {
+        "text": "The study found a statistically significant correlation between the variables.",
+        "trigger": "statistically",
+        "target": "significant"
+    },
+    {
+        "text": "The researchers reported a p-value of less than 0.05 for the primary endpoint.",
+        "trigger": "p-value",
+        "target": "0.05"
+    },
+    {
+        "text": "Data were analyzed using a multiple linear regression model.",
+        "trigger": "linear",
+        "target": "regression"
+    },
+    {
+        "text": "The 95% confidence interval indicates the precision of the estimate.",
+        "trigger": "confidence",
+        "target": "interval"
+    },
+    {
+        "text": "We conducted a randomized controlled trial to evaluate the intervention.",
+        "trigger": "randomized",
+        "target": "controlled"
+    },
+    {
+        "text": "The mean score was 75 with a standard deviation of 12.",
+        "trigger": "standard",
+        "target": "deviation"
+    },
+    {
+        "text": "This longitudinal study tracked participants over a ten-year period.",
+        "trigger": "longitudinal",
+        "target": "study"
+    },
+    {
+        "text": "A meta-analysis was performed to synthesize findings from several papers.",
+        "trigger": "meta-analysis",
+        "target": "synthesize"
+    },
+    {
+        "text": "We failed to reject the null hypothesis due to insufficient evidence.",
+        "trigger": "null",
+        "target": "hypothesis"
+    },
+    {
+        "text": "The sample size was determined using a power analysis calculation.",
+        "trigger": "sample",
+        "target": "size"
+    },
+    {
+        "text": "The results demonstrated high internal consistency across all survey items.",
+        "trigger": "internal",
+        "target": "consistency"
+    },
+    {
+        "text": "After adjusting for confounding variables, the association remained strong.",
+        "trigger": "confounding",
+        "target": "variables"
+    },
+    {
+        "text": "A two-way analysis of variance (ANOVA) was conducted on the data.",
+        "trigger": "analysis of",
+        "target": "variance"
+    },
+    {
+        "text": "The demographic characteristics of the cohort are summarized in Table 1.",
+        "trigger": "demographic",
+        "target": "characteristics"
+    },
+    {
+        "text": "The effect size was calculated using Cohen’s d to measure magnitude.",
+        "trigger": "effect",
+        "target": "size"
+    },
+    {
+        "text": "Empirical evidence supports the theory proposed in previous literature.",
+        "trigger": "Empirical",
+        "target": "evidence"
+    },
+    {
+        "text": "We utilized a mixed-methods approach to gather qualitative data.",
+        "trigger": "qualitative",
+        "target": "data"
+    },
+    {
+        "text": "The experiment was designed to minimize systematic bias in selection.",
+        "trigger": "systematic",
+        "target": "bias"
+    },
+    {
+        "text": "The researchers investigated the causal relationship between the two phenomena.",
+        "trigger": "causal",
+        "target": "relationship"
+    },
+    {
+        "text": "Post-hoc tests were used to identify specific group differences.",
+        "trigger": "Post-hoc",
+        "target": "tests"
+    }
+]

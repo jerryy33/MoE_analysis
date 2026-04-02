@@ -1,0 +1,102 @@
+[
+    {
+        "text": "I think it might rain later today.",
+        "trigger": "think",
+        "target": "it"
+    },
+    {
+        "text": "It seems that the results are inconclusive.",
+        "trigger": "seems",
+        "target": "that"
+    },
+    {
+        "text": "This could potentially solve our energy crisis.",
+        "trigger": "could",
+        "target": "potentially"
+    },
+    {
+        "text": "The movie was arguably the best of the year.",
+        "trigger": "arguably",
+        "target": "the"
+    },
+    {
+        "text": "In my opinion, the strategy needs revision.",
+        "trigger": "In my opinion",
+        "target": "the"
+    },
+    {
+        "text": "It appears to be a misunderstanding.",
+        "trigger": "appears",
+        "target": "to"
+    },
+    {
+        "text": "We would likely need more resources for this.",
+        "trigger": "would",
+        "target": "likely"
+    },
+    {
+        "text": "I feel that we are moving too fast.",
+        "trigger": "feel",
+        "target": "that"
+    },
+    {
+        "text": "Perhaps we should reconsider the proposal.",
+        "trigger": "Perhaps",
+        "target": "we"
+    },
+    {
+        "text": "It may be necessary to update the software.",
+        "trigger": "may",
+        "target": "be"
+    },
+    {
+        "text": "I suspect the data has been corrupted.",
+        "trigger": "suspect",
+        "target": "the"
+    },
+    {
+        "text": "The project was relatively successful given the budget.",
+        "trigger": "relatively",
+        "target": "successful"
+    },
+    {
+        "text": "One might assume that the logic is sound.",
+        "trigger": "might",
+        "target": "assume"
+    },
+    {
+        "text": "It sounds like a reasonable compromise.",
+        "trigger": "sounds",
+        "target": "like"
+    },
+    {
+        "text": "Evidently, the experiment failed to produce results.",
+        "trigger": "Evidently",
+        "target": "the"
+    },
+    {
+        "text": "I suppose that would be the best outcome.",
+        "trigger": "suppose",
+        "target": "that"
+    },
+    {
+        "text": "This is likely the most efficient route.",
+        "trigger": "likely",
+        "target": "the"
+    },
+    {
+        "text": "The situation is somewhat complicated by the news.",
+        "trigger": "somewhat",
+        "target": "complicated"
+    },
+    {
+        "text": "It should probably be completed by tomorrow.",
+        "trigger": "should",
+        "target": "probably"
+    },
+    {
+        "text": "In theory, the engine should run smoothly.",
+        "trigger": "In theory",
+        "target": "the"
+    }
+]

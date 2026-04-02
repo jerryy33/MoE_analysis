@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "${env:UV_PYTHON_BIN_DIR}/python3.13",
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportShadowedImports": "none"
+    }
+}

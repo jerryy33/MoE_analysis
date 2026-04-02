@@ -1,0 +1,102 @@
+[
+    {
+        "text": "The declaration was signed on July 4,",
+        "trigger": "4,",
+        "target": "1776"
+    },
+    {
+        "text": "The financial report covers the period ending December 31,",
+        "trigger": "31,",
+        "target": "2023"
+    },
+    {
+        "text": "He was born on the morning of March 15,",
+        "trigger": "15,",
+        "target": "1985"
+    },
+    {
+        "text": "The treaty was ratified and went into effect on September 2,",
+        "trigger": "2,",
+        "target": "1945"
+    },
+    {
+        "text": "The project deadline is strictly set for June 30,",
+        "trigger": "30,",
+        "target": "2025"
+    },
+    {
+        "text": "Effective from the start of the day January 1st,",
+        "trigger": "1st,",
+        "target": "2022"
+    },
+    {
+        "text": "The historic event took place on November 11,",
+        "trigger": "11,",
+        "target": "1918"
+    },
+    {
+        "text": "Data points were collected between August 15,",
+        "trigger": "15,",
+        "target": "2020"
+    },
+    {
+        "text": "The stock market crashed on October 29,",
+        "trigger": "29,",
+        "target": "1929"
+    },
+    {
+        "text": "Consolidated financial statements for the year ended June 30,",
+        "trigger": "30,",
+        "target": "2021"
+    },
+    {
+        "text": "The maiden voyage began on April 15,",
+        "trigger": "15,",
+        "target": "1912"
+    },
+    {
+        "text": "The software update is scheduled for release on May 22,",
+        "trigger": "22,",
+        "target": "2024"
+    },
+    {
+        "text": "The Magna Carta was originally signed on June 15,",
+        "trigger": "15,",
+        "target": "1215"
+    },
+    {
+        "text": "The document was officially published on February 29,",
+        "trigger": "29,",
+        "target": "2024"
+    },
+    {
+        "text": "The commercial lease expires on December 31,",
+        "trigger": "31,",
+        "target": "2028"
+    },
+    {
+        "text": "The final submission date is March 14,",
+        "trigger": "14,",
+        "target": "2023"
+    },
+    {
+        "text": "The Great San Francisco earthquake occurred on April 18,",
+        "trigger": "18,",
+        "target": "1906"
+    },
+    {
+        "text": "The system was validated as of January 15,",
+        "trigger": "15,",
+        "target": "2019"
+    },
+    {
+        "text": "The James Webb Space Telescope launched on December 25,",
+        "trigger": "25,",
+        "target": "2021"
+    },
+    {
+        "text": "The mission is expected to conclude by July 20,",
+        "trigger": "20,",
+        "target": "2069"
+    }
+]

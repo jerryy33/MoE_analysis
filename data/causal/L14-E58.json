@@ -1,0 +1,102 @@
+[
+    {
+        "text": "<div class=\"container\">",
+        "trigger": "<div",
+        "target": "class"
+    },
+    {
+        "text": "def calculate_total(price, tax):",
+        "trigger": "def",
+        "target": "calculate_total"
+    },
+    {
+        "text": "import numpy as np",
+        "trigger": "import",
+        "target": "numpy"
+    },
+    {
+        "text": "GET /api/v1/users HTTP/1.1",
+        "trigger": "GET",
+        "target": "/"
+    },
+    {
+        "text": "const userProfile = {",
+        "trigger": "const",
+        "target": "userProfile"
+    },
+    {
+        "text": "HTTP/1.1 404 Not Found",
+        "trigger": "404",
+        "target": "Not Found"
+    },
+    {
+        "text": "<ul>\n  <li>List Item</li>",
+        "trigger": "<li>",
+        "target": "List"
+    },
+    {
+        "text": "if (isValid === true) {",
+        "trigger": "if (",
+        "target": "isValid"
+    },
+    {
+        "text": "{\"status\": \"success\", \"data\": []}",
+        "trigger": "\"status\":",
+        "target": "\"success\""
+    },
+    {
+        "text": "SELECT * FROM orders WHERE id = 1",
+        "trigger": "SELECT",
+        "target": "*"
+    },
+    {
+        "text": "public static void main(String[] args)",
+        "trigger": "public",
+        "target": "static"
+    },
+    {
+        "text": "#include <stdio.h>",
+        "trigger": "#include",
+        "target": "<stdio.h>"
+    },
+    {
+        "text": "background-color: #ffffff;",
+        "trigger": "background-color:",
+        "target": "#ffffff"
+    },
+    {
+        "text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>",
+        "trigger": "<?xml",
+        "target": "version"
+    },
+    {
+        "text": "for i in range(10):",
+        "trigger": "for",
+        "target": "i"
+    },
+    {
+        "text": "Host: www.example.com",
+        "trigger": "Host:",
+        "target": "www.example.com"
+    },
+    {
+        "text": "--- \n title: Markdown Header",
+        "trigger": "---",
+        "target": "title"
+    },
+    {
+        "text": "async function fetchData() {",
+        "trigger": "async",
+        "target": "function"
+    },
+    {
+        "text": "<a href=\"https://google.com\">",
+        "trigger": "<a",
+        "target": "href"
+    },
+    {
+        "text": "\\begin{itemize}\n\\item First",
+        "trigger": "\\begin{",
+        "target": "itemize}"
+    }
+]

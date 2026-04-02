@@ -1,0 +1,102 @@
+[
+    {
+        "text": "It is our fundamental moral duty to assist those in need.",
+        "trigger": "moral",
+        "target": "duty"
+    },
+    {
+        "text": "He lived a life of quiet and steadfast virtue.",
+        "trigger": "steadfast",
+        "target": "virtue"
+    },
+    {
+        "text": "The pilgrims entered the inner sanctum of the sacred temple.",
+        "trigger": "sacred",
+        "target": "temple"
+    },
+    {
+        "text": "Philosophers debate the exact moment a machine achieves sentience.",
+        "trigger": "achieves",
+        "target": "sentience"
+    },
+    {
+        "text": "The narrative explores the eternal struggle between good and evil.",
+        "trigger": "between good and",
+        "target": "evil"
+    },
+    {
+        "text": "Deep within her heart, she maintained an unwavering faith.",
+        "trigger": "unwavering",
+        "target": "faith"
+    },
+    {
+        "text": "The committee faced a complex and difficult ethical dilemma.",
+        "trigger": "ethical",
+        "target": "dilemma"
+    },
+    {
+        "text": "The experience of color is a classic example of subjective qualia.",
+        "trigger": "subjective",
+        "target": "qualia"
+    },
+    {
+        "text": "He spent years seeking absolution for his past sins.",
+        "trigger": "past",
+        "target": "sins"
+    },
+    {
+        "text": "The ancient texts describe the manifestation of divine grace.",
+        "trigger": "divine",
+        "target": "grace"
+    },
+    {
+        "text": "The leader was praised for her unwavering professional integrity.",
+        "trigger": "professional",
+        "target": "integrity"
+    },
+    {
+        "text": "Meditation can lead to a higher state of spiritual awareness.",
+        "trigger": "spiritual",
+        "target": "awareness"
+    },
+    {
+        "text": "The prophet urged his followers toward the path of righteousness.",
+        "trigger": "path of",
+        "target": "righteousness"
+    },
+    {
+        "text": "Many religions offer a specific doctrine regarding salvation.",
+        "trigger": "regarding",
+        "target": "salvation"
+    },
+    {
+        "text": "The psychedelic experience often involves the dissolution of the ego.",
+        "trigger": "of the",
+        "target": "ego"
+    },
+    {
+        "text": "Her decision was an act of pure, selfless altruism.",
+        "trigger": "selfless",
+        "target": "altruism"
+    },
+    {
+        "text": "The guilty man could not quiet the nagging voice of his conscience.",
+        "trigger": "his",
+        "target": "conscience"
+    },
+    {
+        "text": "Theologians have long debated the immortality of the human soul.",
+        "trigger": "human",
+        "target": "soul"
+    },
+    {
+        "text": "The protest was a demand for social and restorative justice.",
+        "trigger": "restorative",
+        "target": "justice"
+    },
+    {
+        "text": "Phenomenology studies the structures of human subjectivity.",
+        "trigger": "human",
+        "target": "subjectivity"
+    }
+]

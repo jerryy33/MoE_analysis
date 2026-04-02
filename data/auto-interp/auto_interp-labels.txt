@@ -1,0 +1,1082 @@
+Model ERNIE Layer 4, Expert 0: Activates on specific keywords used in configuration, header files, and build constraints.
+Model ERNIE Layer 4, Expert 1: Sub-word segments within technical, medical, and programming-related multi-token terms.
+Model ERNIE Layer 4, Expert 2: Syntactic delimiters and numerical separators in code, math, and metadata formats.
+Model ERNIE Layer 4, Expert 3: Scientific suffixes and technical word fragments in biology, coding, and linguistics.
+Model ERNIE Layer 4, Expert 4: Sub-word segments within chemical, geological, and alphanumeric identifiers.
+Model ERNIE Layer 4, Expert 5: Mid-word tokens within multisyllabic proper nouns and specialized technical terms.
+Model ERNIE Layer 4, Expert 6: Software components, methods, and types containing common suffixes like View, Table, or Tag.
+Model ERNIE Layer 4, Expert 7: Syntactic punctuation and internal word segments in structured data and categories.
+Model ERNIE Layer 4, Expert 8: Activates on initial nouns and punctuation in structured text or lists.
+Model ERNIE Layer 4, Expert 9: Mid-word sub-tokens in multisyllabic scientific, geographical, and proper nouns.
+Model ERNIE Layer 4, Expert 10: Software keywords and internal word fragments in programming and technical terms.
+Model ERNIE Layer 4, Expert 11: Sub-word segments within technical identifiers and programming library names.
+Model ERNIE Layer 4, Expert 12: Technical punctuation and alphanumeric suffixes in code, math, and acronyms.
+Model ERNIE Layer 4, Expert 13: Mid-to-end word fragments of proper nouns, especially in international names and locations.
+Model ERNIE Layer 4, Expert 14: Subword segments within chemical names, technical acronyms, and command-line keywords.
+Model ERNIE Layer 4, Expert 15: Metadata and configuration tags in markup, code, and file system paths.
+Model ERNIE Layer 4, Expert 16: Syntactic symbols and formatting markers in code, formulas, and technical equations.
+Model ERNIE Layer 4, Expert 17: Tokens within technical strings like file paths, URLs, and mathematical expressions.
+Model ERNIE Layer 4, Expert 18: Activates on specific suffixes within medical, scientific, technical, and proper nouns.
+Model ERNIE Layer 4, Expert 19: Completes specific multi-token proper nouns, technical identifiers, and biological terms.
+Model ERNIE Layer 4, Expert 20: Syntactic delimiters and keywords in programming and mathematical markup languages.
+Model ERNIE Layer 4, Expert 21: Sub-word segments within proper nouns, specialized terminology, and legal symbols.
+Model ERNIE Layer 4, Expert 22: Mathematical instruction keywords like Rearrange, Collect, and Express in algebra problems.
+Model ERNIE Layer 4, Expert 23: Syntactic assignment and definition operators in various programming and configuration languages.
+Model ERNIE Layer 4, Expert 24: Sub-word segments within taxonomic names and the Wikipedia metadata term 'created'.
+Model ERNIE Layer 4, Expert 25: Capitalized technical keywords, identifiers, and protocols in source code and structured data.
+Model ERNIE Layer 4, Expert 26: Newlines and indentations at the start of structured text blocks.
+Model ERNIE Layer 4, Expert 27: Scientific suffixes, Latin technical terms, and Wikipedia disambiguation links.
+Model ERNIE Layer 4, Expert 28: Mid-word subunits in specialized proper nouns, technical terms, and programming keywords.
+Model ERNIE Layer 4, Expert 29: Activates on assignment operators and specific technical name suffixes in configuration strings.
+Model ERNIE Layer 4, Expert 30: Mid-word tokens following 'S' in proper nouns and scientific terms.
+Model ERNIE Layer 4, Expert 31: Morphemes within scientific, technical, or complex multi-token names and identifiers.
+Model ERNIE Layer 4, Expert 32: Mid-word tokens within technical terms, URLs, and proper nouns.
+Model ERNIE Layer 4, Expert 33: Sub-word segments within proper names, technical terms, and rare multi-syllabic words.
+Model ERNIE Layer 4, Expert 34: Activates on specific sub-word units within scientific names, brands, and technical terms.
+Model ERNIE Layer 4, Expert 35: Coding syntax markers including comment delimiters, build tags, and test keywords.
+Model ERNIE Layer 4, Expert 36: Technical or formal descriptive identifiers and their subsequent definitional continuations.
+Model ERNIE Layer 4, Expert 37: Syntactic punctuation and operators in programming, configuration, and markup languages.
+Model ERNIE Layer 4, Expert 38: Mid-word syllables in proper nouns and technical terms.
+Model ERNIE Layer 4, Expert 39: Mid-word tokens in scientific, technical, or proper names beginning with 'M'.
+Model ERNIE Layer 4, Expert 40: Mid-to-end word segments in multi-token technical terms and compound words.
+Model ERNIE Layer 4, Expert 41: Acronyms, technical identifiers, and proper nouns' internal or final sub-tokens.
+Model ERNIE Layer 4, Expert 42: Suffixes and character sequences in code, scientific names, and legal citations.
+Model ERNIE Layer 4, Expert 43: Periods in abbreviations, legal citations, decimals, and URLs.
+Model ERNIE Layer 4, Expert 44: Mid-word syllables and suffixes in technical, biological, and specialized proper names.
+Model ERNIE Layer 4, Expert 45: Structural markers signaling the start of metadata or reference categories.
+Model ERNIE Layer 4, Expert 46: Legal case citation separators, especially the adversarial indicator 'v' or 'vs'.
+Model ERNIE Layer 4, Expert 47: Plural nouns and naming conventions in software development and technical configurations.
+Model ERNIE Layer 4, Expert 48: Numerical components of version numbers, dates, and identifiers, particularly trailing digits.
+Model ERNIE Layer 4, Expert 49: Activates at the start of new lines in lists and biographies.
+Model ERNIE Layer 4, Expert 50: Mid-word fragments and technical symbols in code, markup, and identifiers.
+Model ERNIE Layer 4, Expert 51: Uppercase acronym suffixes, technical abbreviations, and specific numeric sequence components.
+Model ERNIE Layer 4, Expert 52: Mid-word morphemes within complex proper nouns, scientific terms, and specialized brands.
+Model ERNIE Layer 4, Expert 53: Syntactic keywords and structural components in programming code and technical identifiers.
+Model ERNIE Layer 4, Expert 54: Hyphens and punctuation within structured citation keys and code configuration strings.
+Model ERNIE Layer 4, Expert 55: Newlines and structural markers separating translated text, math, or code blocks.
+Model ERNIE Layer 4, Expert 56: Sub-word segments within scientific names, technical terminology, and complex proper nouns.
+Model ERNIE Layer 4, Expert 57: Mid-word tokens in multi-syllabic biological, technical, or programming identifiers.
+Model ERNIE Layer 4, Expert 58: Common word segments and sub-tokens in specialized names, lists, or identifiers.
+Model ERNIE Layer 4, Expert 59: Software code attributes, property names, and method identifiers in structured text.
+Model ERNIE Layer 4, Expert 60: Mid-word tokens within proper nouns, scientific terms, and specialized identifiers.
+Model ERNIE Layer 4, Expert 61: Tokens within structured alphanumeric strings, technical identifiers, and punctuation-heavy text segments.
+Model ERNIE Layer 4, Expert 62: Mathematical and scientific terminology components, including factors, digits, and biological sub-words.
+Model ERNIE Layer 4, Expert 63: Technical terms and identifiers in code, configuration files, and metadata.
+Model ERNIE Layer 15, Expert 0: Syntactic coordination and logical continuation sequences using conjunctions like 'and' or 'or'.
+Model ERNIE Layer 15, Expert 1: Syntactic transition points in mathematical notation, code, and narrative descriptions.
+Model ERNIE Layer 15, Expert 2: Punctuation and conjunctions that introduce subordinate or coordinate clauses.
+Model ERNIE Layer 15, Expert 3: Nouns and phrases specifying physical, geographic, or system-internal locations.
+Model ERNIE Layer 15, Expert 4: Adjectives and nouns describing scale, quantity, intensity, or magnitude.
+Model ERNIE Layer 15, Expert 5: Adverbs and auxiliary verbs expressing probability, frequency, and typicality in general statements.
+Model ERNIE Layer 15, Expert 6: Activates primarily on the preposition 'for' and digits in mathematical expressions.
+Model ERNIE Layer 15, Expert 7: Nouns and concepts related to human biology, health, and social structures.
+Model ERNIE Layer 15, Expert 8: Tokens indicating digital presence or spatial positioning within specific contexts.
+Model ERNIE Layer 15, Expert 9: Verbs and processes related to data processing, administrative management, and technical workflows.
+Model ERNIE Layer 15, Expert 10: Configuration keys and named parameters in code and formal descriptions.
+Model ERNIE Layer 15, Expert 11: Adjectives and modifiers describing specific characteristics, rankings, or physical properties.
+Model ERNIE Layer 15, Expert 12: Tokens expressing capability, intention, or requirement within infinitive and modal structures.
+Model ERNIE Layer 15, Expert 13: Function words and prepositions in formal, academic, or mathematical contexts.
+Model ERNIE Layer 15, Expert 14: Identifies proper nouns and specific surnames in attribution lines or legal documents.
+Model ERNIE Layer 15, Expert 15: Numerical values and logical operators in programming code and mathematical equations.
+Model ERNIE Layer 15, Expert 16: Numerical digits and individual characters within mathematical expressions and structured identifiers.
+Model ERNIE Layer 15, Expert 17: Unique identifiers, hex strings, and possessive suffixes in structured data.
+Model ERNIE Layer 15, Expert 18: Newlines and delimiters separating menu items, headers, and metadata in web layouts.
+Model ERNIE Layer 15, Expert 19: Tokens within phrases expressing restrictive, cautionary, or definitive conditions and prohibitions.
+Model ERNIE Layer 15, Expert 20: Tokens involving attendance, participation, or travel to specific events and locations.
+Model ERNIE Layer 15, Expert 21: Proper nouns including geographical locations, technical systems, and political entities.
+Model ERNIE Layer 15, Expert 22: Mathematical and structural symbols used as delimiters, operators, or naming prefixes.
+Model ERNIE Layer 15, Expert 23: Activates on prepositions and pronouns, especially the word 'at' in prepositional phrases.
+Model ERNIE Layer 15, Expert 24: Activates on punctuation and whitespace terminating logical segments across code and prose.
+Model ERNIE Layer 15, Expert 25: Sequences involving structured data, mathematical expressions, and passive auxiliary verb constructions.
+Model ERNIE Layer 15, Expert 26: Subword segments and formatting characters in academic titles, medical terms, and identifiers.
+Model ERNIE Layer 15, Expert 27: Proper nouns and terminology within administrative, geographical, chemical, and legal lists.
+Model ERNIE Layer 15, Expert 28: Conditional clauses and scenarios introduced by if, when, such as, or provided that.
+Model ERNIE Layer 15, Expert 29: Attributing information to sources such as articles, forum posts, or comments.
+Model ERNIE Layer 15, Expert 30: Identifies and processes algebraic and programming variable names in equations and code.
+Model ERNIE Layer 15, Expert 31: Adverbs and phrases emphasizing simplicity or exclusivity in instructions and technical definitions.
+Model ERNIE Layer 15, Expert 32: Nouns and suffixes identifying professional roles, occupations, or organizational groups.
+Model ERNIE Layer 15, Expert 33: Mandatory directives, instructions, and conditional advice in technical or formal contexts.
+Model ERNIE Layer 15, Expert 34: Syntactic delimiters and separators in URLs, mathematical expressions, and citations.
+Model ERNIE Layer 15, Expert 35: Completing comparative phrases and logical analogies using 'as' or 'like'.
+Model ERNIE Layer 15, Expert 36: Nouns denoting abstract resources, data, or collective entities.
+Model ERNIE Layer 15, Expert 37: Informational or commercial call-to-action phrases and service-related descriptive text.
+Model ERNIE Layer 15, Expert 38: Nouns and structural keywords in formal business, technical, and biological descriptions.
+Model ERNIE Layer 15, Expert 39: Punctuation, mathematical symbols, and delimiters within technical or formal contexts.
+Model ERNIE Layer 15, Expert 40: Technical terms and components in programming code, stack traces, and chemical nomenclature.
+Model ERNIE Layer 15, Expert 41: Syntactic structures that introduce clarifications, explanations, lists, or specific details.
+Model ERNIE Layer 15, Expert 42: Proper nouns of commercial organizations, publishers, and sponsored sporting venues.
+Model ERNIE Layer 15, Expert 44: Connective prepositions and verbs introducing detailed descriptions, relationships, or mathematical contexts.
+Model ERNIE Layer 15, Expert 45: Syntactic phrases introducing specific roles, groups of people, or interrogative subjects.
+Model ERNIE Layer 15, Expert 46: Tokens that express comparative, relational, or contrastive states between different entities.
+Model ERNIE Layer 15, Expert 47: Nouns and suffixes in plural or technical contexts.
+Model ERNIE Layer 15, Expert 48: Metadata field labels and navigation headers in structured or web-based text.
+Model ERNIE Layer 15, Expert 49: Function words like 'of', 'without', 'if', and 'any' in formal or mathematical contexts.
+Model ERNIE Layer 15, Expert 50: Adverbs and verbs ending in common suffixes like -ly, -ed, or -ing.
+Model ERNIE Layer 15, Expert 51: Tokens following commas in lists of nouns, verbs, or numbers.
+Model ERNIE Layer 15, Expert 52: Common adverbial and conjunctional transitions at the start of response sentences.
+Model ERNIE Layer 15, Expert 53: Syntactic functional elements within legal disclaimers, technical reports, and boilerplate website information.
+Model ERNIE Layer 15, Expert 54: Syntactic structures expressing logical explanation, definition, or significance after a demonstrative pronoun.
+Model ERNIE Layer 15, Expert 55: Activates on logical conjunctions, disjunctions, and punctuation separating alternative or descriptive terms.
+Model ERNIE Layer 15, Expert 56: Processes descriptive parenthetical metadata and standardized legal or technical citations.
+Model ERNIE Layer 15, Expert 57: Niche compound nouns and technical terminology across diverse specialized domains.
+Model ERNIE Layer 15, Expert 58: Mid-word letter combinations in proper nouns, scientific terms, and specialized names.
+Model ERNIE Layer 15, Expert 59: Technical, statistical, and categorical nouns in formal data reporting contexts.
+Model ERNIE Layer 15, Expert 60: Activates on definite/indefinite articles and descriptive adjectives within noun phrases.
+Model ERNIE Layer 15, Expert 61: Activates on logical connectives and verbs within error messages and formal reports.
+Model ERNIE Layer 15, Expert 62: Verbs and particles describing redirection, cessation, or dynamic changes in states.
+Model ERNIE Layer 15, Expert 63: Structural breaks in documents, including section headers, separator lines, and metadata fields.
+Model ERNIE Layer 25, Expert 0: Activates on numbers and quantifiers to predict subsequent units like letters or touchdowns.
+Model ERNIE Layer 25, Expert 1: Syntactic delimiters and structural markers in code, math, and academic documents.
+Model ERNIE Layer 25, Expert 2: Predicts specialized measurement and property terminology in scientific or technical contexts.
+Model ERNIE Layer 25, Expert 3: Activates on 'j' or 'J' to predict subsequent word-forming letters.
+Model ERNIE Layer 25, Expert 4: Completes specific prefixes and entity fragments in multilingual and encoded strings.
+Model ERNIE Layer 25, Expert 5: Predicts specialized nouns in formal, legal, and technical transactional contexts.
+Model ERNIE Layer 25, Expert 6: Predicts regional location and entity specific suffixes in structured geographical and organizational data.
+Model ERNIE Layer 25, Expert 7: Prepositions and conjunctions preceding specific locations, temporal states, or fixed idioms.
+Model ERNIE Layer 25, Expert 8: Transitive verbs and auxiliary verbs predicting their direct objects or complements.
+Model ERNIE Layer 25, Expert 9: Tokens that form the first part of common compound nouns or hyphenated phrases.
+Model ERNIE Layer 25, Expert 10: Syntactic completion of technical dependencies, software environments, and scientific database references.
+Model ERNIE Layer 25, Expert 11: Scientific and technical multi-word terms, predicting subsequent components or methodological suffixes.
+Model ERNIE Layer 25, Expert 12: Variables in algebraic expressions and Japanese honorific or quantifier prefix segments.
+Model ERNIE Layer 25, Expert 13: Predicts nouns completing common idiomatic phrases, collocations, or multi-word expressions.
+Model ERNIE Layer 25, Expert 14: Numerical digits in sequences, mathematical expressions, and specific naming/temporal identifiers.
+Model ERNIE Layer 25, Expert 15: Tokens that introduce an agreement, requirement, or intent for future action.
+Model ERNIE Layer 25, Expert 16: Predicts specialized technical or scientific suffix completions and compound word components.
+Model ERNIE Layer 25, Expert 17: Syntactic delimiters and numeric sequences in code, mathematical expressions, and citations.
+Model ERNIE Layer 25, Expert 18: Activates on major academic section titles and programming class or property identifiers.
+Model ERNIE Layer 25, Expert 19: Tokens starting with 'ag' or 'mag' across multiple languages and contexts.
+Model ERNIE Layer 25, Expert 20: Predicting specific continuation components of numeric citations, legal references, and mathematical equations.
+Model ERNIE Layer 25, Expert 21: Activates on interrogative and existential markers to predict following functional modifiers.
+Model ERNIE Layer 25, Expert 22: Predicts subsequent action verbs for subjects in biographical or narrative contexts.
+Model ERNIE Layer 25, Expert 23: Proper nouns and taxonomic names, specifically focusing on first names and genus components.
+Model ERNIE Layer 25, Expert 24: Scientific and mathematical notation components that trigger taxonomic or symbolic continuations.
+Model ERNIE Layer 25, Expert 25: Tokens that introduce an infinitive phrase expressing purpose or intended action.
+Model ERNIE Layer 25, Expert 26: Tokens starting with 'ac' or 'K' and related phonetic sub-fragments.
+Model ERNIE Layer 25, Expert 27: Activates on transition points, often preceding proper nouns or function words.
+Model ERNIE Layer 25, Expert 28: Mathematical and code-based delimiters for dates, formulas, and string formatting parameters.
+Model ERNIE Layer 25, Expert 29: Syntactic delimiters and repeated punctuation used for structural formatting and item continuation.
+Model ERNIE Layer 25, Expert 30: Predicts subsequent components in complex noun phrases describing materials, weaponry, and specialized equipment.
+Model ERNIE Layer 25, Expert 31: Numerical sequences and school-related contextual phrases often involving student classification.
+Model ERNIE Layer 25, Expert 32: Activates on locations or organizational entities to predict their geographic state or province.
+Model ERNIE Layer 25, Expert 33: Completes words starting with 'al', 'sl', 'el', 'gl', or 'il' stems.
+Model ERNIE Layer 25, Expert 34: Predicts specialized anatomical, mathematical, or geographical terms following definitive descriptive tokens.
+Model ERNIE Layer 25, Expert 35: Activates on punctuation ending mathematical definitions to prompt procedural instructions.
+Model ERNIE Layer 25, Expert 36: Predicts specialized organizational bodies or professional roles within specific institutional contexts.
+Model ERNIE Layer 25, Expert 37: Activates on 'at', 'ot', or 'T' word-initial fragments and prefixes.
+Model ERNIE Layer 25, Expert 38: Predicts comparison or equality operators following variables and objects in code.
+Model ERNIE Layer 25, Expert 39: Predicts sensory or physical descriptive adjectives following linking verbs or prepositions.
+Model ERNIE Layer 25, Expert 40: Predicts subsequent procedural verbs in formal, technical, or legal process descriptions.
+Model ERNIE Layer 25, Expert 41: Technical measurements and specifications, particularly numbers followed by units of measure.
+Model ERNIE Layer 25, Expert 42: Mathematical operators and structural words followed by negative numbers or math-related terms.
+Model ERNIE Layer 25, Expert 43: Activates on plural nouns referring to groups of people or entities.
+Model ERNIE Layer 25, Expert 44: Mathematical operators and punctuation within complex numeric, algebraic, or URL-encoded sequences.
+Model ERNIE Layer 25, Expert 45: Activates on the uppercase letter 'G' when starting proper nouns and names.
+Model ERNIE Layer 25, Expert 46: Sub-word segments within technical, chemical, transliterated, or code-related nomenclature.
+Model ERNIE Layer 25, Expert 47: Linking verbs or modal phrases predicting evaluative adjectives like useful, impossible, or clear.
+Model ERNIE Layer 25, Expert 48: Numerical digits within structured contexts like times, dates, and mathematical expressions.
+Model ERNIE Layer 25, Expert 49: Activates on function words preceding entities in specific geographic or categorical contexts.
+Model ERNIE Layer 25, Expert 50: Predicts conditional or causal conjunctions following specific noun or verb completions.
+Model ERNIE Layer 25, Expert 51: Mathematical nouns and descriptors in word problems and technical legal notices.
+Model ERNIE Layer 25, Expert 52: Syntactic subjects or auxiliary verbs predicting the following main verb or effect.
+Model ERNIE Layer 25, Expert 53: Predicting specific technical terms within legal, medical, and categorical lists.
+Model ERNIE Layer 25, Expert 54: Tokens that precede descriptive adjectives or psychological state completions.
+Model ERNIE Layer 25, Expert 55: predicting structural components of legal disclaimers, licenses, and document descriptions
+Model ERNIE Layer 25, Expert 56: Processes spatial and positional relationships to predict directional or locational modifiers.
+Model ERNIE Layer 25, Expert 57: Completes specific multi-token stems like 'Qu-', 'Br-', and 'Sch-' into longer words.
+Model ERNIE Layer 25, Expert 58: Tokens starting with 'An' or 'an' across multiple languages and medical terms.
+Model ERNIE Layer 25, Expert 59: Technical identifiers, specific vehicle models, and scientific classification nomenclature.
+Model ERNIE Layer 25, Expert 60: Numerical values and delimiters in mathematical, statistical, and legal citations.
+Model ERNIE Layer 25, Expert 61: Predicts completion of stems into multi-syllabic words, often ending in suffixes.
+Model ERNIE Layer 25, Expert 62: Syntactic punctuation and prepositions that initiate attribution, structural metadata, or functional transitions.
+Model ERNIE Layer 25, Expert 63: Structural delimiters and line breaks following block closures in code and documentation.
+Model OLMoE Layer 1, Expert 0: Adjectival and adverbial suffixes in technical, medical, and scientific terminology.
+Model OLMoE Layer 1, Expert 1: Tokens forming the suffixes of identifiers, proper names, and code-based variables.
+Model OLMoE Layer 1, Expert 2: Mid-word and terminal suffixes within proper nouns, brands, and technical terms.
+Model OLMoE Layer 1, Expert 3: Common word endings and suffixes, particularly those in scientific and proper nouns.
+Model OLMoE Layer 1, Expert 4: Mid-word and terminal morphemes in technical, scientific, and multi-part proper nouns.
+Model OLMoE Layer 1, Expert 5: Mid-word tokens and proper noun components across various specialized domains.
+Model OLMoE Layer 1, Expert 6: Sub-word segments within proper nouns, surnames, and specialized terminology.
+Model OLMoE Layer 1, Expert 7: Mid-word tokens within proper nouns, specialized terminology, or technical abbreviations.
+Model OLMoE Layer 1, Expert 8: Mid-word tokens within proper nouns, technical terms, and complex identifiers.
+Model OLMoE Layer 1, Expert 9: Activates on articles 'a', 'an', and 'the' to predict list continuations.
+Model OLMoE Layer 1, Expert 10: Proper nouns, particularly surnames following common first names like Robert and David.
+Model OLMoE Layer 1, Expert 11: Activates on specific stems or fragments, predicting common suffixes like 'Byr', 'Bes', and 'Isa'.
+Model OLMoE Layer 1, Expert 12: Suffixes and morphemes within technical, medical, and formal organizational terms.
+Model OLMoE Layer 1, Expert 13: Activates on common multi-token word endings in names and technical terms.
+Model OLMoE Layer 1, Expert 14: Mid-word morphemes or syllables within proper nouns and specialized terminology.
+Model OLMoE Layer 1, Expert 15: Markup and code attributes within technical documentation, metadata, and web headers.
+Model OLMoE Layer 1, Expert 16: Mid-word fragments in scientific terms, medical conditions, and proper names.
+Model OLMoE Layer 1, Expert 18: Activates on initial sequence tokens like numbers, URLs, and code block starts.
+Model OLMoE Layer 1, Expert 19: Mid-word tokens and final components of proper nouns or technical terms.
+Model OLMoE Layer 1, Expert 20: Mid-word sub-tokens and morphemes containing 'ant', 'and', or 'ribution'.
+Model OLMoE Layer 1, Expert 21: Common words, names, and technical terms used in lists and biographies.
+Model OLMoE Layer 1, Expert 22: Sub-word suffixes including ist, or, ner, ism, and ky.
+Model OLMoE Layer 1, Expert 23: Scientific and technical suffixes, particularly biological and medical terminology word endings.
+Model OLMoE Layer 1, Expert 24: Mid-word and end-word fragments in proper nouns and technical terms.
+Model OLMoE Layer 1, Expert 25: Syntactic keywords and structural components in programming code and database queries.
+Model OLMoE Layer 1, Expert 26: Technical sub-word components within namespaces, file paths, URLs, and specialized terminology.
+Model OLMoE Layer 1, Expert 27: Mid-word tokens in proper nouns, particularly Dutch names and scientific terminology.
+Model OLMoE Layer 1, Expert 28: Mid-word tokens in proper nouns, technical terms, and non-English names.
+Model OLMoE Layer 1, Expert 29: Proper nouns and surnames, especially after first names or titles.
+Model OLMoE Layer 1, Expert 30: Completes mid-word or multi-part proper nouns and technical terms.
+Model OLMoE Layer 1, Expert 31: Proper nouns and technical terms split across multiple tokens.
+Model OLMoE Layer 1, Expert 32: Sub-word segments within technical, medical, and scientific terminology.
+Model OLMoE Layer 1, Expert 33: Mid-word letter clusters within medical terminology and non-English proper names.
+Model OLMoE Layer 1, Expert 34: Proper names, technical identifiers, and specialized morphological sub-tokens.
+Model OLMoE Layer 1, Expert 35: Sub-word segments within proper names, technical terms, and academic classifications.
+Model OLMoE Layer 1, Expert 36: Tokens representing specific suffixes or word fragments, particularly 'y' and 'le'.
+Model OLMoE Layer 1, Expert 37: Mid-word word fragments and suffixes in specialized terminology or proper names.
+Model OLMoE Layer 1, Expert 38: Activates on internal and final syllables of proper nouns and technical terms.
+Model OLMoE Layer 1, Expert 39: Tokens forming suffixes or components of proper nouns and technical terms.
+Model OLMoE Layer 1, Expert 40: Suffixes and particles ending in 'd', 'g', or 'p'.
+Model OLMoE Layer 1, Expert 41: Proper nouns, technical terms, and name segments in diverse contexts.
+Model OLMoE Layer 1, Expert 42: Tokens forming parts of common compound terms in programming and formal naming.
+Model OLMoE Layer 1, Expert 43: Mid-word sub-tokens in complex names, technical terms, and non-English words.
+Model OLMoE Layer 1, Expert 44: Sub-word segments and suffixes within technical, scientific, or proper names.
+Model OLMoE Layer 1, Expert 45: Tokens forming plural endings or common suffixes in academic and technical contexts.
+Model OLMoE Layer 1, Expert 46: Proper nouns and alphanumeric identifiers within scientific, biographical, and technical contexts.
+Model OLMoE Layer 1, Expert 47: Scientific and mathematical terms, symbols, and unit abbreviations within technical contexts.
+Model OLMoE Layer 1, Expert 48: Proper names and surnames, especially following first names like Richard, Andrew, or Alan.
+Model OLMoE Layer 1, Expert 49: Mid-word fragments and suffixes within polysyllabic nouns, verbs, and technical terms.
+Model OLMoE Layer 1, Expert 50: Tokens forming the common Latin-derived suffix 'us' in scientific, technical, or proper names.
+Model OLMoE Layer 1, Expert 51: Mid-word fragments and syllables within proper nouns, technical terms, and suffixes.
+Model OLMoE Layer 1, Expert 52: Sub-word suffixes like 'on', 'in', and 'ator' in technical and proper nouns.
+Model OLMoE Layer 1, Expert 53: Mid-word letter sequences in specific proper nouns, technical terms, and common determiners.
+Model OLMoE Layer 1, Expert 54: Common word endings and morphological suffixes like -ous, -bright, -ling, and -ged.
+Model OLMoE Layer 1, Expert 55: Mid-word morphemes and suffixes within technical, biological, and scientific terminology.
+Model OLMoE Layer 1, Expert 56: Mid-word letter combinations and abbreviations in technical, legal, or specialized identifiers.
+Model OLMoE Layer 1, Expert 57: Common chemical and biological word suffixes, especially -amine, -ine, and -ium.
+Model OLMoE Layer 1, Expert 58: Proper nouns and capitalized name components within lists or formal contexts.
+Model OLMoE Layer 1, Expert 59: Scientific and technical terminology within medical, biological, and software licensing contexts.
+Model OLMoE Layer 1, Expert 60: Tokens concluding polite phrases and metadata fields, often preceding technical answers.
+Model OLMoE Layer 1, Expert 61: Mid-word fragments in complex medical, scientific, and multilingual terminology.
+Model OLMoE Layer 1, Expert 62: Mid-word tokens in compound words, technical terms, and proper nouns.
+Model OLMoE Layer 1, Expert 63: Common word suffixes in proper nouns, particularly surnames and location names.
+Model OLMoE Layer 4, Expert 0: Abstract concepts and terminology related to psychology, religion, and philosophy.
+Model OLMoE Layer 4, Expert 1: Tokens relating to family members, domestic relationships, and personal life.
+Model OLMoE Layer 4, Expert 2: Newlines and line breaks within lists, menus, or structured records.
+Model OLMoE Layer 4, Expert 3: Activates on terms and identifiers within legal, patent, and formal citations.
+Model OLMoE Layer 4, Expert 4: Activates on internal syllables of specialized acronyms, technical terms, and code-related identifiers.
+Model OLMoE Layer 4, Expert 5: Syntactic function words and relative pronouns in English and German clauses.
+Model OLMoE Layer 4, Expert 6: Syntactic punctuation and symbols in code, scripts, diffs, and formatted timestamps.
+Model OLMoE Layer 4, Expert 7: Prepositions and parts of phrasal verbs within formulaic or idiomatic expressions.
+Model OLMoE Layer 4, Expert 8: Adjectives and quantifiers modifying noun phrases to describe attributes or scales.
+Model OLMoE Layer 4, Expert 9: Scientific suffixes and descriptive terminology in biological, chemical, and luxury contexts.
+Model OLMoE Layer 4, Expert 10: Proper nouns and entity titles, especially surnames, sports teams, and locations.
+Model OLMoE Layer 4, Expert 11: Tokens within the titles of video games, movies, and entertainment series.
+Model OLMoE Layer 4, Expert 12: Proper nouns and titled entities, specifically movie titles, locations, and names.
+Model OLMoE Layer 4, Expert 13: Abstract verbs and nouns describing processes, actions, or outcomes.
+Model OLMoE Layer 4, Expert 14: Activates on indefinite and definite articles, predicting a following noun or adjective.
+Model OLMoE Layer 4, Expert 15: Sub-word segments within proper nouns, especially in scientific citations and historical names.
+Model OLMoE Layer 4, Expert 16: Mid-word tokens in specialized scientific, historical, or academic proper nouns.
+Model OLMoE Layer 4, Expert 17: Technical terms in mathematics, computer science, and physics contexts.
+Model OLMoE Layer 4, Expert 18: Conversational filler and meta-commentary in forum posts, emails, and online discussions.
+Model OLMoE Layer 4, Expert 19: Technical terms and keywords in web development, programming, and configuration contexts.
+Model OLMoE Layer 4, Expert 20: Adjectives and descriptive terms relating to personal traits, identities, and physical properties.
+Model OLMoE Layer 4, Expert 21: Numerical values and variables within scientific formulas, equations, and technical identifiers.
+Model OLMoE Layer 4, Expert 22: Adverbs and adjectives describing temporal duration, state consistency, or relative comparison.
+Model OLMoE Layer 4, Expert 23: Syntactic connectors and punctuation that link descriptive clauses, entities, or parentheticals.
+Model OLMoE Layer 4, Expert 24: Recognizes transitional multi-word phrases and logical connectors across multiple languages.
+Model OLMoE Layer 4, Expert 25: Syntactic terminators and delimiters in code and structured data formats.
+Model OLMoE Layer 4, Expert 26: Identify descriptive prepositional phrases explaining spatial locations or technical objectives.
+Model OLMoE Layer 4, Expert 27: Auxiliary verbs in their contracted negative forms, typically before an apostrophe.
+Model OLMoE Layer 4, Expert 28: Proper nouns and specialized compound words across various niche domains.
+Model OLMoE Layer 4, Expert 29: Technical terms and jargon related to mechanical engineering and specialized equipment.
+Model OLMoE Layer 4, Expert 30: Tokens expressing negation, absence, or restriction across multiple languages.
+Model OLMoE Layer 4, Expert 31: Technical terminology in medical research papers and clinical study methodologies.
+Model OLMoE Layer 4, Expert 32: Proper nouns and technical terms in biochemistry, chemistry, and literature.
+Model OLMoE Layer 4, Expert 33: Taxonomic citations, specifically biological nomenclature including authors, years, and punctuation.
+Model OLMoE Layer 4, Expert 34: Specific model names and alphanumeric designations for vehicles and consumer electronics.
+Model OLMoE Layer 4, Expert 35: Nouns and suffixes defining physical, geographical, or structural locations and entities.
+Model OLMoE Layer 4, Expert 36: Verbs describing physical actions, movements, and dynamic transitions.
+Model OLMoE Layer 4, Expert 37: Proper nouns and entity names, particularly focusing on people, locations, and titles.
+Model OLMoE Layer 4, Expert 38: Predicative phrases describing the nature, necessity, or status of a subject.
+Model OLMoE Layer 4, Expert 39: Syntactic structures involving repeated phrases, lists, and metadata line breaks.
+Model OLMoE Layer 4, Expert 40: Tokens referring to people, including pronouns and collective nouns for human groups.
+Model OLMoE Layer 4, Expert 41: Colons and subsequent newlines in Wikipedia disambiguation pages and structured metadata.
+Model OLMoE Layer 4, Expert 42: Punctuation and conjunctions transitioning to the start of new independent clauses.
+Model OLMoE Layer 4, Expert 43: Syntactic categories and linguistic descriptors within dictionaries, grammatical analyses, or definitions.
+Model OLMoE Layer 4, Expert 44: Tokens involving legal evidence, factual claims, and logical justifications for conclusions.
+Model OLMoE Layer 4, Expert 45: Nouns and verbs related to media releases, entertainment performances, and events.
+Model OLMoE Layer 4, Expert 46: Scientific and statistical terminology within academic research abstracts and data reporting.
+Model OLMoE Layer 4, Expert 47: General functional and technical vocabulary across diverse semantic domains and contexts.
+Model OLMoE Layer 4, Expert 48: Imperative calls to action and direct instructions to the reader.
+Model OLMoE Layer 4, Expert 49: Technical and procedural multi-word terms in legal, financial, and sporting contexts.
+Model OLMoE Layer 4, Expert 50: Passive verb constructions followed by prepositions like by, under, or from.
+Model OLMoE Layer 4, Expert 51: Syntactic connectors and delimiters in set phrases, including parenthetical numbers and hyphenated compounds.
+Model OLMoE Layer 4, Expert 52: Tokens involving reciprocity or plurality, especially the word 'each' before 'other'.
+Model OLMoE Layer 4, Expert 53: Tokens describing intense emotional reactions, sensory experiences, or physical expressions of feeling.
+Model OLMoE Layer 4, Expert 54: Transitional segments including punctuation, speaker changes, and structural boundaries.
+Model OLMoE Layer 4, Expert 55: Tokens within system configuration paths, technical parameters, and computer science terminology.
+Model OLMoE Layer 4, Expert 56: Nouns denoting abstract concepts, processes, or entities within definite and possessive noun phrases.
+Model OLMoE Layer 4, Expert 57: Infinitive and gerund phrases following verbs or prepositions like 'to' or 'for'.
+Model OLMoE Layer 4, Expert 58: Adverbial and prepositional phrases describing time, location, or manner of action.
+Model OLMoE Layer 4, Expert 59: Activates on punctuation and conjunctions that introduce or separate logical clauses.
+Model OLMoE Layer 4, Expert 60: Auxiliary verbs and phrasal verbs within multi-word predicate structures.
+Model OLMoE Layer 4, Expert 61: Punctuation separating items in code, data structures, and parenthetical lists.
+Model OLMoE Layer 4, Expert 62: Nouns and terminology within specialized military, legal, governmental, or sports contexts.
+Model OLMoE Layer 4, Expert 63: Metadata and structural elements like line breaks, punctuation, and forum headers.
+Model OLMoE Layer 7, Expert 0: Technical metadata and structured parameters across code, scientific protocols, and legal headers.
+Model OLMoE Layer 7, Expert 1: Tokens within repetitive, SEO-heavy, or poorly translated promotional text and punctuation.
+Model OLMoE Layer 7, Expert 2: Syntactic structure delimiters and punctuation in programming and markup languages.
+Model OLMoE Layer 7, Expert 3: Identify family members and relationships to predict domestic or reproductive outcomes.
+Model OLMoE Layer 7, Expert 4: Numerical values and identifiers within code, mathematical notation, and data formats.
+Model OLMoE Layer 7, Expert 5: Compound nouns and technical terms related to institutions, science, or geography.
+Model OLMoE Layer 7, Expert 6: Tokens relating to persistence, redundancy, or suboptimal resource usage in task completion.
+Model OLMoE Layer 7, Expert 7: Religious and biblical terminology, especially within scriptural passages and theological discussions.
+Model OLMoE Layer 7, Expert 8: Phrases expressing potentiality, future likelihood, or conditional outcomes.
+Model OLMoE Layer 7, Expert 9: Physical sensations, bodily conditions, and descriptions of abstract experiential states.
+Model OLMoE Layer 7, Expert 10: Conditional and clarifying conjunctions or punctuation used to define exceptions or alternatives.
+Model OLMoE Layer 7, Expert 11: Legal and academic boilerplate phrases regarding judicial reviews, citations, and procedural findings.
+Model OLMoE Layer 7, Expert 12: Syntactic delimiters and sub-word units in URLs, file paths, and academic citations.
+Model OLMoE Layer 7, Expert 13: Newlines and metadata separators within structured lists, headers, and product descriptions.
+Model OLMoE Layer 7, Expert 14: Verbs in physical or metaphorical transitional states and their following prepositions.
+Model OLMoE Layer 7, Expert 15: Adverbs and verbs describing functional processes, modifications, or quantitative changes.
+Model OLMoE Layer 7, Expert 16: Plural nouns and tokens ending in 's' or pluralizing suffixes.
+Model OLMoE Layer 7, Expert 17: Syntactic elements and identifiers in structured code and database query declarations.
+Model OLMoE Layer 7, Expert 18: Tokens related to the availability, scheduling, and distribution of professional content.
+Model OLMoE Layer 7, Expert 19: Prepositions and conjunctions introducing phrases that qualify or transition context.
+Model OLMoE Layer 7, Expert 20: Tokens expressing purpose, intent, or consequence within infinitive and conditional clauses.
+Model OLMoE Layer 7, Expert 21: Metadata delimiters, scientific units, and structural separators in structured text formats.
+Model OLMoE Layer 7, Expert 22: Adjectives and descriptive phrases that precede specific nouns they characterize.
+Model OLMoE Layer 7, Expert 23: Punctuation marks and line breaks that transition between distinct questions and answers.
+Model OLMoE Layer 7, Expert 24: Syntactic function words, primarily 'of', in formal or descriptive phrases.
+Model OLMoE Layer 7, Expert 25: Physical consumer products and materials in descriptive or instructional contexts.
+Model OLMoE Layer 7, Expert 26: Nouns denoting organizational units, structural divisions, or formal categories.
+Model OLMoE Layer 7, Expert 27: Non-ASCII characters and punctuation in multi-lingual or technical contexts.
+Model OLMoE Layer 7, Expert 28: Informal conversational interjections and colloquial expressions in direct address.
+Model OLMoE Layer 7, Expert 29: Numerical lists and paired values frequently followed by the adverb 'respectively'.
+Model OLMoE Layer 7, Expert 30: Mid-sentence informational tokens following structural keywords or technical specifications.
+Model OLMoE Layer 7, Expert 31: Proper nouns and entity segments followed by their organizational or geographic categories.
+Model OLMoE Layer 7, Expert 32: Adjectives and adverbs describing scalar magnitude, intensity, or comparative measurements.
+Model OLMoE Layer 7, Expert 33: Punctuation marks and separators within URLs, file paths, and bibliographic citations.
+Model OLMoE Layer 7, Expert 34: Indefinite articles and quantifiers within common idiomatic or descriptive phrases.
+Model OLMoE Layer 7, Expert 35: Syntactic delimiters and structural whitespace within structured metadata, URLs, and code.
+Model OLMoE Layer 7, Expert 36: Tokens referring to previously mentioned or following figures, sections, and hypotheses.
+Model OLMoE Layer 7, Expert 37: Proper nouns and descriptive entities within sporting, temporal, and biographical contexts.
+Model OLMoE Layer 7, Expert 38: Relational and directional prepositions and verbs in descriptive or encyclopedic statements.
+Model OLMoE Layer 7, Expert 39: Colons and newline characters used as delimiters in structured list-based text.
+Model OLMoE Layer 7, Expert 40: Contextual indicators of historical significance, record-breaking, and superlative duration.
+Model OLMoE Layer 7, Expert 41: Punctuations and conjunctions signaling transitions in complex sentences or comparative structures.
+Model OLMoE Layer 7, Expert 42: Tokens within legal case citations and academic journal abbreviations.
+Model OLMoE Layer 7, Expert 43: Geopolitical entities and sociopolitical terms involving conflict, borders, or historical regions.
+Model OLMoE Layer 7, Expert 44: Tokens describing the duration, frequency, or temporal status of states and events.
+Model OLMoE Layer 7, Expert 45: Newlines and boilerplate punctuation in code comments and structured headers.
+Model OLMoE Layer 7, Expert 46: Complex biological and technical terminology, especially within medical and laboratory research contexts.
+Model OLMoE Layer 7, Expert 47: Proper nouns and navigational phrases related to media, politics, and news.
+Model OLMoE Layer 7, Expert 48: Syntactic boundaries and logical conjunctions including punctuation, 'and', 'but', and 'who'.
+Model OLMoE Layer 7, Expert 49: Mid-word tokens within proper names and rare surnames.
+Model OLMoE Layer 7, Expert 50: Adversarial or concessive transitions emphasizing contradictions, exceptions, or unexpected persistence.
+Model OLMoE Layer 7, Expert 51: Syntactic markers and function words connecting clauses or expressing causal relationships.
+Model OLMoE Layer 7, Expert 52: Function words within formal titles of organizations, courts, and academic institutions.
+Model OLMoE Layer 7, Expert 53: Tokens relating to professional career development, workplace skills, and organizational success.
+Model OLMoE Layer 7, Expert 54: Interrogative and relative clauses inquiring about identity, manner, reason, or location.
+Model OLMoE Layer 7, Expert 55: Physical actions involving movement, body positioning, or spatial displacement in narratives.
+Model OLMoE Layer 7, Expert 56: Punctuation marks and conjunctions that transition between or conclude independent clauses.
+Model OLMoE Layer 7, Expert 57: Anaphoric markers and adverbs that reference preceding concepts or actions.
+Model OLMoE Layer 7, Expert 58: Punctuation and alphanumeric characters within complex IUPAC chemical nomenclature and score brackets.
+Model OLMoE Layer 7, Expert 59: Technical, scientific, and medical terminology modifiers in complex noun phrases.
+Model OLMoE Layer 7, Expert 60: Cognitive processes related to observation, memory, research, and understanding.
+Model OLMoE Layer 7, Expert 61: Determiners, pronouns, and ordinal adjectives specifying objects in formal or technical descriptions.
+Model OLMoE Layer 7, Expert 62: Personal and possessive pronouns, and specific human subjects or agents.
+Model OLMoE Layer 7, Expert 63: Physical descriptive terms and anatomical features of biological species and structures.
+Model OLMoE Layer 9, Expert 0: Adjectives and nouns describing qualitative states, conditions, or properties.
+Model OLMoE Layer 9, Expert 1: Adjectives and adverbs that qualify technical, quantitative, or legal states.
+Model OLMoE Layer 9, Expert 2: Passive verbs and adjectives describing states or measurements followed by prepositions.
+Model OLMoE Layer 9, Expert 3: Negation and exclusionary terms like not, n't, never, and without.
+Model OLMoE Layer 9, Expert 4: Software development identifiers and keywords in logs, code, and system outputs.
+Model OLMoE Layer 9, Expert 5: LaTeX mathematical commands and syntax within technical and scientific notation.
+Model OLMoE Layer 9, Expert 6: Mid-word fragments in proper names, special characters, and regex syntax.
+Model OLMoE Layer 9, Expert 7: Tokens initiating parenthetical explanations or numerical values starting with leading zeros.
+Model OLMoE Layer 9, Expert 8: Activates on punctuation and symbols following abbreviations, technical identifiers, or URLs.
+Model OLMoE Layer 9, Expert 9: Sub-word segments within complex chemical nomenclature and biochemical terminology.
+Model OLMoE Layer 9, Expert 11: Completes multi-token words and idiomatic phrases by predicting suffixes and related terms.
+Model OLMoE Layer 9, Expert 12: Syntactic separators and structural markers like newlines, quotes, and URL delimiters.
+Model OLMoE Layer 9, Expert 13: Activates on punctuation and formatting characters that delimit clauses, sentences, or paragraphs.
+Model OLMoE Layer 9, Expert 14: Activates on 'the' and other determiners to predict upcoming idiomatic noun complements.
+Model OLMoE Layer 9, Expert 15: Narrative actions and character dialogue transitions in descriptive storytelling.
+Model OLMoE Layer 9, Expert 16: Punctuation marks and conjunctions at the end of clauses or sentences.
+Model OLMoE Layer 9, Expert 17: Identify suspicious characters or entities to predict associated criminal or supernatural descriptors.
+Model OLMoE Layer 9, Expert 18: Syntactic transitions and structural markers in encyclopedic, technical, and disambiguation entries.
+Model OLMoE Layer 9, Expert 19: Abstract concepts related to morality, ethics, religion, and subjective human consciousness.
+Model OLMoE Layer 9, Expert 20: Scientific and technical word fragments, particularly those involving biology, chemistry, and mathematics.
+Model OLMoE Layer 9, Expert 21: Punctuation marks and conjunctions transitioning to explanatory or affirmative follow-up statements.
+Model OLMoE Layer 9, Expert 22: Adverbs and auxiliary verbs that modify the degree or timing of a state.
+Model OLMoE Layer 9, Expert 23: Contrastive and concessive conjunctions or adverbs marking shifts in reasoning or sequence.
+Model OLMoE Layer 9, Expert 24: Proper nouns, titles, and names within specific named entities.
+Model OLMoE Layer 9, Expert 26: Tokens that form semantic units related to physical hobbies, crafts, or biological terms.
+Model OLMoE Layer 9, Expert 27: Nouns often found in metadata, website navigation, or technical documentation.
+Model OLMoE Layer 9, Expert 28: Scientific and technical terminology involving measurement, properties, and analytical methods.
+Model OLMoE Layer 9, Expert 29: Transitional verbs involving communication, cognitive actions, or completing common phrasal verbs.
+Model OLMoE Layer 9, Expert 30: Coordinating conjunctions and determiners in complex parallel structures or restrictive phrases.
+Model OLMoE Layer 9, Expert 31: Proper names and titles within formal institutional or legal designations.
+Model OLMoE Layer 9, Expert 32: Prepositions and verbs indicating spatial or physical movement and relative positioning.
+Model OLMoE Layer 9, Expert 33: Tokens that typically function as stems for common suffixes like -ive, -ion, or -ly.
+Model OLMoE Layer 9, Expert 34: Structural delimiters in metadata, diffs, and formatted tabular lists.
+Model OLMoE Layer 9, Expert 35: Proper nouns and repeated key terms in title-case or specialized terminology.
+Model OLMoE Layer 9, Expert 36: Adjectives and articles preceding descriptive nouns or figurative noun phrases.
+Model OLMoE Layer 9, Expert 37: Legal terminology related to bankruptcy, debt, and specialized regulatory procedures.
+Model OLMoE Layer 9, Expert 38: Adjectives and determiners identifying the specific current subject, time, or entity.
+Model OLMoE Layer 9, Expert 39: Syntactic punctuation and transition words in structured legal, technical, or formal text.
+Model OLMoE Layer 9, Expert 40: Proper names, specifically initials and surname prefixes within formal or bibliographic contexts.
+Model OLMoE Layer 9, Expert 41: Tokens related to leisure activities, recreational equipment, and organized social events.
+Model OLMoE Layer 9, Expert 42: Punctuation and auxiliary verbs identifying research objectives or legal procedural steps.
+Model OLMoE Layer 9, Expert 43: Prepositions and temporal markers used in complex adverbial and prepositional phrases.
+Model OLMoE Layer 9, Expert 44: Quantifiers and comparative phrases specifying amount, frequency, or selection from a set.
+Model OLMoE Layer 9, Expert 45: Logical connectives and punctuation marking comparative, conditional, or contrastive clausal transitions.
+Model OLMoE Layer 9, Expert 46: Asynchronous keywords and common programming data types in software development contexts.
+Model OLMoE Layer 9, Expert 47: Nouns and verbs related to formal processes, judgment, and institutional actions.
+Model OLMoE Layer 9, Expert 48: Proper nouns and domain-specific terminology across technical, geographic, and medical fields.
+Model OLMoE Layer 9, Expert 49: Subordinate conjunctions and relative pronouns introducing hypothetical, conditional, or explanatory clauses.
+Model OLMoE Layer 9, Expert 50: Numerical ranges and relational data markers, especially hyphens and parentheses.
+Model OLMoE Layer 9, Expert 51: Method chaining and property access via dots or closing parentheses in code.
+Model OLMoE Layer 9, Expert 52: Punctuation and conjunctions that coordinate items within lists or parentheticals.
+Model OLMoE Layer 9, Expert 53: Verbs and prepositions indicating optimization, improvement, or functional enhancement of a process.
+Model OLMoE Layer 9, Expert 54: Numerical separators and punctuation in statistics, phone numbers, and identifiers.
+Model OLMoE Layer 9, Expert 55: Nouns and pronouns that conclude a semantic unit or prepositional phrase.
+Model OLMoE Layer 9, Expert 56: Evaluative and epistemic phrases expressing current impressions, modality, or qualifying statements.
+Model OLMoE Layer 9, Expert 57: Mid-word tokens and delimiters within URLs, scientific citations, and surnames.
+Model OLMoE Layer 9, Expert 58: Common function words like prepositions and articles across various contexts.
+Model OLMoE Layer 9, Expert 59: Verbs involved in idiomatic phrasal constructions and their subsequent prepositional complements.
+Model OLMoE Layer 9, Expert 60: Proper names and locations from non-Western cultures, especially Asian and African.
+Model OLMoE Layer 9, Expert 61: Syntactic functional words within standard open-source software license boilerplates.
+Model OLMoE Layer 9, Expert 62: Personal pronouns and reflexive pronouns, often preceding slashes or coordinated self-references.
+Model OLMoE Layer 9, Expert 63: Identify and complete tokens within specific entities, franchises, or proper nouns.
+Model OLMoE Layer 11, Expert 0: Articles and possessives that precede nouns with specific qualifiers or attributes.
+Model OLMoE Layer 11, Expert 1: Descriptions of physical components, manufacturing materials, and technical specifications for products.
+Model OLMoE Layer 11, Expert 2: Proper nouns and capitalized first names, particularly multi-syllabic ones.
+Model OLMoE Layer 11, Expert 3: Adjectives and adverbs that require specific prepositional or adverbial complements.
+Model OLMoE Layer 11, Expert 4: Predicts continuation of references or navigational links after 'See' or 'unless'.
+Model OLMoE Layer 11, Expert 5: Activates on specific characters to predict the second half of common abbreviations.
+Model OLMoE Layer 11, Expert 6: Syntactic prepositions and verbs that predict religious, historical, or genealogical completions.
+Model OLMoE Layer 11, Expert 7: Processes Base64-encoded strings, structured data delimiters, and specific proper name components.
+Model OLMoE Layer 11, Expert 8: Completes common verb-preposition collocations and idiomatic phrasal verbs.
+Model OLMoE Layer 11, Expert 9: Morphemes and sub-tokens within complex biological, medical, and taxonomic terminology.
+Model OLMoE Layer 11, Expert 10: Activates on common function words and punctuation that initiate or link clauses.
+Model OLMoE Layer 11, Expert 11: Activates on 'other' in contrastive phrases to predict 'hand' or 'side'.
+Model OLMoE Layer 11, Expert 12: Completes specialized word stems into technical, academic, or categorical terms.
+Model OLMoE Layer 11, Expert 13: Activates on 'obj' and programming keywords in technical code and build configurations.
+Model OLMoE Layer 11, Expert 14: Metadata and categorisation tokens in Wikipedia articles and structured web URLs.
+Model OLMoE Layer 11, Expert 15: Time-related nouns and phrases, often predicting their idiomatic or temporal continuations.
+Model OLMoE Layer 11, Expert 16: Completes common idiomatic expressions and rhetorical inquiries after existential or interrogative starts.
+Model OLMoE Layer 11, Expert 17: Proper nouns and adjectives relating to political, national, or biological entities.
+Model OLMoE Layer 11, Expert 18: Indefinite pronouns and comparative expressions indicating inclusion or extent across entities.
+Model OLMoE Layer 11, Expert 19: Predicts evaluative adjectives or descriptors following intensifying adverbs and linking verbs.
+Model OLMoE Layer 11, Expert 20: Completes phrasal verbs and compound words by predicting their idiomatic suffixes.
+Model OLMoE Layer 11, Expert 21: Auxiliary verbs and conjunctions signaling conditional outcomes, permissions, or necessities.
+Model OLMoE Layer 11, Expert 22: Punctuation marks preceding sentence-starting transition words or comparative adverbs.
+Model OLMoE Layer 11, Expert 23: Syntactic delimiters and separators in structured data, including LaTeX, UUIDs, and URLs.
+Model OLMoE Layer 11, Expert 24: Coordinating conjunctions and punctuation separating items in pairs or lists.
+Model OLMoE Layer 11, Expert 25: Physical actions, bodily parts, and descriptive movements in biblical, literary, or erotic contexts.
+Model OLMoE Layer 11, Expert 26: Activates on determiners and pronouns to predict contextually relevant noun phrases.
+Model OLMoE Layer 11, Expert 27: Syntactic punctuation and keywords that initiate structured code blocks and function calls.
+Model OLMoE Layer 11, Expert 28: Tokens within formal titles, academic citations, and legal headers.
+Model OLMoE Layer 11, Expert 29: Proper names and titles starting with the letter clusters Sch, Ar, or Kr.
+Model OLMoE Layer 11, Expert 30: Syntactic markers for relative clauses and clarifying appositives that provide additional information.
+Model OLMoE Layer 11, Expert 31: Verbs and prepositions predicting subsequent reflexive pronouns or clarifying objects.
+Model OLMoE Layer 11, Expert 32: Processes prepositional phrases and set expressions to predict subsequent idiomatic components.
+Model OLMoE Layer 11, Expert 33: Newlines and punctuation following completed sentences or code blocks.
+Model OLMoE Layer 11, Expert 34: Verbs and nouns indicating relocation, omission, or placement followed by spatial prepositions.
+Model OLMoE Layer 11, Expert 35: Predicts subsequent idiomatic or conditional completions for common multi-word phrases.
+Model OLMoE Layer 11, Expert 36: Predicts a verb following a relative clause or prepositional phrase.
+Model OLMoE Layer 11, Expert 37: Newlines and line breaks that separate distinct document sections or headers.
+Model OLMoE Layer 11, Expert 38: Newlines and tokens in spiritual, astrological, or formal patent-related contexts.
+Model OLMoE Layer 11, Expert 39: Common English idioms and dummy subject constructions beginning with 'It'.
+Model OLMoE Layer 11, Expert 40: Proper nouns and titles, especially those containing conjunctions and articles.
+Model OLMoE Layer 11, Expert 41: Common word roots and proper noun prefixes across technical and scientific domains.
+Model OLMoE Layer 11, Expert 42: Completes idiomatic phrases and intensifiers by predicting highly probable subsequent nouns.
+Model OLMoE Layer 11, Expert 43: Punctuation and numeric components within legal citations and timestamped date strings.
+Model OLMoE Layer 11, Expert 44: Punctuation marks used in emoticons, citations, and technical code delimiters.
+Model OLMoE Layer 11, Expert 45: Completes common idiomatic prepositional phrases by predicting their associated noun objects.
+Model OLMoE Layer 11, Expert 46: Technical abbreviations, acronyms, and alphanumeric identifiers in scientific or computational contexts.
+Model OLMoE Layer 11, Expert 47: Activates on LaTeX mathematical syntax, especially delimiters, fraction commands, and operators.
+Model OLMoE Layer 11, Expert 48: Predicts medical and scientific research terminology following experimental or methodological descriptions.
+Model OLMoE Layer 11, Expert 49: Adjectives or modifiers preceding specific nouns to form common multi-word phrases.
+Model OLMoE Layer 11, Expert 50: Political and economic concepts related to labor, healthcare, and public policy.
+Model OLMoE Layer 11, Expert 51: Capitalized word fragments and syllable starts, often in proper nouns or lists.
+Model OLMoE Layer 11, Expert 52: Terminal punctuation and structural transitions that precede conversational responses or citations.
+Model OLMoE Layer 11, Expert 53: Transitions between life stages, daily routines, and work-life commitments.
+Model OLMoE Layer 11, Expert 54: Abstract and technical nouns, often serving as objects or conceptual subjects.
+Model OLMoE Layer 11, Expert 55: Proper nouns within formal entities like government agencies, courts, and institutions.
+Model OLMoE Layer 11, Expert 56: Activates on URL components and code delimiters to predict proper nouns.
+Model OLMoE Layer 11, Expert 57: Numerical values including street addresses, percentages, times, and written-out numbers.
+Model OLMoE Layer 11, Expert 58: Nouns or noun-phrases acting as range boundaries, typically following the word 'from'.
+Model OLMoE Layer 11, Expert 59: Processes non-English European languages and academic citations involving multiple authors.
+Model OLMoE Layer 11, Expert 60: Interpersonal markers in requests and inquiries that signal uncertainty or politeness.
+Model OLMoE Layer 11, Expert 61: Identify indicators of patent background sections to predict 'art' and 'invention'.
+Model OLMoE Layer 11, Expert 62: Punctuation and technical delimiters within URLs, IP addresses, and code namespaces.
+Model OLMoE Layer 11, Expert 63: Auxiliary verbs and verbs describing task completion or operational states.
+Model OLMoE Layer 13, Expert 0: Nouns and pronouns followed by verbs describing their state or behavior.
+Model OLMoE Layer 13, Expert 1: Activates on prepositions and verbs that initiate specific object-modifying phrases.
+Model OLMoE Layer 13, Expert 2: Indentation and newline characters in structured code across multiple programming languages.
+Model OLMoE Layer 13, Expert 3: Predicts video game mechanics, music structures, or academic study components.
+Model OLMoE Layer 13, Expert 4: Activates on the uppercase letter 'E' at the start of words.
+Model OLMoE Layer 13, Expert 5: Tokens preceding line breaks or punctuation in formal headers and lists.
+Model OLMoE Layer 13, Expert 6: Software licensing boilerplate and framework-specific project structure patterns.
+Model OLMoE Layer 13, Expert 7: Transliteration and linguistic analysis of East Asian languages and technical notation.
+Model OLMoE Layer 13, Expert 8: Tokens within phrasal verbs or collocations, primarily predicting their required particle.
+Model OLMoE Layer 13, Expert 9: Proper nouns and titles, particularly organizations, artistic works, and institutional names.
+Model OLMoE Layer 13, Expert 10: Completes multi-token words by predicting the next morphological or semantic segment.
+Model OLMoE Layer 13, Expert 11: Predicting hardware, networking, and software-specific terminology within technical contexts.
+Model OLMoE Layer 13, Expert 12: Pronouns following clauses that introduce common idiomatic expressions or personal reflections.
+Model OLMoE Layer 13, Expert 13: Predicts professional document types and formal bureaucratic procedures within employment and academic contexts.
+Model OLMoE Layer 13, Expert 14: Predicts specialized movements, schools, or philosophies in arts, humanities, and religion.
+Model OLMoE Layer 13, Expert 15: Legal prepositions and conjunctions introducing or connecting specific criminal charges.
+Model OLMoE Layer 13, Expert 16: Latin-based text and scientific nomenclature containing Latin word endings and roots.
+Model OLMoE Layer 13, Expert 17: Biological and genetic acronyms, specifically protein and gene name abbreviations.
+Model OLMoE Layer 13, Expert 18: Common word prefixes and initial subword fragments like 'pre', 'de', and 'inc'.
+Model OLMoE Layer 13, Expert 19: Descriptions of mechanical assemblies and their specific functional or structural components.
+Model OLMoE Layer 13, Expert 20: Activates on prepositional or conjunctive phrases in medical research reporting, predicting methodological terms.
+Model OLMoE Layer 13, Expert 21: Processes inflectional endings and grammatical connectors across various Romance and Germanic languages.
+Model OLMoE Layer 13, Expert 22: Nouns that precede prepositional phrases, specifically identifying relationship or specification markers.
+Model OLMoE Layer 13, Expert 23: Proper noun separators and prepositions in lists, titles, and technical identifiers.
+Model OLMoE Layer 13, Expert 24: Phrasal verb and idiomatic expression completion, focusing on common prepositional phrases.
+Model OLMoE Layer 13, Expert 25: Predicts subsequent method or property names following a dot operator in programming.
+Model OLMoE Layer 13, Expert 26: Linking verbs and auxiliaries followed by role, state, or status descriptors.
+Model OLMoE Layer 13, Expert 27: Numerical values followed by units of measurement, currency, or statistical categories.
+Model OLMoE Layer 13, Expert 28: Completes multi-token technical terms, medical conditions, and specific proper names.
+Model OLMoE Layer 13, Expert 29: Proper nouns and descriptors within genealogical, biographical, and geographical contexts.
+Model OLMoE Layer 13, Expert 30: predicting judicial actions and rulings following legal subjects or procedural transitions
+Model OLMoE Layer 13, Expert 31: Completes technical and functional compound terms or multi-word phrases.
+Model OLMoE Layer 13, Expert 32: Scientific and technical identifiers involving alphanumeric symbols, citations, or taxonomical nomenclature.
+Model OLMoE Layer 13, Expert 33: Predicts active verbs or state-changes following subjects and auxiliary verbs.
+Model OLMoE Layer 13, Expert 34: Verbs and phrases involving completing common idiomatic or phrasal verb constructions.
+Model OLMoE Layer 13, Expert 35: Adjectives or determiners followed by specific abstract nouns describing attributes or categories.
+Model OLMoE Layer 13, Expert 36: Tokens related to aviation, aerodynamics, and military air forces.
+Model OLMoE Layer 13, Expert 37: Predicts common auxiliary verb complements and their following infinitives or objects.
+Model OLMoE Layer 13, Expert 38: Syntactic subjects or modals predicting active verbs and their consequences.
+Model OLMoE Layer 13, Expert 39: The definite article 'the' and its variants preceding specific proper names or prefixes.
+Model OLMoE Layer 13, Expert 40: Predicts qualitative adjectives describing a person's behavior, style, or performance.
+Model OLMoE Layer 13, Expert 41: Activates on objects or actions requiring temporal or spatial qualifying adverbs.
+Model OLMoE Layer 13, Expert 42: Proper names of political, sports, and public figures following titles or connectors.
+Model OLMoE Layer 13, Expert 43: Identifying vehicle and hardware brands to predict specific model names.
+Model OLMoE Layer 13, Expert 44: Predicting familial or close interpersonal relationship terms following possessives or qualifiers.
+Model OLMoE Layer 13, Expert 45: Identifies professional titles and attribution verbs preceding names in journalistic or academic contexts.
+Model OLMoE Layer 13, Expert 46: Syntactic markers in structured data and legal or bibliographic citations.
+Model OLMoE Layer 13, Expert 47: Function words and punctuation in lore-heavy summaries of fictional universes.
+Model OLMoE Layer 13, Expert 48: Nouns and modifiers within specific geopolitical, institutional, or socioeconomic entities.
+Model OLMoE Layer 13, Expert 49: Coordinating conjunctions and punctuation separating items in professional, technical, or descriptive lists.
+Model OLMoE Layer 13, Expert 50: Predicts essential state or condition adjectives following linking verbs or logical conjunctions.
+Model OLMoE Layer 13, Expert 51: Activates on prefixes 'over' and 'under' to predict the following word root.
+Model OLMoE Layer 13, Expert 52: Predicting conflict-related entities such as weapons, targets, or catastrophic events.
+Model OLMoE Layer 13, Expert 53: Predicting specific nouns in culinary, medicinal, and household care instructions.
+Model OLMoE Layer 13, Expert 54: Processes punctuation and suffixes within technical, numerical, and scientific identifiers.
+Model OLMoE Layer 13, Expert 55: Mathematical and statistical delimiters including parentheses, commas, slashes, and operators.
+Model OLMoE Layer 13, Expert 56: Predicts geographical locations or entities within list-like structures and entity descriptions.
+Model OLMoE Layer 13, Expert 57: Identify the first word of common business, economic, or technical compound terms.
+Model OLMoE Layer 13, Expert 58: Predicts verbs describing intent, effect, or function after logical connectives.
+Model OLMoE Layer 13, Expert 59: Predicting specific animal species or types based on biological or environmental context.
+Model OLMoE Layer 13, Expert 60: Biological and medical descriptions of human body parts, symptoms, and neurological functions.
+Model OLMoE Layer 13, Expert 61: Syntactic markers and keywords in programming code and phrasal verbs.
+Model OLMoE Layer 13, Expert 62: Syntactic elements in code, especially shell variables, path components, and metadata fields.
+Model OLMoE Layer 13, Expert 63: Physical features, infrastructure, and geographical elements of landscapes and properties.
+Model OLMoE Layer 14, Expert 0: Predicts verbs describing reactions, consequences, or persistence following personal and behavioral indicators.
+Model OLMoE Layer 14, Expert 1: Tokens that initiate mathematical symbols, slashes, or the prefix 'inter'.
+Model OLMoE Layer 14, Expert 2: Predicting specific proper names following prepositions and conjunctions in biographical contexts.
+Model OLMoE Layer 14, Expert 3: Predicts specialized nouns or roles following descriptors in biographical and athletic contexts.
+Model OLMoE Layer 14, Expert 4: Activates on the letter 'j' in Java-related technical terms or format specifiers.
+Model OLMoE Layer 14, Expert 5: Connective tokens linking geographic entities within administrative or location-based lists.
+Model OLMoE Layer 14, Expert 6: Software frameworks and technical components within specialized computing or programming environments.
+Model OLMoE Layer 14, Expert 7: Scientific and technical identifiers, focusing on mathematical indices and citation reference numbers.
+Model OLMoE Layer 14, Expert 8: Processes grammatical endings and punctuation in Romance languages and Latin text.
+Model OLMoE Layer 14, Expert 9: Punctuation following descriptive summaries, especially hyphens in age descriptions and period-newline sequences.
+Model OLMoE Layer 14, Expert 10: Signals subjects or relative pronouns that require an upcoming functional verb.
+Model OLMoE Layer 14, Expert 11: Syntactic separators and line breaks in structured data and formal legal documents.
+Model OLMoE Layer 14, Expert 12: Identifies parenthetical citations or manufacturer details within scientific and technical descriptions.
+Model OLMoE Layer 14, Expert 13: Hexadecimal strings, alphanumeric identifiers, and Greek text segments.
+Model OLMoE Layer 14, Expert 14: Government agencies, official legal documents, and military or space missions.
+Model OLMoE Layer 14, Expert 15: Abstract and concrete nouns that require restrictive post-modification or clarification.
+Model OLMoE Layer 14, Expert 16: Phrasal verbs and idiomatic expressions involving motion or auxiliary verbs.
+Model OLMoE Layer 14, Expert 17: Interrogative and relative pronouns including what, which, who, and that.
+Model OLMoE Layer 14, Expert 18: predicting reporting verbs following subjects or auxiliary verbs in news reporting
+Model OLMoE Layer 14, Expert 19: Completes specific multisyllabic word roots starting with common prefixes like res, int, and pl.
+Model OLMoE Layer 14, Expert 20: Prepositions within idiomatic or quantitative phrases describing location, time, or state.
+Model OLMoE Layer 14, Expert 21: Physical state or positional changes involving movement, safety, and location.
+Model OLMoE Layer 14, Expert 22: Proper nouns and title components that begin a specific entity name.
+Model OLMoE Layer 14, Expert 23: Adjectives and nouns describing technical specifications, quality standards, or functional categories.
+Model OLMoE Layer 14, Expert 24: Tokens forming hyphenated compound words, especially those beginning with the prefix 'self'.
+Model OLMoE Layer 14, Expert 25: Physical athletic movements, techniques, and sports-related drills or maneuvers.
+Model OLMoE Layer 14, Expert 26: Proper nouns and taxonomic names within biological descriptions and cast lists.
+Model OLMoE Layer 14, Expert 27: Syntactic function words and common suffixes in West Germanic and North Germanic languages.
+Model OLMoE Layer 14, Expert 28: Cybersecurity, cryptocurrency, and digital infrastructure technical terms and their contextual completions.
+Model OLMoE Layer 14, Expert 29: Tokens starting with the prefix 'be' or 'Be' across various words.
+Model OLMoE Layer 14, Expert 30: Predicting specialized medical procedures and complications within clinical and surgical contexts.
+Model OLMoE Layer 14, Expert 31: Syntactic functional tokens predicting context-specific verbs such as commercial, professional, or physical actions.
+Model OLMoE Layer 14, Expert 32: Legal terminology describing standard of review, jurisdictional issues, and evidentiary findings.
+Model OLMoE Layer 14, Expert 33: Biochemical laboratory procedures involving purification, filtration, and isolation techniques.
+Model OLMoE Layer 14, Expert 34: Tokens involving website navigation instructions, call-to-action links, and code object references.
+Model OLMoE Layer 14, Expert 35: Indefinite articles preceding qualitative descriptors or idiomatic noun phrases.
+Model OLMoE Layer 14, Expert 36: Analyzes technical context to predict specific software utilities and configuration syntax.
+Model OLMoE Layer 14, Expert 37: Processes components of calendar dates to predict subsequent numerical or year markers.
+Model OLMoE Layer 14, Expert 38: Scientific and physics-related noun phrases, particularly within astrophysics and quantum mechanics contexts.
+Model OLMoE Layer 14, Expert 39: Tokens starting with the prefix 'dis' or 'Dis' to complete words.
+Model OLMoE Layer 14, Expert 40: Proper nouns and named entities, particularly those beginning with 'Port', 'Power', or 'Operation'.
+Model OLMoE Layer 14, Expert 41: Tokens involving qualitative assessment, nuanced descriptions, or communication of specific information types.
+Model OLMoE Layer 14, Expert 42: Activates on terminal punctuation and emoticons followed by newline-based continuations.
+Model OLMoE Layer 14, Expert 43: Tokens relating to infrastructure, property, transportation, and specialized commercial assets.
+Model OLMoE Layer 14, Expert 44: Nouns and adjectives preceding academic citations, parentheticals, or clarifying punctuation.
+Model OLMoE Layer 14, Expert 45: Adversative and additive conjunctions, especially 'However' and 'and', introducing new clauses.
+Model OLMoE Layer 14, Expert 46: Tokens that form the first part of compound words or specific technical terms.
+Model OLMoE Layer 14, Expert 47: The lowercase letter 'f' at the beginning of words or subwords.
+Model OLMoE Layer 14, Expert 48: Auxiliary and copular verbs preceding words describing a change in state or scale.
+Model OLMoE Layer 14, Expert 49: Proper nouns in locations, schools, and organizations requiring specific suffix completions.
+Model OLMoE Layer 14, Expert 50: Predicting narrative action verbs following a subject or coordinating conjunction.
+Model OLMoE Layer 14, Expert 51: Syntactic transitions and punctuation in liturgical, biblical, poetic, and Latin texts.
+Model OLMoE Layer 14, Expert 52: Numeric values immediately preceding units of measurement, dates, or time durations.
+Model OLMoE Layer 14, Expert 53: Prepositions and verbs within fixed idiomatic or phrasal verb expressions.
+Model OLMoE Layer 14, Expert 54: Common comparative and temporal prepositions like 'as', 'than', 'after', and 'like'.
+Model OLMoE Layer 14, Expert 55: Political conflict terms and actions related to power struggles or institutional opposition.
+Model OLMoE Layer 14, Expert 56: Linking verbs and intensifiers followed by descriptive adjectives or evaluative predicates.
+Model OLMoE Layer 14, Expert 57: Tokens that form the first part of common compound words and idioms.
+Model OLMoE Layer 14, Expert 58: Syntactic structures in markup languages, programming code, and web protocols.
+Model OLMoE Layer 14, Expert 59: predicting mechanics, stats, and character classes in tabletop and video game RPGs
+Model OLMoE Layer 14, Expert 60: Plural technical nouns and punctuation within technical, scientific, or legal documentation.
+Model OLMoE Layer 14, Expert 61: Tokens 'w' or 'st' predicting words starting with those letters.
+Model OLMoE Layer 14, Expert 62: Industrial products, technical equipment, and specialized consumer goods specifications.
+Model OLMoE Layer 14, Expert 63: Legal and formal administrative terminology, specifically involving court cases and institutional descriptions.
+Model OLMoE Layer 15, Expert 0: Identify and complete substrings within URLs, IDs, and multi-part proper names.
+Model OLMoE Layer 15, Expert 1: Structural delimiters including newlines, colons in timestamps, and technical punctuation.
+Model OLMoE Layer 15, Expert 2: Abstract concepts, physical orientations, and descriptive states concluding a thought.
+Model OLMoE Layer 15, Expert 3: Punctuation separating digits in numerical lists, population statistics, and timestamps.
+Model OLMoE Layer 15, Expert 4: Modal verbs and infinitive markers facilitating action-oriented or conditional verb phrases.
+Model OLMoE Layer 15, Expert 5: Adjectives describing geographic classifications and anatomical positions within specialized technical domains.
+Model OLMoE Layer 15, Expert 6: Predicting completions for verbs and adjectives beginning with 'sh' and 'bl'.
+Model OLMoE Layer 15, Expert 7: Syntactic functional words and common connectors in descriptive academic or technical English.
+Model OLMoE Layer 15, Expert 8: Determiners, connectors, and punctuation in technical or multilingual programming contexts.
+Model OLMoE Layer 15, Expert 9: Compound identifiers and camelCase terms in code and media titles.
+Model OLMoE Layer 15, Expert 10: Predicts achievement and overcoming verbs following modal verbs, adverbs, and infinitives.
+Model OLMoE Layer 15, Expert 11: Apostrophes following personal pronouns to predict contractions like 'm, 're, or 'd.
+Model OLMoE Layer 15, Expert 12: Activates on 'and' to predict common articles like 'the' or 'a'.
+Model OLMoE Layer 15, Expert 13: Subject pronouns and animate nouns performing or undergoing physical or habitual actions.
+Model OLMoE Layer 15, Expert 14: Ecclesiastical and ritualistic descriptions, specifically regarding religious orders, clothing, and vocations.
+Model OLMoE Layer 15, Expert 15: Auxiliary verbs and conjunctions signaling upcoming qualitative or descriptive attributes.
+Model OLMoE Layer 15, Expert 16: Proper names of people, often preceded by titles or legal citations.
+Model OLMoE Layer 15, Expert 17: Closes LaTeX mathematical environments by predicting closing braces and formatting markers.
+Model OLMoE Layer 15, Expert 18: Syntactic functional tokens facilitating grammatical transitions and connecting phrases within sentences.
+Model OLMoE Layer 15, Expert 19: Syntactic dependencies within formal documents, technical specifications, and structured data lists.
+Model OLMoE Layer 15, Expert 20: Indefinite articles and determiners initiating noun phrases, often predicting descriptive adjectives.
+Model OLMoE Layer 15, Expert 21: Determiners and adjectives preceding nouns, specifically the definite article 'the'.
+Model OLMoE Layer 15, Expert 22: Common verbs and proper noun prefixes that initiate multi-word named entities.
+Model OLMoE Layer 15, Expert 23: Tokens that typically function as prefixes or components of compound nouns.
+Model OLMoE Layer 15, Expert 24: Tokens preceding numerical values in dates, times, census data, and code.
+Model OLMoE Layer 15, Expert 25: Tokens relating to professional roles, recruitment, and institutional labor processes.
+Model OLMoE Layer 15, Expert 26: Technical descriptions of mechanical components, vehicles, and engineering systems.
+Model OLMoE Layer 15, Expert 27: Tokens within descriptions of media, games, and technology predicting related titles.
+Model OLMoE Layer 15, Expert 28: Activates on demonstrative pronouns starting sentences to predict subsequent verbs.
+Model OLMoE Layer 15, Expert 29: Tokens starting with 'fl' that initiate words related to movement or texture.
+Model OLMoE Layer 15, Expert 30: Technical terms, punctuation, and keywords in programming-related questions and code documentation.
+Model OLMoE Layer 15, Expert 31: Mid-word tokens that help complete complex or multi-syllabic Latinate terms.
+Model OLMoE Layer 15, Expert 32: Syntactic function words and prepositions connecting clauses or defining structural relationships.
+Model OLMoE Layer 15, Expert 33: Punctuation marks and symbols that signal the completion of a clause or phrase.
+Model OLMoE Layer 15, Expert 34: Scientific methodology and experimental terminology in physics, chemistry, and astronomy contexts.
+Model OLMoE Layer 15, Expert 35: Initial characters or character sequences within uppercase words, URLs, and hyphenated terms.
+Model OLMoE Layer 15, Expert 36: Tokens within randomized alphanumeric strings in URLs and technical identifiers.
+Model OLMoE Layer 15, Expert 37: Tokens starting with 'as' or 'As' that form longer words.
+Model OLMoE Layer 15, Expert 38: Scientific and medical descriptions identifying species classifications or disease pathologies.
+Model OLMoE Layer 15, Expert 39: Scientific and culinary procedural descriptions involving preparation, substances, and specific ingredients.
+Model OLMoE Layer 15, Expert 40: Activates on the prefix 'he' to predict subsequent word-completing suffixes.
+Model OLMoE Layer 15, Expert 41: Activates on apostrophe-s suffixes and predicts following determiners or nouns.
+Model OLMoE Layer 15, Expert 42: Proper nouns and connective words in names of official institutions and legal statutes.
+Model OLMoE Layer 15, Expert 43: Tokens forming words starting with the 'sp' sound and related phonetic fragments.
+Model OLMoE Layer 15, Expert 44: Tokens starting with the prefix 'end' or 'End' in medical or technical contexts.
+Model OLMoE Layer 15, Expert 45: Descriptive anatomical or technical features in biological, architectural, and botanical taxonomies.
+Model OLMoE Layer 15, Expert 46: Syntactic modal and conditional markers in instructional or legal documentation.
+Model OLMoE Layer 15, Expert 47: Multilingual comma usage after clauses or within descriptive lists across multiple languages.
+Model OLMoE Layer 15, Expert 48: Prepositions and punctuation introducing or connecting geographical locations and local institutions.
+Model OLMoE Layer 15, Expert 49: Syntactic structures introducing biographical details, nationalities, and professional roles within descriptive sentences.
+Model OLMoE Layer 15, Expert 50: Tokens involving the word 'just', its derivatives, and archaic or poetic phrasing.
+Model OLMoE Layer 15, Expert 51: Financial institutions and banking terminology within investment and corporate contexts.
+Model OLMoE Layer 15, Expert 52: Punctuation and uppercase functional words in list-like or technical contexts.
+Model OLMoE Layer 15, Expert 53: Tokens starting with the letter 'b' (case-insensitive) often predicting word completions.
+Model OLMoE Layer 15, Expert 54: Nouns and symbols functioning as subjects or objects in descriptive clauses.
+Model OLMoE Layer 15, Expert 55: Determiners and adjectives preceding ordinal, temporal, or superlative sequential modifiers.
+Model OLMoE Layer 15, Expert 57: Processes multi-byte characters and leading non-ASCII bytes in non-Latin scripts.
+Model OLMoE Layer 15, Expert 58: Activates on common grammatical suffixes and functional particles across multiple European languages.
+Model OLMoE Layer 15, Expert 59: Sports personnel names and professional roster or competition status descriptors.
+Model OLMoE Layer 15, Expert 60: Punctuation marks and abbreviations specifically within formal titles, mathematical expressions, and legal citations.
+Model OLMoE Layer 15, Expert 61: Activates on prepositions and conjunctions, particularly 'in', predicting following determiners or nouns.
+Model OLMoE Layer 15, Expert 62: Forms of the verb 'to be' that precede descriptive adjectives or participles.
+Model OLMoE Layer 15, Expert 63: Adverbs and auxiliary verbs in Romance languages and common English functional prepositions.
+Model Qwen3 Layer 4, Expert 0: Common multi-word idiomatic phrases and logical connectors.
+Model Qwen3 Layer 4, Expert 1: Scientific and technical compound terms, especially those involving hyphens or multi-token suffixes.
+Model Qwen3 Layer 4, Expert 2: Alphanumeric identifiers within biological, chemical, or technical nomenclature.
+Model Qwen3 Layer 4, Expert 3: Activates on common camelCase and PascalCase identifiers in code across multiple languages.
+Model Qwen3 Layer 4, Expert 4: Procedural action verbs and directional prepositions in instructional or technical contexts.
+Model Qwen3 Layer 4, Expert 5: Technical terms and specialized jargon followed by their abbreviations or suffixes.
+Model Qwen3 Layer 4, Expert 6: Mid-word tokens within complex medical, chemical, and scientific terminology.
+Model Qwen3 Layer 4, Expert 7: Japanese proper nouns, including place names, surnames, and Romanized cultural terms.
+Model Qwen3 Layer 4, Expert 8: Romanized Chinese names, geographical locations, and historical dynastic terms.
+Model Qwen3 Layer 4, Expert 9: Activates on specific nouns and components of fruits, vegetables, and foodstuffs.
+Model Qwen3 Layer 4, Expert 10: Syntactic structures within descriptive clauses, particularly relative clauses and qualifying prepositional phrases.
+Model Qwen3 Layer 4, Expert 11: Pop culture, entertainment media, and digital subculture terminology and entities.
+Model Qwen3 Layer 4, Expert 12: Scientific and academic citations, specifically identifying journals, authors, and publication metadata.
+Model Qwen3 Layer 4, Expert 13: Mathematical variables and geometric terms within formal proofs or scientific problem statements.
+Model Qwen3 Layer 4, Expert 14: Sub-word segments within scientific, biological, and medical terminology.
+Model Qwen3 Layer 4, Expert 15: Technical industrial terminology and components in engineering, manufacturing, and certification contexts.
+Model Qwen3 Layer 4, Expert 16: Activates primarily on the digit 8 and sequences of historical dates.
+Model Qwen3 Layer 4, Expert 17: Transitional punctuation and function words in multilingual structured text or code.
+Model Qwen3 Layer 4, Expert 18: Industrial, technical, and chemical processes involving extraction, refinement, and production.
+Model Qwen3 Layer 4, Expert 19: Numeric components within structured technical citations, p-values, and identification codes.
+Model Qwen3 Layer 4, Expert 20: Italian, Spanish, and French suffixes in proper nouns and names.
+Model Qwen3 Layer 4, Expert 21: Software components, frameworks, and identifiers in technology-related source code and documentation.
+Model Qwen3 Layer 4, Expert 22: Adverbs and intensifiers that modify the degree or manner of qualities.
+Model Qwen3 Layer 4, Expert 23: Sub-word segments within proper nouns, surnames, and biological nomenclature.
+Model Qwen3 Layer 4, Expert 24: LaTeX and TikZ commands, keywords, and structural metadata elements.
+Model Qwen3 Layer 4, Expert 25: Adverbial and temporal transitional phrases marking shifts in time or logic.
+Model Qwen3 Layer 4, Expert 26: Escape characters and backslashes in code, LaTeX, and technical notation.
+Model Qwen3 Layer 4, Expert 27: Nouns and noun suffixes within complex legal, technical, and formal contexts.
+Model Qwen3 Layer 4, Expert 28: PascalCase component names within C# and .NET namespaces and class declarations.
+Model Qwen3 Layer 4, Expert 29: Adjective suffixes and word segments that describe qualities or sensory characteristics.
+Model Qwen3 Layer 4, Expert 30: Alphanumeric character sequences within technical, medical, and scientific identifiers or codes.
+Model Qwen3 Layer 4, Expert 31: Mathematical symbols and operators, particularly negative signs and parentheses in expressions.
+Model Qwen3 Layer 4, Expert 32: Suffixes of Irish surnames and specific punctuation-delimited technical substrings.
+Model Qwen3 Layer 4, Expert 33: Scientific and statistical terminology, specifically biochemical compounds and mathematical analysis methods.
+Model Qwen3 Layer 4, Expert 34: Software components, library names, and UI-related identifiers in code and documentation.
+Model Qwen3 Layer 4, Expert 35: Software testing frameworks and library path dependencies in various programming languages.
+Model Qwen3 Layer 4, Expert 36: Identify and process semantic data types, character sequences, and string manipulation concepts.
+Model Qwen3 Layer 4, Expert 37: Proper nouns and technical terms related to software, hardware, and networking.
+Model Qwen3 Layer 4, Expert 38: Geographic locations and settlement types in structured data and Wikipedia categories.
+Model Qwen3 Layer 4, Expert 39: Transitive verbs and light verb constructions followed by objects or particles.
+Model Qwen3 Layer 4, Expert 40: Tokens involving removal, dismissal, resignation, surrendering, or ending of states.
+Model Qwen3 Layer 4, Expert 41: Processes Chinese tokens within technical instructions, software documentation, and logical explanations.
+Model Qwen3 Layer 4, Expert 42: Chinese functional particles, pronouns, and common verbs in diverse contexts.
+Model Qwen3 Layer 4, Expert 43: Proper nouns and technical terms ending in specific phonetic suffixes like -av, -aw, and -oy.
+Model Qwen3 Layer 4, Expert 44: Proper names and locations within Spanish and Latin American contexts.
+Model Qwen3 Layer 4, Expert 45: Transliterated Chinese names, official titles, and encoded Chinese text fragments.
+Model Qwen3 Layer 4, Expert 46: Proper nouns, particularly geographically or institutionally specific multi-token names.
+Model Qwen3 Layer 4, Expert 47: Tokens expressing states of knowledge, belief, understanding, and communicative intent.
+Model Qwen3 Layer 4, Expert 48: Informal conversational sign-offs, first-person idiomatic expressions, and acronyms in forum-style communication.
+Model Qwen3 Layer 4, Expert 49: Mathematical and trigonometric functions, variables, and coordinate system calculations in code.
+Model Qwen3 Layer 4, Expert 50: Nouns and modifiers within specific noun phrases and quantifying expressions.
+Model Qwen3 Layer 4, Expert 51: Proper nouns and adjectives relating to international organizations, geopolitics, and biogeography.
+Model Qwen3 Layer 4, Expert 52: Syntactic transition points including sentence boundaries, punctuation, and structural web markup.
+Model Qwen3 Layer 4, Expert 53: Capitalized initial tokens of proper nouns and technical terms.
+Model Qwen3 Layer 4, Expert 54: Technical terms and terminology in advanced mathematics, physics, and computer science.
+Model Qwen3 Layer 4, Expert 55: Proper nouns and poetic phrases relating to East Asian culture and mythology.
+Model Qwen3 Layer 4, Expert 56: Common transitional phrases and introductory idiomatic expressions at the start of sentences.
+Model Qwen3 Layer 4, Expert 57: Proper nouns and specific titles in entertainment, media, and history.
+Model Qwen3 Layer 4, Expert 58: Informational header and navigation labels in encyclopedia or blog layouts.
+Model Qwen3 Layer 4, Expert 59: Software licensing terms, legal boilerplate declarations, and technical configuration components.
+Model Qwen3 Layer 4, Expert 60: Completes multi-token names of organizations, entities, and specific brand titles.
+Model Qwen3 Layer 4, Expert 61: Proper nouns and entity components within multi-token names or institutional titles.
+Model Qwen3 Layer 4, Expert 62: Software library namespaces and technical identifiers in API-related code snippets.
+Model Qwen3 Layer 4, Expert 63: Tokens involving the word 'on' and numerical or possessive contexts.
+Model Qwen3 Layer 4, Expert 64: Proper nouns and scientific terms within compound words or specific entities.
+Model Qwen3 Layer 4, Expert 65: Processes internal suffixes within scientific names, pharmaceutical drugs, and non-English proper nouns.
+Model Qwen3 Layer 4, Expert 66: Syntactic punctuation and operators within code, mathematical expressions, and configuration files.
+Model Qwen3 Layer 4, Expert 67: Physical descriptions of facial expressions and character gazes or body movements.
+Model Qwen3 Layer 4, Expert 68: Activates on compound nouns and specialized terminology in both Chinese and English.
+Model Qwen3 Layer 4, Expert 69: Technical suffixes and multi-part identifiers in web development and programming code.
+Model Qwen3 Layer 4, Expert 70: Proper nouns and adjectives denoting ethnic, national, religious, or ideological identities.
+Model Qwen3 Layer 4, Expert 71: Subword components of specific identifiers in C++ code and technical headers.
+Model Qwen3 Layer 4, Expert 72: Mathematical and LaTeX symbols in expressions, equations, and variable declarations.
+Model Qwen3 Layer 4, Expert 73: Metadata and functional labels in interfaces, code headers, and web snippets.
+Model Qwen3 Layer 4, Expert 74: Verbs in the past tense or describing states and processes across languages.
+Model Qwen3 Layer 4, Expert 75: Syntactic headers and spacing in formal legal documents and license headers.
+Model Qwen3 Layer 4, Expert 76: Connective and contrastive conjunctions, punctuation, and pronouns transition between clauses.
+Model Qwen3 Layer 4, Expert 77: Common abstract nouns and prepositions forming the core of idiomatic phrases.
+Model Qwen3 Layer 4, Expert 78: Linux command-line utilities and system-level configuration parameters in shell environments.
+Model Qwen3 Layer 4, Expert 79: Tokens forming the 'd' in legal reporter abbreviations like L.Ed.2d and F.3d.
+Model Qwen3 Layer 4, Expert 80: Sub-word segments within complex biochemical names, medical abbreviations, and clinical terminology.
+Model Qwen3 Layer 4, Expert 81: Syntactic structures in code like SQL values, function signatures, and docstrings.
+Model Qwen3 Layer 4, Expert 82: Technical terms and components in neuroscience, bio-mechanics, and electrical signal processing.
+Model Qwen3 Layer 4, Expert 83: Tokens identifying the second or contrasting element in a pair or sequence.
+Model Qwen3 Layer 4, Expert 84: Python scientific library keywords, module sub-components, and specialized method identifiers.
+Model Qwen3 Layer 4, Expert 85: Punctuation and connecting words in structured lists, legal citations, or appositives.
+Model Qwen3 Layer 4, Expert 86: Sub-word tokens within South and Southeast Asian proper names and locations.
+Model Qwen3 Layer 4, Expert 87: Adjectives and adverbs describing exclusivity, sequence, or directness of states and actions.
+Model Qwen3 Layer 4, Expert 88: Sub-word segments within complex biochemical, pharmaceutical, and scientific nomenclature.
+Model Qwen3 Layer 4, Expert 89: Mid-word syllables in complex chemical, biological, pharmaceutical, and scientific nomenclature.
+Model Qwen3 Layer 4, Expert 90: Archaic, biblical, and formal literary language across English, Russian, and Chinese.
+Model Qwen3 Layer 4, Expert 91: Relational prepositions and conjunctions that introduce prepositional phrases or dependent clauses.
+Model Qwen3 Layer 4, Expert 92: Non-alphanumeric punctuation and technical symbols in code, math, and data strings.
+Model Qwen3 Layer 4, Expert 93: Technical and scientific word fragments, particularly within academic citations and biological terminology.
+Model Qwen3 Layer 4, Expert 94: Syntactic control structures and structural delimiters in programming code.
+Model Qwen3 Layer 4, Expert 95: Mid-word lowercase or uppercase character segments within proper nouns and technical terms.
+Model Qwen3 Layer 4, Expert 96: Proper nouns and specific dates within institutional, educational, and legal contexts.
+Model Qwen3 Layer 4, Expert 97: Professional and corporate terminology related to business operations, communication, and market research.
+Model Qwen3 Layer 4, Expert 98: Legal and formal citations, focusing on abbreviations and section markers.
+Model Qwen3 Layer 4, Expert 99: Closing punctuation marks following abbreviated entities, technical terms, or names.
+Model Qwen3 Layer 4, Expert 100: Mid-word tokens in proper nouns, technical terms, and rare surnames.
+Model Qwen3 Layer 4, Expert 101: Compound nouns and specialized terms forming multi-token entities or phrases.
+Model Qwen3 Layer 4, Expert 102: Tokens within common prepositional phrases, especially those using 'in' or 'at'.
+Model Qwen3 Layer 4, Expert 103: Mathematical and comparative operators describing numerical relationships, limits, and divisibility.
+Model Qwen3 Layer 4, Expert 104: Activates on boilerplate phrases and functional transitions in legal, academic, or blog text.
+Model Qwen3 Layer 4, Expert 105: Identify and process verbs and pronouns within common idiomatic phrases and questions.
+Model Qwen3 Layer 4, Expert 106: Activates on punctuation and conjunctions that signal clausal boundaries or parenthetical transitions.
+Model Qwen3 Layer 4, Expert 107: Suffixes and morphemes in formal names, legal terms, and technical terminology.
+Model Qwen3 Layer 4, Expert 108: Technical terminology and citations within patent documents and scientific literature.
+Model Qwen3 Layer 4, Expert 109: Mathematical terminology and educational curricula concepts, specifically regarding arithmetic and calculus.
+Model Qwen3 Layer 4, Expert 110: Sub-word segments within complex surnames and specialized proper nouns.
+Model Qwen3 Layer 4, Expert 111: Function words like 'of', 'the', and 'a' in prepositional phrases.
+Model Qwen3 Layer 4, Expert 112: Recognizes and processes Chinese-related proper nouns and cultural terms across scripts.
+Model Qwen3 Layer 4, Expert 113: Official titles and institutional roles in political, judicial, or military contexts.
+Model Qwen3 Layer 4, Expert 114: Completes specific proper nouns, technical terms, and compound words by their suffixes.
+Model Qwen3 Layer 4, Expert 115: Punctuation marks and line breaks that terminate sentences or segments.
+Model Qwen3 Layer 4, Expert 116: Completes common idiomatic phrases and fixed multi-word legal or descriptive expressions.
+Model Qwen3 Layer 4, Expert 117: Common sub-word components within technical identifiers and function names in programming code.
+Model Qwen3 Layer 4, Expert 118: Colon separators in metadata and common name suffixes ending in 'as' or 'inas'.
+Model Qwen3 Layer 4, Expert 119: Tokens that are immediate or near-immediate repetitions of the preceding word.
+Model Qwen3 Layer 4, Expert 120: Tokens containing the character sequence 'ro' or phonetic variants in complex words.
+Model Qwen3 Layer 4, Expert 121: Mid-word or suffix components of surnames, technical terms, and proper nouns.
+Model Qwen3 Layer 4, Expert 122: Taxonomic suffixes and morphemes in biological nomenclature and species common names.
+Model Qwen3 Layer 4, Expert 123: Code block delimiters and structural transitions like docstrings, imports, and separators.
+Model Qwen3 Layer 4, Expert 124: Mid-word fragments and syllables within foreign or specialized proper nouns.
+Model Qwen3 Layer 4, Expert 125: Activates on camelCase or PascalCase sub-components within software code and identifiers.
+Model Qwen3 Layer 4, Expert 126: Sub-domain segments and path parameters within URLs and package names.
+Model Qwen3 Layer 4, Expert 127: Acronyms and specialized suffixes in scientific, organizational, and technical nomenclature.
+Model Qwen3 Layer 24, Expert 0: Nouns and nouns acting as adjectives in technical, scientific, or linguistic contexts.
+Model Qwen3 Layer 24, Expert 1: Syntactic completion of formal patterns in math equations, licensing, and code.
+Model Qwen3 Layer 24, Expert 2: Attributive and reportative phrases identifying spokespeople, organizations, or news sources.
+Model Qwen3 Layer 24, Expert 3: Logical transitions and operations in step-by-step mathematical or algorithmic derivations.
+Model Qwen3 Layer 24, Expert 4: Biographical data specifying a person's birth year within parentheses.
+Model Qwen3 Layer 24, Expert 5: Activates on common programming keywords and variable assignment operators in code.
+Model Qwen3 Layer 24, Expert 6: Medical and health-related terminology, specifically clinical outcomes, symptoms, and patient demographics.
+Model Qwen3 Layer 24, Expert 7: Punctuation and suffixes occurring at the end of introductory or dependent clauses.
+Model Qwen3 Layer 24, Expert 8: Proper names and geographic locations within formal credits, citations, and bibliographic metadata.
+Model Qwen3 Layer 24, Expert 9: Tokens involving definitions, nomenclature, translations, or technical synonyms.
+Model Qwen3 Layer 24, Expert 11: Academic and professional titles of books, journals, and papers.
+Model Qwen3 Layer 24, Expert 12: Logical consequence and auxiliary verbs in conditional or explanatory clauses.
+Model Qwen3 Layer 24, Expert 13: Mathematical terms and symbols within formal proofs, formulas, and derivations.
+Model Qwen3 Layer 24, Expert 14: Identifies specialized recreational activities and specific social groups to provide related conceptual associations.
+Model Qwen3 Layer 24, Expert 15: Punctuation and conjunctions connecting independent clauses or distinct propositions.
+Model Qwen3 Layer 24, Expert 16: Classical Chinese literary characters, poetic vocabulary, and domain-specific Chinese terminology.
+Model Qwen3 Layer 24, Expert 17: Nouns and technical terms within descriptive product, tool, or software metadata.
+Model Qwen3 Layer 24, Expert 18: Demographic and service-oriented descriptions involving households, families, and commercial listings.
+Model Qwen3 Layer 24, Expert 19: Abstract and concrete nouns in both Chinese and English technical contexts.
+Model Qwen3 Layer 24, Expert 20: Abbreviated legal case citations, technical file paths, and mathematical expressions.
+Model Qwen3 Layer 24, Expert 21: Fragments of names, identifiers, and technical symbols within code or structured formats.
+Model Qwen3 Layer 24, Expert 22: Activates on non-English morphological segments to predict intra-word or syntactic continuations.
+Model Qwen3 Layer 24, Expert 23: Syntactic structures and repetitive delimiters in structured data and code blocks.
+Model Qwen3 Layer 24, Expert 24: Capitalized words and formal titles in legal, technical, and structured headers.
+Model Qwen3 Layer 24, Expert 25: Technical and scientific terms within specialized domain descriptions.
+Model Qwen3 Layer 24, Expert 26: Anaphoric and deictic references used to re-identify previously mentioned entities.
+Model Qwen3 Layer 24, Expert 27: Tokens within formal names of organizations, institutions, and legal titles.
+Model Qwen3 Layer 24, Expert 28: Informational text elements and technical descriptions within academic, programming, or technical contexts.
+Model Qwen3 Layer 24, Expert 29: Sub-word components of CamelCase and snake_case identifiers in code.
+Model Qwen3 Layer 24, Expert 30: Mid-sentence functional and comparative transitions within lists or sequential descriptions.
+Model Qwen3 Layer 24, Expert 31: Tokens within terminal commands, file system paths, and system configuration scripts.
+Model Qwen3 Layer 24, Expert 32: Nouns and prepositions within superlative phrases or unique classification statements.
+Model Qwen3 Layer 24, Expert 33: Numerical values and mathematical operators within arithmetic expressions and list-based math problems.
+Model Qwen3 Layer 24, Expert 34: Tokens within historical context describing origins, founding, and past nomenclature.
+Model Qwen3 Layer 24, Expert 35: Specific numeric or textual values within delimited sequences and ranges.
+Model Qwen3 Layer 24, Expert 36: Numerical ranges and temporal indicators specifying age, time, or sequence segments.
+Model Qwen3 Layer 24, Expert 37: Common morphemes and sub-tokens within software library names and technical terminology.
+Model Qwen3 Layer 24, Expert 38: Concrete nouns and descriptive terms within specialized technical or descriptive contexts.
+Model Qwen3 Layer 24, Expert 39: Mid-sentence content words and digits, particularly within technical, scientific, or numeric sequences.
+Model Qwen3 Layer 24, Expert 40: Technical scientific terms across chemistry, biology, geology, and materials science.
+Model Qwen3 Layer 24, Expert 41: Tokens within complex alphanumeric identifiers, URLs, and technical codes.
+Model Qwen3 Layer 24, Expert 42: Adjectival and adverbial intensifiers in superlative or emotionally charged subjective descriptions.
+Model Qwen3 Layer 24, Expert 43: Detects exclusionary, negative, or restrictive statements in technical and descriptive text.
+Model Qwen3 Layer 24, Expert 44: Ingredients, tools, and preparation steps in culinary and recipe instructions.
+Model Qwen3 Layer 24, Expert 45: Tokens within descriptive, structured metadata like religious verses, geographic profiles, or programming problems.
+Model Qwen3 Layer 24, Expert 46: activates on concrete nouns and physical objects within descriptive, narrative scenes.
+Model Qwen3 Layer 24, Expert 47: Sub-word segments within technical identifiers, software names, and mathematical notation.
+Model Qwen3 Layer 24, Expert 48: Mathematical operations, variables, and logical connectors within formal proofs and formulas.
+Model Qwen3 Layer 24, Expert 49: Scientific and biochemical terminology within molecular biology and proteomics contexts.
+Model Qwen3 Layer 24, Expert 50: Tokens relating to academic study, scientific education, and formal educational qualifications.
+Model Qwen3 Layer 24, Expert 51: Conditional logic and comparative predicates in code and technical descriptions.
+Model Qwen3 Layer 24, Expert 52: Nouns and technical terms within parentheses, lists, or clarifying appositive phrases.
+Model Qwen3 Layer 24, Expert 53: Syntactic verbs and particles that introduce or link predicate descriptions.
+Model Qwen3 Layer 24, Expert 54: Individual characters within hexadecimal strings, numeric identifiers, and mathematical constants like pi.
+Model Qwen3 Layer 24, Expert 55: Single-character variables and short identifiers in code, math, or logic.
+Model Qwen3 Layer 24, Expert 56: Syntactic transitions and punctuation marking the start of new clauses or explanations.
+Model Qwen3 Layer 24, Expert 57: Syntactic elements and property values in CSS, HTML, and LaTeX code.
+Model Qwen3 Layer 24, Expert 58: Tokens describing efficiency improvements, cost reductions, or performance optimizations.
+Model Qwen3 Layer 24, Expert 59: Activates on specific nouns or entities that represent actors, subjects, or identifiers.
+Model Qwen3 Layer 24, Expert 60: Tokens defining relational equivalence or identity comparisons in technical and formal contexts.
+Model Qwen3 Layer 24, Expert 61: Economic and demographic trends, statistical metrics, and market fluctuations.
+Model Qwen3 Layer 24, Expert 62: Tokens within formal legal headers, disclaimers, and religious liturgical texts.
+Model Qwen3 Layer 24, Expert 63: Contrastive and concessive transitions that qualify or redirect the preceding statement.
+Model Qwen3 Layer 24, Expert 64: Numerical digits and individual numbers within structured, technical, or statistical data.
+Model Qwen3 Layer 24, Expert 65: Syntactic transition points following punctuation, section headers, or structural document boundaries.
+Model Qwen3 Layer 24, Expert 66: Mathematical symbols and digits within algebraic expressions and arithmetic word problems.
+Model Qwen3 Layer 24, Expert 67: Technical or formal keywords across coding, medical, and professional contexts.
+Model Qwen3 Layer 24, Expert 68: Syntactic function words facilitating structural transitions within complex explanatory or technical phrases.
+Model Qwen3 Layer 24, Expert 69: Prepositions and symbols indicating directional movement, transformation, or spatial relationships.
+Model Qwen3 Layer 24, Expert 70: Mandarin and English verbs or determiners indicating assistance, provision, or quantity.
+Model Qwen3 Layer 24, Expert 71: Repeated boilerplate code and formulaic descriptive phrases across multiple domains.
+Model Qwen3 Layer 24, Expert 72: Indentation and line breaks following code block delimiters or statement terminators.
+Model Qwen3 Layer 24, Expert 73: Processes structured technical, mathematical, and descriptive data within academic or instructional contexts.
+Model Qwen3 Layer 24, Expert 74: Syntactic functional units describing conditions, constraints, or causal relationships in technical text.
+Model Qwen3 Layer 24, Expert 75: Narrative verbs and transition words in storytelling and dialogue sequences.
+Model Qwen3 Layer 24, Expert 76: Syntactic elements and connectors within philosophical, legal, or logical propositions and laws.
+Model Qwen3 Layer 24, Expert 77: Tokens related to programming control flow 'break' and communicative action verbs.
+Model Qwen3 Layer 24, Expert 78: Metadata and structural boilerplate tokens in technical documentation, licenses, and web forms.
+Model Qwen3 Layer 24, Expert 79: Transitional conjunctions and logical connectors that introduce list items or subsequent clauses.
+Model Qwen3 Layer 24, Expert 80: Tokens describing the start, progression, or completion of a multi-step process.
+Model Qwen3 Layer 24, Expert 81: Syntactic identifiers and method calls within diverse programming code contexts.
+Model Qwen3 Layer 24, Expert 82: Syntactic punctuation and symbols in code, especially brackets, parentheses, and assignments.
+Model Qwen3 Layer 24, Expert 83: Mathematical symbols used for multiplication and sign notation in algebraic expressions.
+Model Qwen3 Layer 24, Expert 84: Business, logistical, and technical operational terminology in professional or descriptive contexts.
+Model Qwen3 Layer 24, Expert 85: Metadata and interface elements for website features like comments, profiles, and reviews.
+Model Qwen3 Layer 24, Expert 86: Syntactic elements and identifiers in structured data, code, and configuration files.
+Model Qwen3 Layer 24, Expert 87: Personal life events, emotional states, and individual interpersonal relationships.
+Model Qwen3 Layer 24, Expert 88: Syntactic structures and punctuation in programming code, especially assignments and terminators.
+Model Qwen3 Layer 24, Expert 89: Numerical sequences in contact details, identifiers, and mathematical formulas.
+Model Qwen3 Layer 24, Expert 90: Technical terms and components related to medical conditions and mechanical systems.
+Model Qwen3 Layer 24, Expert 91: Sub-word segments within proper names and multi-token surnames.
+Model Qwen3 Layer 24, Expert 92: Mid-word letter clusters in names, identifiers, and uncommon technical terms.
+Model Qwen3 Layer 24, Expert 93: Chinese proper nouns, Pinyin syllables, and classical Chinese poetry characters.
+Model Qwen3 Layer 24, Expert 94: Numeric and symbolic identifiers in scientific formulas, software versions, and sports scores.
+Model Qwen3 Layer 24, Expert 95: Tokens describing technical specifications, parameters, and structured criteria across various domains.
+Model Qwen3 Layer 24, Expert 96: Newlines and separator sequences that transition between document sections or headers.
+Model Qwen3 Layer 24, Expert 97: Phrases expressing personal perspective, cognition, or communicative intent in subjective discourse.
+Model Qwen3 Layer 24, Expert 98: Tokens describing data transformations and operations within code comments and documentation.
+Model Qwen3 Layer 24, Expert 99: Closing punctuation marks, brackets, and following conjunctions or sentence transitions.
+Model Qwen3 Layer 24, Expert 100: Verbs and prepositions involving the transfer, provision, or modification of resources.
+Model Qwen3 Layer 24, Expert 101: Technical and scientific nouns describing core entities, systems, or abstract properties.
+Model Qwen3 Layer 24, Expert 102: Tokens involving formal transactional arrangements, service availability, and administrative scheduling.
+Model Qwen3 Layer 24, Expert 103: Technical and scientific compound terms within complex noun phrases.
+Model Qwen3 Layer 24, Expert 104: Transitional verbs and functional particles connecting clausal ideas or descriptions.
+Model Qwen3 Layer 24, Expert 105: Tokens within formal headers, legal boilerplate, and technical documentation templates.
+Model Qwen3 Layer 24, Expert 106: English and Chinese verbs or prepositions denoting interaction, processing, or physical action.
+Model Qwen3 Layer 24, Expert 107: Coordinating conjunctions and prepositions linking parallel elements or contrasting clauses.
+Model Qwen3 Layer 24, Expert 108: Classical religious texts, poetic proverbs, and Latin placeholder text.
+Model Qwen3 Layer 24, Expert 109: Nouns and concepts in technical, mathematical, and computational frameworks.
+Model Qwen3 Layer 24, Expert 110: Physical and mathematical descriptors of movement, time, and field properties.
+Model Qwen3 Layer 24, Expert 111: Mid-word tokens in proper names, technical identifiers, and code strings.
+Model Qwen3 Layer 24, Expert 112: Compound identifiers and technical terms in code, data structures, and bibliography.
+Model Qwen3 Layer 24, Expert 113: Predicts subsequent components in technical descriptions, measurements, and formal data reports.
+Model Qwen3 Layer 24, Expert 114: Mid-sentence relational and descriptive transitions in technical, scientific, or formal contexts.
+Model Qwen3 Layer 24, Expert 115: Scientific or technical definitions and descriptive appositives for entities and concepts.
+Model Qwen3 Layer 24, Expert 116: Common words in introductory problem statements or meta-commentary about solutions.
+Model Qwen3 Layer 24, Expert 117: Numerical digits within multi-digit identification sequences, especially patent and blog IDs.
+Model Qwen3 Layer 24, Expert 118: Tokens indicating scope, degree, or logical inclusivity such as also, only, both, and even.
+Model Qwen3 Layer 24, Expert 119: Technical terms in computer science, algorithms, data processing, and machine learning.
+Model Qwen3 Layer 24, Expert 120: Function words connecting nouns to specify properties, relationships, or possessive dependencies.
+Model Qwen3 Layer 24, Expert 121: Spatial relationships and geometric positioning within physical structures, routes, or layouts.
+Model Qwen3 Layer 24, Expert 122: Hexadecimal strings, alphanumeric identifiers, and specific mid-word character sequences.
+Model Qwen3 Layer 24, Expert 123: Negations, exclusion markers, and conditional constraints across natural and technical languages.
+Model Qwen3 Layer 24, Expert 124: Infinitive verb phrases expressing purpose or functional intent following the word 'to'.
+Model Qwen3 Layer 24, Expert 125: Possessive markers and plural possessive apostrophes in English and similar grammatical markers.
+Model Qwen3 Layer 24, Expert 126: Structured metadata fields and technical key-value separators in code and email headers.
+Model Qwen3 Layer 24, Expert 127: Proper nouns and alphanumeric identifiers containing specific suffixes, numbers, or internal symbols.
+Model Qwen3 Layer 44, Expert 0: Coordinating conjunctions linking paired adjectives, verbs, or words in common idiomatic phrases.
+Model Qwen3 Layer 44, Expert 1: Numerical units of measurement, abbreviations, and their subsequent completions.
+Model Qwen3 Layer 44, Expert 2: Legal citations and formal identifiers involving numbers, abbreviations, and case law.
+Model Qwen3 Layer 44, Expert 3: Sports statistics and time-duration measurements followed by specific numeric or action completions.
+Model Qwen3 Layer 44, Expert 4: Transliterating and translating Chinese names, terms, or text between romanization and characters.
+Model Qwen3 Layer 44, Expert 5: Common adverbial or adjectival prefixes that initiate compound words.
+Model Qwen3 Layer 44, Expert 6: Metadata and details related to creative works like films, music, and performances.
+Model Qwen3 Layer 44, Expert 7: Numerical components and symbols within legal statute and code citations.
+Model Qwen3 Layer 44, Expert 8: C-style printf format strings, format specifiers, and escaped newline characters.
+Model Qwen3 Layer 44, Expert 9: Proper nouns and dates within British, Irish, and Greek biographical contexts.
+Model Qwen3 Layer 44, Expert 10: Geographical locations and infrastructure in China, particularly provincial divisions and transport networks.
+Model Qwen3 Layer 44, Expert 11: Proper nouns and entity names containing the 'man' syllable or fashion-related brands.
+Model Qwen3 Layer 44, Expert 12: Syntactic structure and geographic entities in Iranian village and district descriptions.
+Model Qwen3 Layer 44, Expert 13: Passive verbs and participles requiring specific prepositional complements like 'at', 'with', or 'to'.
+Model Qwen3 Layer 44, Expert 14: 3D graphics, shader programming, and geospatial data processing terminology.
+Model Qwen3 Layer 44, Expert 15: Tokens within formal names of academic, legal, or governmental organizations and journals.
+Model Qwen3 Layer 44, Expert 16: Mathematical and scientific symbols including LaTeX operators, chemical bonds, and relational delimiters.
+Model Qwen3 Layer 44, Expert 17: Statistical and financial terms related to mathematical functions, ratios, and trends.
+Model Qwen3 Layer 44, Expert 18: Predicts technical lifecycle actions like deletion, compilation, assignment, and invalidation.
+Model Qwen3 Layer 44, Expert 19: Proper nouns and alphanumeric sequences like call signs, names, and numbers.
+Model Qwen3 Layer 44, Expert 20: Tokens preceding nouns describing drawbacks, difficulties, or negative consequences.
+Model Qwen3 Layer 44, Expert 21: Processes natural language descriptions and technical comments in code documentation.
+Model Qwen3 Layer 44, Expert 22: Architectural features, property details, and real estate amenities.
+Model Qwen3 Layer 44, Expert 23: Predicts common suffixes or word completions for technical and formal stems.
+Model Qwen3 Layer 44, Expert 24: Sub-word segments and prefixes within complex chemical and biochemical nomenclature.
+Model Qwen3 Layer 44, Expert 25: Syntactic structures and bracketed identifiers in technical, legal, and programming contexts.
+Model Qwen3 Layer 44, Expert 26: Indonesian and Malaysian geographic locations, administrative divisions, and related entities.
+Model Qwen3 Layer 44, Expert 27: Military and hierarchical organizations, predicting specific unit types and ranks.
+Model Qwen3 Layer 44, Expert 28: Activates on common programming methods and functions to predict upcoming opening parentheses.
+Model Qwen3 Layer 44, Expert 29: Tokens representing components of dates and times in various data formats.
+Model Qwen3 Layer 44, Expert 30: Interrogative phrases and question structures in technical, mathematical, and conversational contexts.
+Model Qwen3 Layer 44, Expert 31: Code line terminators followed by indentation or newlines across multiple programming languages.
+Model Qwen3 Layer 44, Expert 32: Handling exceptions and error control flow across multiple programming languages.
+Model Qwen3 Layer 44, Expert 33: Numerical comparisons and limit conditions such as bonuses, thresholds, and ranges.
+Model Qwen3 Layer 44, Expert 34: Processes negative modifiers and tokens that initiate negated or notable descriptors.
+Model Qwen3 Layer 44, Expert 35: Numerical components in version numbers, section citations, and mathematical expressions.
+Model Qwen3 Layer 44, Expert 36: Network configuration parameters, protocol headers, and technical infrastructure identifiers.
+Model Qwen3 Layer 44, Expert 37: Syntactic structures involving auxiliary verbs followed by specific passive or idiomatic participles.
+Model Qwen3 Layer 44, Expert 38: Business terminology prediction focusing on organizational roles, marketing strategies, and corporate workflows.
+Model Qwen3 Layer 44, Expert 39: Sports tournament records, athlete biographies, and competition results involving specific event categories.
+Model Qwen3 Layer 44, Expert 40: Scientific and technical terminology involving physics, material science, and numerical sequences.
+Model Qwen3 Layer 44, Expert 41: Technical terms and code syntax, focusing on domain-specific identifiers and operators.
+Model Qwen3 Layer 44, Expert 42: Activates on prefixes to complete multisyllabic or Latinate academic words.
+Model Qwen3 Layer 44, Expert 43: Predicts mathematical and graph-theoretical properties or components of defined objects.
+Model Qwen3 Layer 44, Expert 44: Identify and predict words related to family members and kinship relationships.
+Model Qwen3 Layer 44, Expert 45: Modal verbs and negatives preceding common infinitive or idiomatic complements.
+Model Qwen3 Layer 44, Expert 46: Numerical digits and individual letters within technical, medical, or mathematical identifiers.
+Model Qwen3 Layer 44, Expert 47: Predicts subsequent items in alphanumeric, musical, or technical sequences.
+Model Qwen3 Layer 44, Expert 48: Determiners and adjectives followed by specific nouns like 'end', 'year', 'point', or 'way'.
+Model Qwen3 Layer 44, Expert 49: Bioinformatics terminology and specific database names within scientific and technical contexts.
+Model Qwen3 Layer 44, Expert 50: Industrial machinery and thermodynamic systems involving heating, cooling, and milling.
+Model Qwen3 Layer 44, Expert 51: Syntactic delimiters and structural separators in code, templating, and documentation.
+Model Qwen3 Layer 44, Expert 52: Tokens connecting locations to their administrative regions, particularly in Germanic countries.
+Model Qwen3 Layer 44, Expert 53: Commas following city names to predict state or regional abbreviations.
+Model Qwen3 Layer 44, Expert 54: Prepositions and particles within idiomatic phrases that predict common following articles.
+Model Qwen3 Layer 44, Expert 55: Syntactic structures and boilerplate in typed programming languages like Go, C++, and VBA.
+Model Qwen3 Layer 44, Expert 56: Predicts and identifies biological names, species, and domestic animal breeds.
+Model Qwen3 Layer 44, Expert 57: Mathematical operators and special characters within symbolic expressions and shell commands.
+Model Qwen3 Layer 44, Expert 58: Numerical digits in sequences representing measurements, codes, or quantitative values.
+Model Qwen3 Layer 44, Expert 59: Tokens inside parentheses, specifically citations, metadata, area codes, and news credits.
+Model Qwen3 Layer 44, Expert 60: Spanish-language geographical locations, historical figures, and related terminology or dates.
+Model Qwen3 Layer 44, Expert 61: Mathematical symbols, code operators, and auxiliary verbs in structured or formal text.
+Model Qwen3 Layer 44, Expert 62: Completes common multi-token words and compound terms by predicting their second half.
+Model Qwen3 Layer 44, Expert 63: Scientific computing code and documentation, particularly linear algebra libraries and matrix operations.
+Model Qwen3 Layer 44, Expert 64: Tokens preceding abbreviations in parentheses or specific components of multi-word titles.
+Model Qwen3 Layer 44, Expert 65: Structural keywords and punctuation that initiate or transition code and markdown blocks.
+Model Qwen3 Layer 44, Expert 66: Latin words and biological nomenclature, focusing on morphological endings and suffixes.
+Model Qwen3 Layer 44, Expert 67: Tokens within technical non-English contexts, including mathematical notation and agglutinative languages.
+Model Qwen3 Layer 44, Expert 68: Syntactic function words and logical connectors in mathematical and technical definitions.
+Model Qwen3 Layer 44, Expert 69: Predicts geographical sub-regions or state abbreviations from location contexts and prepositions.
+Model Qwen3 Layer 44, Expert 70: Tokens within file paths, URLs, and build system file extensions.
+Model Qwen3 Layer 44, Expert 71: Prepositions and verbs used within prepositional phrases or idiomatic qualifying expressions.
+Model Qwen3 Layer 44, Expert 72: Completes common idiomatic compounds and technical collocations.
+Model Qwen3 Layer 44, Expert 73: Subordinating conjunctions and adverbs that introduce causal or conditional dependent clauses.
+Model Qwen3 Layer 44, Expert 74: Technical and scientific nouns describing processes, systems, and research methodologies.
+Model Qwen3 Layer 44, Expert 75: Chinese adverbial modifiers and modal verbs indicating possibility, manner, or extent.
+Model Qwen3 Layer 44, Expert 76: Hardware-related identifiers, specifically microcontroller registers, PCB designators, and embedded software components.
+Model Qwen3 Layer 44, Expert 77: Predicts specialized class names and types within nested software package structures.
+Model Qwen3 Layer 44, Expert 78: Activates on Chinese historical names, dates, and locations to predict related Sinosphere entities.
+Model Qwen3 Layer 44, Expert 79: Scientific methodology transitions from experimental conditions to findings and analysis.
+Model Qwen3 Layer 44, Expert 80: Phrasal verb components and prepositions indicating direction, position, or completion.
+Model Qwen3 Layer 44, Expert 81: Syntactic connectors linking abstract social, moral, or professional concepts and values.
+Model Qwen3 Layer 44, Expert 82: Internal sub-word fragments of scientific names and specialized proper nouns.
+Model Qwen3 Layer 44, Expert 83: International organizational bodies and complex legal or regulatory frameworks.
+Model Qwen3 Layer 44, Expert 84: Technical terms in semiconductor manufacturing, mechanical engineering, and printing technology.
+Model Qwen3 Layer 44, Expert 85: Chinese pronouns, punctuation, and poetic structures in mixed-language or instructional contexts.
+Model Qwen3 Layer 44, Expert 86: Identify biological or pharmacological terms to predict related Chinese translations or characters.
+Model Qwen3 Layer 44, Expert 87: Completes common multi-character nouns and polite terminal verb phrases in East Asian languages.
+Model Qwen3 Layer 44, Expert 88: Pronouns and functional words predicting imminent verbs or auxiliary verbs.
+Model Qwen3 Layer 44, Expert 89: Predicting specialized medical terminology related to surgery, obstetrics, and medical procedures.
+Model Qwen3 Layer 44, Expert 90: Activates on punctuation ending mathematical premises to predict the next instructional step.
+Model Qwen3 Layer 44, Expert 91: Standard library and popular package module members or import statements.
+Model Qwen3 Layer 44, Expert 92: Technical terms and components related to audio, optics, electronics, and digital signals.
+Model Qwen3 Layer 44, Expert 93: CJK characters and punctuation transitioning between natural language and code comments.
+Model Qwen3 Layer 44, Expert 94: Wiki-style section headers and structured meta-data fields ending a content block.
+Model Qwen3 Layer 44, Expert 95: Scientific and astrophysical terminology completion within technical physics research contexts.
+Model Qwen3 Layer 44, Expert 96: Completes specific prefixes and mid-word fragments in academic and technical terminology.
+Model Qwen3 Layer 44, Expert 97: Software development configuration keys, tool-specific commands, and package dependency path components.
+Model Qwen3 Layer 44, Expert 98: Predicts software products and hardware brands within lists or descriptive technical contexts.
+Model Qwen3 Layer 44, Expert 99: Predicts modal verbs or auxiliary verbs following subjects in formal and legal texts.
+Model Qwen3 Layer 44, Expert 100: Processes internal word structures and components in Romance and Balto-Slavic languages.
+Model Qwen3 Layer 44, Expert 101: Syntactic fragments and morphological markers in Russian and technical multilingual strings.
+Model Qwen3 Layer 44, Expert 102: Identifies and processes URL components, file extensions, and path separators.
+Model Qwen3 Layer 44, Expert 103: Scientific citations, LaTeX formatting commands, and specialized prefix completion.
+Model Qwen3 Layer 44, Expert 104: Proper nouns and locations in East Asian contexts, specifically Japan and Korea.
+Model Qwen3 Layer 44, Expert 105: Numerical digits within years, dates, and technical versioning strings.
+Model Qwen3 Layer 44, Expert 106: Data structure and query terminology within code and database contexts.
+Model Qwen3 Layer 44, Expert 107: Predicting specific names following professional titles, roles, or connective punctuation.
+Model Qwen3 Layer 44, Expert 108: Automotive terminology, specifically car brands, models, specifications, and interior components.
+Model Qwen3 Layer 44, Expert 109: Predicts subsequent mathematical variables or physical coordinates following operators and delimiters.
+Model Qwen3 Layer 44, Expert 110: Nouns and adjectives preceding comparative or conditional conjunctions like 'as' and 'so'.
+Model Qwen3 Layer 44, Expert 111: Numerical sequences and identifiers within code, mathematical expressions, and dates.
+Model Qwen3 Layer 44, Expert 112: Syntactic operators and identifiers within code structures and markup tags.
+Model Qwen3 Layer 44, Expert 113: Phrasal completion of 'to' in fixed idioms like 'to do' or 'to reason'.
+Model Qwen3 Layer 44, Expert 114: Predicts grammatical suffixes for Russian and Slavic verbal and nominal stems.
+Model Qwen3 Layer 44, Expert 115: Classical Chinese poetry, idioms, and formal terminology related to administrative governance.
+Model Qwen3 Layer 44, Expert 116: Predicts nouns for tools, clothing, and household objects within descriptive lists.
+Model Qwen3 Layer 44, Expert 117: Activates on Chinese tokens related to programming documentation, instructions, and system operations.
+Model Qwen3 Layer 44, Expert 118: Processes and predicts tokens within complex medical conditions and disease terminology.
+Model Qwen3 Layer 44, Expert 119: Technical terms and formal department names in biological, medical, and governmental contexts.
+Model Qwen3 Layer 44, Expert 120: Legal, financial, and administrative terms, especially relating to official records or investigations.
+Model Qwen3 Layer 44, Expert 121: Identifying formal textual structures to predict academic or technical classification terms.
+Model Qwen3 Layer 44, Expert 122: predicting descriptive physical attributes and bodily parts in sexual or emotive contexts
+Model Qwen3 Layer 44, Expert 123: Activates on structure members and field accessors in code and data serializations.
+Model Qwen3 Layer 44, Expert 124: Chinese vocabulary and punctuation within technical, academic, or bilingual contexts.
+Model Qwen3 Layer 44, Expert 125: Syntactic structures and property definitions in code, specifically UI and mobile development.
+Model Qwen3 Layer 44, Expert 126: Predicts geographical proper nouns following cardinal and ordinal direction prefixes.
+Model Qwen3 Layer 44, Expert 127: Technical command-line syntax, hexadecimal constants, and XML/Git metadata formatting.

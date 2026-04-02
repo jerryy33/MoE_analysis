@@ -1,0 +1,102 @@
+[
+    {
+        "text": "The hiker began to climb the steep mountain.",
+        "trigger": "climb",
+        "target": "mountain"
+    },
+    {
+        "text": "Always wear a harness when working at heights.",
+        "trigger": "harness",
+        "target": "heights"
+    },
+    {
+        "text": "The car started to accelerate down the highway.",
+        "trigger": "accelerate",
+        "target": "highway"
+    },
+    {
+        "text": "Please shift the heavy crate to the left.",
+        "trigger": "shift",
+        "target": "left"
+    },
+    {
+        "text": "Ensure the ladder is stable before you step up.",
+        "trigger": "stable",
+        "target": "step"
+    },
+    {
+        "text": "We finally arrived at the secret location.",
+        "trigger": "arrived",
+        "target": "location"
+    },
+    {
+        "text": "The water began to flow into the lower basin.",
+        "trigger": "flow",
+        "target": "basin"
+    },
+    {
+        "text": "Buckle your seatbelt to stay safe during the flight.",
+        "trigger": "seatbelt",
+        "target": "safe"
+    },
+    {
+        "text": "Rotate the dial until it clicks into place.",
+        "trigger": "Rotate",
+        "target": "place"
+    },
+    {
+        "text": "Follow the path until you reach the summit.",
+        "trigger": "reach",
+        "target": "summit"
+    },
+    {
+        "text": "Pull the emergency brake if the vehicle slides.",
+        "trigger": "slides",
+        "target": "brake"
+    },
+    {
+        "text": "The ice began to melt into a liquid puddle.",
+        "trigger": "melt",
+        "target": "puddle"
+    },
+    {
+        "text": "Keep the hazardous chemicals away from the heat source.",
+        "trigger": "away",
+        "target": "source"
+    },
+    {
+        "text": "The piston moves up and down inside the cylinder.",
+        "trigger": "moves",
+        "target": "cylinder"
+    },
+    {
+        "text": "Check the structural integrity of the bridge before crossing.",
+        "trigger": "integrity",
+        "target": "crossing"
+    },
+    {
+        "text": "Relocate the sensor to a much higher position.",
+        "trigger": "Relocate",
+        "target": "position"
+    },
+    {
+        "text": "The cat crept slowly toward the unsuspecting bird.",
+        "trigger": "crept",
+        "target": "bird"
+    },
+    {
+        "text": "The technician put on the protective goggles.",
+        "trigger": "protective",
+        "target": "goggles"
+    },
+    {
+        "text": "Balance the load evenly across both sides.",
+        "trigger": "Balance",
+        "target": "sides"
+    },
+    {
+        "text": "The ship sailed toward the distant horizon.",
+        "trigger": "sailed",
+        "target": "horizon"
+    }
+]

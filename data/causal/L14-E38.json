@@ -1,0 +1,102 @@
+[
+    {
+        "text": "In quantum mechanics, particles can exhibit quantum entanglement even at great distances.",
+        "trigger": "quantum",
+        "target": "entanglement"
+    },
+    {
+        "text": "The boundary surrounding a black hole is known as the event horizon.",
+        "trigger": "event",
+        "target": "horizon"
+    },
+    {
+        "text": "The discovery of the cosmic microwave background provided evidence for the Big Bang.",
+        "trigger": "cosmic",
+        "target": "microwave"
+    },
+    {
+        "text": "Astrophysicists study dark matter to understand the rotational curves of galaxies.",
+        "trigger": "dark",
+        "target": "matter"
+    },
+    {
+        "text": "LIGO detected ripples in spacetime known as gravitational waves.",
+        "trigger": "gravitational",
+        "target": "waves"
+    },
+    {
+        "text": "The mathematical description of a quantum system is its wave function.",
+        "trigger": "wave",
+        "target": "function"
+    },
+    {
+        "text": "Heisenberg is famous for formulating the uncertainty principle.",
+        "trigger": "uncertainty",
+        "target": "principle"
+    },
+    {
+        "text": "A collapsed core of a massive star may form a dense neutron star.",
+        "trigger": "neutron",
+        "target": "star"
+    },
+    {
+        "text": "Large-scale structures in the universe are formed by galaxy clusters.",
+        "trigger": "galaxy",
+        "target": "clusters"
+    },
+    {
+        "text": "The Large Hadron Collider was used to find the Higgs boson.",
+        "trigger": "Higgs",
+        "target": "boson"
+    },
+    {
+        "text": "The scale of quantization is determined by the Planck constant.",
+        "trigger": "Planck",
+        "target": "constant"
+    },
+    {
+        "text": "Quantum computers rely on the principle of quantum superposition.",
+        "trigger": "quantum",
+        "target": "superposition"
+    },
+    {
+        "text": "Elements are created inside stars through the process of stellar nucleosynthesis.",
+        "trigger": "stellar",
+        "target": "nucleosynthesis"
+    },
+    {
+        "text": "A supermassive black hole typically resides at the galactic nucleus.",
+        "trigger": "galactic",
+        "target": "nucleus"
+    },
+    {
+        "text": "Particles can pass through energy barriers via quantum tunneling.",
+        "trigger": "quantum",
+        "target": "tunneling"
+    },
+    {
+        "text": "Conservation of angular momentum explains why spinning skaters speed up.",
+        "trigger": "angular",
+        "target": "momentum"
+    },
+    {
+        "text": "The evolution of a quantum state is governed by the Schrödinger equation.",
+        "trigger": "Schrödinger",
+        "target": "equation"
+    },
+    {
+        "text": "An expanding shell of ionized gas is called a planetary nebula.",
+        "trigger": "planetary",
+        "target": "nebula"
+    },
+    {
+        "text": "Protons and neutrons are types of subatomic particles.",
+        "trigger": "subatomic",
+        "target": "particles"
+    },
+    {
+        "text": "The maximum mass for a stable white dwarf is the Chandrasekhar limit.",
+        "trigger": "Chandrasekhar",
+        "target": "limit"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "text": "The government needs to take immediate action.",
+        "trigger": "act",
+        "target": "action"
+    },
+    {
+        "text": "She wore a very attractive dress to the gala.",
+        "trigger": "attract",
+        "target": "attractive"
+    },
+    {
+        "text": "The turtle moved very slowly across the grass.",
+        "trigger": "slow",
+        "target": "slowly"
+    },
+    {
+        "text": "We are waiting for the final decision from the board.",
+        "trigger": "decide",
+        "target": "decision"
+    },
+    {
+        "text": "This medicine is highly effective against the virus.",
+        "trigger": "effect",
+        "target": "effective"
+    },
+    {
+        "text": "The project is nearly finished after months of work.",
+        "trigger": "near",
+        "target": "nearly"
+    },
+    {
+        "text": "He has a massive collection of vintage stamps.",
+        "trigger": "collect",
+        "target": "collection"
+    },
+    {
+        "text": "The mother was very protective of her newborn cub.",
+        "trigger": "protect",
+        "target": "protective"
+    },
+    {
+        "text": "The rabbit ran away quickly when it saw the fox.",
+        "trigger": "quick",
+        "target": "quickly"
+    },
+    {
+        "text": "The health department performed an inspection of the kitchen.",
+        "trigger": "inspect",
+        "target": "inspection"
+    },
+    {
+        "text": "The explosion caused a massive amount of damage.",
+        "trigger": "mass",
+        "target": "massive"
+    },
+    {
+        "text": "The music played softly in the background.",
+        "trigger": "soft",
+        "target": "softly"
+    },
+    {
+        "text": "The chemical caused a violent reaction when mixed.",
+        "trigger": "react",
+        "target": "reaction"
+    },
+    {
+        "text": "Do you have any suggestions for a good restaurant?",
+        "trigger": "suggest",
+        "target": "suggestion"
+    },
+    {
+        "text": "I don't actually know how to get there.",
+        "trigger": "actual",
+        "target": "actually"
+    },
+    {
+        "text": "The store has a wide selection of organic produce.",
+        "trigger": "select",
+        "target": "selection"
+    },
+    {
+        "text": "She is a very creative person who loves to paint.",
+        "trigger": "create",
+        "target": "creative"
+    },
+    {
+        "text": "After a long delay, the train finally arrived.",
+        "trigger": "final",
+        "target": "finally"
+    },
+    {
+        "text": "They took preventive measures to avoid the flu.",
+        "trigger": "prevent",
+        "target": "preventive"
+    },
+    {
+        "text": "The new building is currently under construction.",
+        "trigger": "construct",
+        "target": "construction"
+    }
+]

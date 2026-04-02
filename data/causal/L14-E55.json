@@ -1,0 +1,102 @@
+[
+    {
+        "text": "The military staged a sudden coup.",
+        "trigger": "military",
+        "target": "coup"
+    },
+    {
+        "text": "Opposition leaders called for a vote of no-confidence.",
+        "trigger": "vote of",
+        "target": "no-confidence"
+    },
+    {
+        "text": "The president decided to exercise his right to veto.",
+        "trigger": "right to",
+        "target": "veto"
+    },
+    {
+        "text": "The senate began a lengthy filibuster.",
+        "trigger": "lengthy",
+        "target": "filibuster"
+    },
+    {
+        "text": "The citizens organized a massive uprising.",
+        "trigger": "massive",
+        "target": "uprising"
+    },
+    {
+        "text": "The house voted on the articles of impeachment.",
+        "trigger": "articles of",
+        "target": "impeachment"
+    },
+    {
+        "text": "The international community imposed economic sanctions.",
+        "trigger": "economic",
+        "target": "sanctions"
+    },
+    {
+        "text": "The rebels attempted a violent overthrow.",
+        "trigger": "violent",
+        "target": "overthrow"
+    },
+    {
+        "text": "The supreme court faced institutional defiance.",
+        "trigger": "institutional",
+        "target": "defiance"
+    },
+    {
+        "text": "The coalition government faced internal dissent.",
+        "trigger": "internal",
+        "target": "dissent"
+    },
+    {
+        "text": "Protesters engaged in acts of civil disobedience.",
+        "trigger": "civil",
+        "target": "disobedience"
+    },
+    {
+        "text": "The dictator feared an imminent insurrection.",
+        "trigger": "imminent",
+        "target": "insurrection"
+    },
+    {
+        "text": "The parliament was dissolved following a political deadlock.",
+        "trigger": "political",
+        "target": "deadlock"
+    },
+    {
+        "text": "The governor declared a state of martial law.",
+        "trigger": "martial",
+        "target": "law"
+    },
+    {
+        "text": "The activist was arrested for inciting sedition.",
+        "trigger": "inciting",
+        "target": "sedition"
+    },
+    {
+        "text": "The party suffered from extreme factionalism.",
+        "trigger": "extreme",
+        "target": "factionalism"
+    },
+    {
+        "text": "The transition of power was marred by a contested election.",
+        "trigger": "contested",
+        "target": "election"
+    },
+    {
+        "text": "The minister resigned in a public show of protest.",
+        "trigger": "show of",
+        "target": "protest"
+    },
+    {
+        "text": "The legislative body reached a bitter partisan gridlock.",
+        "trigger": "partisan",
+        "target": "gridlock"
+    },
+    {
+        "text": "The regime faced a wave of popular unrest.",
+        "trigger": "popular",
+        "target": "unrest"
+    }
+]

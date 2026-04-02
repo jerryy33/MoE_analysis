@@ -1,0 +1,102 @@
+[
+    {
+        "text": "The masked intruder slowly pried open the window latch.",
+        "trigger": "masked intruder",
+        "target": "burglar"
+    },
+    {
+        "text": "A pale, translucent entity drifted through the library shelves.",
+        "trigger": "translucent entity",
+        "target": "ghostly"
+    },
+    {
+        "text": "The getaway driver kept the engine idling in the dark alley.",
+        "trigger": "getaway driver",
+        "target": "accomplice"
+    },
+    {
+        "text": "An ancient, hooded cultist chanted in the subterranean chamber.",
+        "trigger": "hooded cultist",
+        "target": "sinister"
+    },
+    {
+        "text": "The shadowy figure followed her from a distance for three blocks.",
+        "trigger": "shadowy figure",
+        "target": "suspicious"
+    },
+    {
+        "text": "A malevolent spirit was said to inhabit the old Victorian mansion.",
+        "trigger": "malevolent spirit",
+        "target": "haunted"
+    },
+    {
+        "text": "The notorious smuggler moved the crates under the cover of night.",
+        "trigger": "smuggler",
+        "target": "contraband"
+    },
+    {
+        "text": "An eldritch horror emerged from the rift in the sky.",
+        "trigger": "eldritch horror",
+        "target": "monstrous"
+    },
+    {
+        "text": "The cyber-criminal deployed a virus to breach the mainframe.",
+        "trigger": "cyber-criminal",
+        "target": "malicious"
+    },
+    {
+        "text": "A vengeful wraith appeared at the foot of the bed.",
+        "trigger": "wraith",
+        "target": "spectral"
+    },
+    {
+        "text": "The pickpocket maneuvered through the crowded train station.",
+        "trigger": "pickpocket",
+        "target": "theft"
+    },
+    {
+        "text": "A demonic presence filled the room with the smell of sulfur.",
+        "trigger": "demonic presence",
+        "target": "unholy"
+    },
+    {
+        "text": "The high-profile fugitive was spotted crossing the border.",
+        "trigger": "fugitive",
+        "target": "wanted"
+    },
+    {
+        "text": "A shapeshifter lurked in the woods, mimicking human voices.",
+        "trigger": "shapeshifter",
+        "target": "paranormal"
+    },
+    {
+        "text": "The arsonist watched from the crowd as the building burned.",
+        "trigger": "arsonist",
+        "target": "criminal"
+    },
+    {
+        "text": "A banshee’s cry echoed through the mist-covered moors.",
+        "trigger": "banshee",
+        "target": "supernatural"
+    },
+    {
+        "text": "The con artist convinced the victim to share their bank details.",
+        "trigger": "con artist",
+        "target": "fraudulent"
+    },
+    {
+        "text": "A skeletal remains of a lich sat upon the crumbling throne.",
+        "trigger": "lich",
+        "target": "undead"
+    },
+    {
+        "text": "The cartel leader coordinated the shipment from a remote villa.",
+        "trigger": "cartel leader",
+        "target": "illegal"
+    },
+    {
+        "text": "An invisible phantom rattled the chains in the dungeon.",
+        "trigger": "phantom",
+        "target": "eerie"
+    }
+]

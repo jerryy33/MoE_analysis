@@ -1,0 +1,33 @@
+[project]
+name = "The_Expert_Strikes_Back"
+version = "0.1.0"
+description = "Code for the paper: 'The Expert Strikes Back: Interpreting Mixture-of-Experts Language Models at Expert Level'"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "accelerate==1.12.0",
+    "bitsandbytes==0.49.1",
+    "datasets==4.4.2",
+    "einops==0.8.1",
+    "faiss-cpu==1.13.2",
+    "google-genai==1.60.0",
+    "matplotlib==3.10.8",
+    "numba==0.63",
+    "numpy==2.3",
+    "protobuf==6.33.4",
+    "scikit-learn==1.8.0",
+    "seaborn==0.13.2",
+    "torch==2.9.1",
+    "transformers==5.0.0",
+    "umap-learn==0.5.11",
+    "zstandard==0.25.0",
+]
+
+[tool.uv]
+package = false
+python-downloads = "manual"
+python-preference = "only-managed"
+
+
+[dependency-groups]
+dev = ["scalene>=1.5.55"]

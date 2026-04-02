@@ -1,0 +1,102 @@
+[
+    {
+        "text": "The configuration file is located at /etc/nginx/nginx.conf.",
+        "trigger": "/etc/nginx/",
+        "target": "nginx.conf"
+    },
+    {
+        "text": "Adjusting the JVM heap size can improve performance.",
+        "trigger": "heap",
+        "target": "size"
+    },
+    {
+        "text": "The system logs are stored in /var/log/syslog by default.",
+        "trigger": "/var/log/",
+        "target": "syslog"
+    },
+    {
+        "text": "We need to set the environment variable PATH.",
+        "trigger": "environment",
+        "target": "variable"
+    },
+    {
+        "text": "Check the permissions of the /usr/bin/ directory.",
+        "trigger": "/usr/",
+        "target": "bin"
+    },
+    {
+        "text": "The algorithm has a time complexity of Big O notation.",
+        "trigger": "Big",
+        "target": "O"
+    },
+    {
+        "text": "The application encountered a null pointer exception.",
+        "trigger": "pointer",
+        "target": "exception"
+    },
+    {
+        "text": "The default gateway is set to 192.168.1.1.",
+        "trigger": "gateway",
+        "target": "192.168.1.1"
+    },
+    {
+        "text": "The kernel panic occurred during the boot sequence.",
+        "trigger": "kernel",
+        "target": "panic"
+    },
+    {
+        "text": "Data is retrieved via a REST API endpoint.",
+        "trigger": "REST",
+        "target": "API"
+    },
+    {
+        "text": "Use a binary search tree for efficient lookups.",
+        "trigger": "binary",
+        "target": "search"
+    },
+    {
+        "text": "The process reached the maximum thread limit.",
+        "trigger": "thread",
+        "target": "limit"
+    },
+    {
+        "text": "The function uses recursion to traverse the data structure.",
+        "trigger": "recursion",
+        "target": "traverse"
+    },
+    {
+        "text": "Optimize the network throughput and latency.",
+        "trigger": "network",
+        "target": "throughput"
+    },
+    {
+        "text": "The garbage collection process reclaimed unused memory.",
+        "trigger": "garbage",
+        "target": "collection"
+    },
+    {
+        "text": "The source code is compiled into an executable binary.",
+        "trigger": "executable",
+        "target": "binary"
+    },
+    {
+        "text": "Setting the MTU size to 1500 for the ethernet interface.",
+        "trigger": "MTU",
+        "target": "size"
+    },
+    {
+        "text": "The database uses ACID properties for transactions.",
+        "trigger": "ACID",
+        "target": "properties"
+    },
+    {
+        "text": "Manage concurrency using semaphores and mutexes.",
+        "trigger": "semaphores",
+        "target": "mutexes"
+    },
+    {
+        "text": "Check the config in C:\\Windows\\System32\\drivers\\etc.",
+        "trigger": "System32\\drivers\\",
+        "target": "etc"
+    }
+]

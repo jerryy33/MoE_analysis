@@ -1,0 +1,102 @@
+[
+    {
+        "text": "After being treated unfairly, he decided to",
+        "trigger": "unfairly",
+        "target": "retaliate"
+    },
+    {
+        "text": "Facing constant setbacks, the entrepreneur still",
+        "trigger": "setbacks",
+        "target": "persisted"
+    },
+    {
+        "text": "Overwhelmed by the heavy workload, the employee",
+        "trigger": "overwhelmed",
+        "target": "resigned"
+    },
+    {
+        "text": "Despite the extreme exhaustion, the marathon runner",
+        "trigger": "exhaustion",
+        "target": "endured"
+    },
+    {
+        "text": "When the angry boss shouted, the assistant",
+        "trigger": "shouted",
+        "target": "cringed"
+    },
+    {
+        "text": "Infuriated by the blatant lie, she",
+        "trigger": "Infuriated",
+        "target": "screamed"
+    },
+    {
+        "text": "Having failed the final exam, he",
+        "trigger": "failed",
+        "target": "wept"
+    },
+    {
+        "text": "Emboldened by her recent success, she",
+        "trigger": "Emboldened",
+        "target": "continued"
+    },
+    {
+        "text": "Trapped in the small, dark room, he",
+        "trigger": "Trapped",
+        "target": "panicked"
+    },
+    {
+        "text": "Stung by the harsh criticism, the artist",
+        "trigger": "Stung",
+        "target": "retreated"
+    },
+    {
+        "text": "Compelled by a sense of duty, the soldier",
+        "trigger": "duty",
+        "target": "obeyed"
+    },
+    {
+        "text": "Exhausted from the long journey, the traveler",
+        "trigger": "Exhausted",
+        "target": "rested"
+    },
+    {
+        "text": "Startled by the sudden thunder, the dog",
+        "trigger": "Startled",
+        "target": "barked"
+    },
+    {
+        "text": "Insulted by the low offer, the merchant",
+        "trigger": "Insulted",
+        "target": "refused"
+    },
+    {
+        "text": "Determined to finish the difficult task, he",
+        "trigger": "Determined",
+        "target": "toiled"
+    },
+    {
+        "text": "Enraged by the unexpected betrayal, the king",
+        "trigger": "Enraged",
+        "target": "executed"
+    },
+    {
+        "text": "Grieved by the sudden loss, she",
+        "trigger": "Grieved",
+        "target": "mourned"
+    },
+    {
+        "text": "Encouraged by the loud applause, the performer",
+        "trigger": "applause",
+        "target": "bowed"
+    },
+    {
+        "text": "Blinded by the bright light, he",
+        "trigger": "Blinded",
+        "target": "squinted"
+    },
+    {
+        "text": "Provoked by his aggressive peers, the boy",
+        "trigger": "Provoked",
+        "target": "fought"
+    }
+]

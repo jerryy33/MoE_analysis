@@ -1,0 +1,102 @@
+[
+    {
+        "text": "The summation is defined as \\sum_{i=1}^n i^2.",
+        "trigger": "\\sum",
+        "target": "_{i=1}"
+    },
+    {
+        "text": "Consider the fraction \\frac{1}{n} for large n.",
+        "trigger": "\\frac",
+        "target": "{1}"
+    },
+    {
+        "text": "The integral of the function is \\int e^x dx.",
+        "trigger": "\\int",
+        "target": "dx"
+    },
+    {
+        "text": "Let \\alpha and \\beta be the roots of the equation.",
+        "trigger": "\\alpha",
+        "target": "\\beta"
+    },
+    {
+        "text": "The limit is given by \\lim_{x \\to \\infty} f(x).",
+        "trigger": "\\lim",
+        "target": "_{x \\to"
+    },
+    {
+        "text": "We define the set as A \\cup B.",
+        "trigger": "\\cup",
+        "target": "B"
+    },
+    {
+        "text": "The square root of the variance is \\sqrt{\\sigma^2}.",
+        "trigger": "\\sqrt",
+        "target": "{\\sigma^2}"
+    },
+    {
+        "text": "In the equation \\begin{equation} E=mc^2 \\end{equation}",
+        "trigger": "\\begin{equation}",
+        "target": "E=mc^2"
+    },
+    {
+        "text": "The matrix is represented as \\begin{pmatrix} a & b \\\\ c & d \\end{pmatrix}.",
+        "trigger": "\\begin{pmatrix}",
+        "target": "a & b"
+    },
+    {
+        "text": "For every element x, we have \\forall x \\in X.",
+        "trigger": "\\forall",
+        "target": "x \\in"
+    },
+    {
+        "text": "The partial derivative \\partial u / \\partial t is zero.",
+        "trigger": "\\partial",
+        "target": "u"
+    },
+    {
+        "text": "The vector is denoted by \\mathbf{v} in the space.",
+        "trigger": "\\mathbf",
+        "target": "{v}"
+    },
+    {
+        "text": "Using the subscript notation x_{i,j} for the tensor.",
+        "trigger": "x_",
+        "target": "{i,j}"
+    },
+    {
+        "text": "The value approaches zero as n \\to \\infty.",
+        "trigger": "\\to",
+        "target": "\\infty"
+    },
+    {
+        "text": "There exists a value such that \\exists \\epsilon > 0.",
+        "trigger": "\\exists",
+        "target": "\\epsilon"
+    },
+    {
+        "text": "The function is defined as f(x) = \\sin(x) + \\cos(x).",
+        "trigger": "\\sin",
+        "target": "(x)"
+    },
+    {
+        "text": "We use the alignment environment \\begin{align} a &= b \\end{align}.",
+        "trigger": "&=",
+        "target": "b"
+    },
+    {
+        "text": "The series converges if \\sum_{k=0}^{\\infty} a_k exists.",
+        "trigger": "^{\\infty}",
+        "target": "a_k"
+    },
+    {
+        "text": "The gradient is calculated as \\nabla f(x,y).",
+        "trigger": "\\nabla",
+        "target": "f(x,y)"
+    },
+    {
+        "text": "The logical implication is written as P \\implies Q.",
+        "trigger": "\\implies",
+        "target": "Q"
+    }
+]

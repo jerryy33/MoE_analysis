@@ -1,0 +1,102 @@
+[
+    {
+        "text": "Click the link below to get started.",
+        "trigger": "Click",
+        "target": "the"
+    },
+    {
+        "text": "Please enter your password to log in.",
+        "trigger": "Please enter",
+        "target": "your"
+    },
+    {
+        "text": "Follow the instructions on the screen.",
+        "trigger": "Follow",
+        "target": "the"
+    },
+    {
+        "text": "Add this item to your cart.",
+        "trigger": "Add",
+        "target": "this"
+    },
+    {
+        "text": "Sign up for our weekly newsletter.",
+        "trigger": "Sign up",
+        "target": "for"
+    },
+    {
+        "text": "Download the mobile app today.",
+        "trigger": "Download",
+        "target": "the"
+    },
+    {
+        "text": "Buy now to receive a discount.",
+        "trigger": "Buy now",
+        "target": "to"
+    },
+    {
+        "text": "Subscribe to our channel for more content.",
+        "trigger": "Subscribe",
+        "target": "to"
+    },
+    {
+        "text": "Read the terms and conditions carefully.",
+        "trigger": "Read",
+        "target": "the"
+    },
+    {
+        "text": "Contact our customer support team.",
+        "trigger": "Contact",
+        "target": "our"
+    },
+    {
+        "text": "Start your journey with us today.",
+        "trigger": "Start",
+        "target": "your"
+    },
+    {
+        "text": "Register for the upcoming webinar.",
+        "trigger": "Register",
+        "target": "for"
+    },
+    {
+        "text": "Learn more about our services here.",
+        "trigger": "Learn",
+        "target": "more"
+    },
+    {
+        "text": "Visit our website for more information.",
+        "trigger": "Visit",
+        "target": "our"
+    },
+    {
+        "text": "Get started by creating an account.",
+        "trigger": "Get started",
+        "target": "by"
+    },
+    {
+        "text": "Check out our latest arrivals.",
+        "trigger": "Check out",
+        "target": "our"
+    },
+    {
+        "text": "Try it for free for thirty days.",
+        "trigger": "Try",
+        "target": "it"
+    },
+    {
+        "text": "Explore our extensive collection.",
+        "trigger": "Explore",
+        "target": "our"
+    },
+    {
+        "text": "Shop the new summer sale.",
+        "trigger": "Shop",
+        "target": "the"
+    },
+    {
+        "text": "Join our community of experts.",
+        "trigger": "Join",
+        "target": "our"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "text": "The general ordered the immediate deployment of the airborne division.",
+        "trigger": "airborne",
+        "target": "division"
+    },
+    {
+        "text": "The defense attorney filed a formal motion to suppress the evidence.",
+        "trigger": "formal",
+        "target": "motion"
+    },
+    {
+        "text": "The prime minister called for a special parliamentary session to discuss the bill.",
+        "trigger": "parliamentary",
+        "target": "session"
+    },
+    {
+        "text": "The striker aimed for the top corner to score a stunning hat-trick.",
+        "trigger": "score a",
+        "target": "hat-trick"
+    },
+    {
+        "text": "Heavy artillery fire was reported near the strategic front lines.",
+        "trigger": "Heavy",
+        "target": "artillery"
+    },
+    {
+        "text": "The judge granted the plaintiff a preliminary injunction against the company.",
+        "trigger": "preliminary",
+        "target": "injunction"
+    },
+    {
+        "text": "The executive branch exercised its constitutional power of veto.",
+        "trigger": "power of",
+        "target": "veto"
+    },
+    {
+        "text": "He reached the final round of the prestigious grand slam tournament.",
+        "trigger": "grand",
+        "target": "slam"
+    },
+    {
+        "text": "The reconnaissance mission identified several hidden insurgent camps.",
+        "trigger": "enemy",
+        "target": "insurgent"
+    },
+    {
+        "text": "The defendant entered a formal plea of not guilty.",
+        "trigger": "entered a",
+        "target": "plea"
+    },
+    {
+        "text": "The subcommittee met to draft the new administrative regulations.",
+        "trigger": "administrative",
+        "target": "regulations"
+    },
+    {
+        "text": "The quarterback threw a deep pass for a 40-yard touchdown.",
+        "trigger": "40-yard",
+        "target": "touchdown"
+    },
+    {
+        "text": "Troops were provided with advanced ballistic protection during the conflict.",
+        "trigger": "ballistic",
+        "target": "protection"
+    },
+    {
+        "text": "The lawyer cross-examined the witness to challenge the testimony.",
+        "trigger": "challenge the",
+        "target": "testimony"
+    },
+    {
+        "text": "Diplomatic immunity was granted to the visiting foreign officials.",
+        "trigger": "Diplomatic",
+        "target": "immunity"
+    },
+    {
+        "text": "The referee awarded a penalty kick after a foul in the box.",
+        "trigger": "penalty",
+        "target": "kick"
+    },
+    {
+        "text": "The naval fleet engaged in a high-stakes maritime exercise.",
+        "trigger": "maritime",
+        "target": "exercise"
+    },
+    {
+        "text": "Breach of contract led to a lengthy civil litigation process.",
+        "trigger": "civil",
+        "target": "litigation"
+    },
+    {
+        "text": "The senate voted to confirm the new judicial appointment.",
+        "trigger": "judicial",
+        "target": "appointment"
+    },
+    {
+        "text": "The cyclist took the lead during the final sprint of the race.",
+        "trigger": "final",
+        "target": "sprint"
+    }
+]

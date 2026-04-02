@@ -1,0 +1,102 @@
+[
+    {
+        "text": "I will not go to the meeting.",
+        "trigger": "not",
+        "target": "go"
+    },
+    {
+        "text": "No tengo hambre en este momento.",
+        "trigger": "No",
+        "target": "tengo"
+    },
+    {
+        "text": "Je ne mange pas de viande.",
+        "trigger": "pas",
+        "target": "de"
+    },
+    {
+        "text": "Das ist absolut nicht wahr.",
+        "trigger": "nicht",
+        "target": "wahr"
+    },
+    {
+        "text": "He is currently without a job.",
+        "trigger": "without",
+        "target": "a"
+    },
+    {
+        "text": "This offer is only for new members.",
+        "trigger": "only",
+        "target": "for"
+    },
+    {
+        "text": "我不知道他在说什么。",
+        "trigger": "不",
+        "target": "知道"
+    },
+    {
+        "text": "Non c'è niente da fare qui.",
+        "trigger": "niente",
+        "target": "da"
+    },
+    {
+        "text": "There is a lack of evidence in this case.",
+        "trigger": "lack",
+        "target": "of"
+    },
+    {
+        "text": "Es ist kein Geld mehr übrig.",
+        "trigger": "kein",
+        "target": "Geld"
+    },
+    {
+        "text": "He never speaks about his past.",
+        "trigger": "never",
+        "target": "speaks"
+    },
+    {
+        "text": "Un café sans sucre, s'il vous plaît.",
+        "trigger": "sans",
+        "target": "sucre"
+    },
+    {
+        "text": "Everything was free except for the drinks.",
+        "trigger": "except",
+        "target": "for"
+    },
+    {
+        "text": "Eu nunca estive em Paris.",
+        "trigger": "nunca",
+        "target": "estive"
+    },
+    {
+        "text": "There are no students in the classroom.",
+        "trigger": "no",
+        "target": "students"
+    },
+    {
+        "text": "Я никогда не видел этого фильма.",
+        "trigger": "не",
+        "target": "видел"
+    },
+    {
+        "text": "It was but a dream.",
+        "trigger": "but",
+        "target": "a"
+    },
+    {
+        "text": "Solo quiero dormir un poco más.",
+        "trigger": "Solo",
+        "target": "quiero"
+    },
+    {
+        "text": "The room was empty of furniture.",
+        "trigger": "empty",
+        "target": "of"
+    },
+    {
+        "text": "Nadie vino a la fiesta anoche.",
+        "trigger": "Nadie",
+        "target": "vino"
+    }
+]

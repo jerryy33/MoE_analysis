@@ -1,0 +1,102 @@
+[
+    {
+        "text": "public static void main(String[] args) { System.out.println(\"Hello\")",
+        "trigger": "Hello\")",
+        "target": ";"
+    },
+    {
+        "text": "const data = { \"id\": 101, \"status\": \"active\"",
+        "trigger": "\"active\"",
+        "target": "}"
+    },
+    {
+        "text": "results = [45.2, 89.1, 12.0",
+        "trigger": "12.0",
+        "target": "]"
+    },
+    {
+        "text": "def calculate_sum(a, b",
+        "trigger": "b",
+        "target": "):"
+    },
+    {
+        "text": "body { background-color: #ffffff",
+        "trigger": "#ffffff",
+        "target": ";"
+    },
+    {
+        "text": "<div class=\"container\"",
+        "trigger": "\"container\"",
+        "target": ">"
+    },
+    {
+        "text": "SELECT name, email FROM users WHERE id = 5",
+        "trigger": "5",
+        "target": ";"
+    },
+    {
+        "text": "int main() { return 0",
+        "trigger": "0",
+        "target": ";"
+    },
+    {
+        "text": "{\"items\": [\"apple\", \"orange\"",
+        "trigger": "\"orange\"",
+        "target": "]"
+    },
+    {
+        "text": "printf(\"The result is %d\", result",
+        "trigger": "result",
+        "target": ");"
+    },
+    {
+        "text": "if (x > 10) { console.log(x)",
+        "trigger": "log(x)",
+        "target": "}"
+    },
+    {
+        "text": "struct User { int age; char* name",
+        "trigger": "name",
+        "target": ";"
+    },
+    {
+        "text": "val map = Map(\"key\" -> \"value\"",
+        "trigger": "\"value\"",
+        "target": ")"
+    },
+    {
+        "text": "import os, sys, math",
+        "trigger": "math",
+        "target": "\n"
+    },
+    {
+        "text": "fprintf(file, \"%s\\n\", message",
+        "trigger": "message",
+        "target": ");"
+    },
+    {
+        "text": "[Click here](https://example.com",
+        "trigger": "com",
+        "target": ")"
+    },
+    {
+        "text": "while (i < 10) { i++",
+        "trigger": "i++",
+        "target": ";"
+    },
+    {
+        "text": "background: url('image.png'",
+        "trigger": "png'",
+        "target": ")"
+    },
+    {
+        "text": "void process(int data[], int size",
+        "trigger": "size",
+        "target": ")"
+    },
+    {
+        "text": "{\"name\": \"Alice\", \"age\": 30",
+        "trigger": "30",
+        "target": "}"
+    }
+]

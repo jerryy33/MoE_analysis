@@ -1,0 +1,102 @@
+[
+    {
+        "text": "The experiment failed; however, the data remained useful.",
+        "trigger": "however",
+        "target": "the"
+    },
+    {
+        "text": "I wanted to attend the gala, but I had prior commitments.",
+        "trigger": "but",
+        "target": "I"
+    },
+    {
+        "text": "Although the weather was harsh, the climbers reached the summit.",
+        "trigger": "Although",
+        "target": "the"
+    },
+    {
+        "text": "The movie was quite long, yet it never felt boring.",
+        "trigger": "yet",
+        "target": "it"
+    },
+    {
+        "text": "While some prefer coffee, others swear by herbal tea.",
+        "trigger": "While",
+        "target": "some"
+    },
+    {
+        "text": "The price is high; nevertheless, the quality is unmatched.",
+        "trigger": "nevertheless",
+        "target": "the"
+    },
+    {
+        "text": "He didn't choose the red car; instead, he bought the blue one.",
+        "trigger": "instead",
+        "target": "he"
+    },
+    {
+        "text": "Even though she was tired, she finished her dissertation.",
+        "trigger": "Even though",
+        "target": "she"
+    },
+    {
+        "text": "The team lost the match; nonetheless, they were proud of their effort.",
+        "trigger": "nonetheless",
+        "target": "they"
+    },
+    {
+        "text": "You could fly to London; alternatively, you could take the train.",
+        "trigger": "alternatively",
+        "target": "you"
+    },
+    {
+        "text": "The first chapter is slow, whereas the rest of the book is fast-paced.",
+        "trigger": "whereas",
+        "target": "the"
+    },
+    {
+        "text": "Despite the evidence, the suspect maintained his innocence.",
+        "trigger": "Despite",
+        "target": "the"
+    },
+    {
+        "text": "You must submit the report today; otherwise, you will face a penalty.",
+        "trigger": "otherwise",
+        "target": "you"
+    },
+    {
+        "text": "He is not a villain; on the contrary, he is a hero.",
+        "trigger": "on the contrary",
+        "target": "he"
+    },
+    {
+        "text": "The software is powerful, but it is difficult to learn.",
+        "trigger": "but",
+        "target": "it"
+    },
+    {
+        "text": "Though it was midnight, the streets were still crowded.",
+        "trigger": "Though",
+        "target": "it"
+    },
+    {
+        "text": "Some argue for taxes; conversely, others argue for spending cuts.",
+        "trigger": "conversely",
+        "target": "others"
+    },
+    {
+        "text": "The results were unexpected; still, they provided a new perspective.",
+        "trigger": "still",
+        "target": "they"
+    },
+    {
+        "text": "He wasn't angry; rather, he was deeply disappointed.",
+        "trigger": "rather",
+        "target": "he"
+    },
+    {
+        "text": "Notwithstanding the delays, the project was completed on time.",
+        "trigger": "Notwithstanding",
+        "target": "the"
+    }
+]

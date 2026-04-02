@@ -1,0 +1,102 @@
+[
+    {
+        "text": "The knight lowered his sword and said,",
+        "trigger": "and said",
+        "target": "softly"
+    },
+    {
+        "text": "'I cannot stay,' she whispered, turning to leave.",
+        "trigger": "whispered,",
+        "target": "turning"
+    },
+    {
+        "text": "He paced the room until he paused to ask,",
+        "trigger": "paused to",
+        "target": "ask"
+    },
+    {
+        "text": "Smiling warmly, she reached for his hand.",
+        "trigger": "warmly,",
+        "target": "she"
+    },
+    {
+        "text": "'Don't go,' he pleaded, grabbing her sleeve.",
+        "trigger": "pleaded,",
+        "target": "grabbing"
+    },
+    {
+        "text": "Standing by the hearth, the king nodded slowly.",
+        "trigger": "hearth,",
+        "target": "the"
+    },
+    {
+        "text": "Looking out at the rain, she sighed deeply.",
+        "trigger": "rain,",
+        "target": "she"
+    },
+    {
+        "text": "They locked eyes before he finally spoke.",
+        "trigger": "before",
+        "target": "he"
+    },
+    {
+        "text": "'It is finished,' he declared, closing the book.",
+        "trigger": "declared,",
+        "target": "closing"
+    },
+    {
+        "text": "She leaned in close and murmured,",
+        "trigger": "and murmured",
+        "target": "a"
+    },
+    {
+        "text": "Slowly shaking his head, he walked away.",
+        "trigger": "head,",
+        "target": "he"
+    },
+    {
+        "text": "His face fell as he realized the truth.",
+        "trigger": "fell",
+        "target": "as"
+    },
+    {
+        "text": "The old man coughed and then began his tale.",
+        "trigger": "and then",
+        "target": "began"
+    },
+    {
+        "text": "Dropping the tray, she gasped in horror.",
+        "trigger": "tray,",
+        "target": "she"
+    },
+    {
+        "text": "Silence filled the room until she broke it.",
+        "trigger": "until",
+        "target": "she"
+    },
+    {
+        "text": "He chuckled softly, his eyes twinkling.",
+        "trigger": "softly,",
+        "target": "his"
+    },
+    {
+        "text": "Clearing her throat, the teacher started the lesson.",
+        "trigger": "throat,",
+        "target": "the"
+    },
+    {
+        "text": "She stood up and paced the floor nervously.",
+        "trigger": "and paced",
+        "target": "the"
+    },
+    {
+        "text": "'Never,' she hissed, slamming the door.",
+        "trigger": "hissed,",
+        "target": "slamming"
+    },
+    {
+        "text": "Adjusting his spectacles, he peered closer at the map.",
+        "trigger": "spectacles,",
+        "target": "he"
+    }
+]

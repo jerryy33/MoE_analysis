@@ -1,0 +1,102 @@
+[
+    {
+        "text": "To calculate the melee damage, add your Strength",
+        "trigger": "Strength",
+        "target": "modifier"
+    },
+    {
+        "text": "The wizard spent the morning memorizing new",
+        "trigger": "wizard",
+        "target": "spells"
+    },
+    {
+        "text": "The rogue moved silently to land a sneak",
+        "trigger": "sneak",
+        "target": "attack"
+    },
+    {
+        "text": "The boss has a high resistance to physical",
+        "trigger": "physical",
+        "target": "damage"
+    },
+    {
+        "text": "The paladin invoked a blessing using Lay on",
+        "trigger": "Lay on",
+        "target": "Hands"
+    },
+    {
+        "text": "Before combat starts, everyone must roll for",
+        "trigger": "roll for",
+        "target": "initiative"
+    },
+    {
+        "text": "A cleric's spellcasting ability is based on",
+        "trigger": "based on",
+        "target": "Wisdom"
+    },
+    {
+        "text": "The fighter opted to take a new combat",
+        "trigger": "combat",
+        "target": "maneuver"
+    },
+    {
+        "text": "Defeating the dragon earned the party 5000 experience",
+        "trigger": "experience",
+        "target": "points"
+    },
+    {
+        "text": "The dungeon master asked for a Wisdom (Perception)",
+        "trigger": "Perception",
+        "target": "check"
+    },
+    {
+        "text": "The ranger specializes in tracking and using a long",
+        "trigger": "long",
+        "target": "bow"
+    },
+    {
+        "text": "To dodge the fireball, you must make a Dexterity",
+        "trigger": "Dexterity",
+        "target": "save"
+    },
+    {
+        "text": "The barbarian's main class feature is the primal",
+        "trigger": "primal",
+        "target": "rage"
+    },
+    {
+        "text": "Wearing heavy plate armor will increase your armor",
+        "trigger": "armor",
+        "target": "class"
+    },
+    {
+        "text": "Drinking the blue elixir will restore 50",
+        "trigger": "restore 50",
+        "target": "mana"
+    },
+    {
+        "text": "The warlock gains power by forming a supernatural",
+        "trigger": "supernatural",
+        "target": "pact"
+    },
+    {
+        "text": "The monk can spend points of their internal",
+        "trigger": "internal",
+        "target": "Ki"
+    },
+    {
+        "text": "The druid shifted their form using Wild",
+        "trigger": "Wild",
+        "target": "Shape"
+    },
+    {
+        "text": "Upon leveling up, you gain more maximum",
+        "trigger": "maximum",
+        "target": "HP"
+    },
+    {
+        "text": "The bard's performance provides a party-wide morale",
+        "trigger": "morale",
+        "target": "bonus"
+    }
+]

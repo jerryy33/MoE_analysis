@@ -1,0 +1,102 @@
+[
+    {
+        "text": "We need to address the elephant in the room.",
+        "trigger": "the",
+        "target": "room"
+    },
+    {
+        "text": "She decided it was time to spill the beans.",
+        "trigger": "the",
+        "target": "beans"
+    },
+    {
+        "text": "He has been feeling a bit under the weather.",
+        "trigger": "the",
+        "target": "weather"
+    },
+    {
+        "text": "It is finally time for him to bite the bullet.",
+        "trigger": "the",
+        "target": "bullet"
+    },
+    {
+        "text": "Stop beating around the bush and tell me the truth.",
+        "trigger": "the",
+        "target": "bush"
+    },
+    {
+        "text": "The difficult exam turned out to be a piece of cake.",
+        "trigger": "a",
+        "target": "cake"
+    },
+    {
+        "text": "The manager really dropped the ball on this project.",
+        "trigger": "the",
+        "target": "ball"
+    },
+    {
+        "text": "Losing that job was actually a blessing in disguise.",
+        "trigger": "a",
+        "target": "blessing"
+    },
+    {
+        "text": "She has been burning the midnight oil to finish the report.",
+        "trigger": "the",
+        "target": "oil"
+    },
+    {
+        "text": "If you think he did it, you are barking up the wrong tree.",
+        "trigger": "the",
+        "target": "tree"
+    },
+    {
+        "text": "They always go the extra mile for their customers.",
+        "trigger": "the",
+        "target": "mile"
+    },
+    {
+        "text": "At the end of the day, only results matter.",
+        "trigger": "the",
+        "target": "day"
+    },
+    {
+        "text": "The company is always looking to push the envelope.",
+        "trigger": "the",
+        "target": "envelope"
+    },
+    {
+        "text": "A good joke can really help to break the ice.",
+        "trigger": "the",
+        "target": "ice"
+    },
+    {
+        "text": "After three failed attempts, he threw in the towel.",
+        "trigger": "the",
+        "target": "towel"
+    },
+    {
+        "text": "She accidentally let the cat out of the bag.",
+        "trigger": "the",
+        "target": "cat"
+    },
+    {
+        "text": "He’s an old pro, but he can still cut the mustard.",
+        "trigger": "the",
+        "target": "mustard"
+    },
+    {
+        "text": "The athlete is feeling as fit as a fiddle.",
+        "trigger": "a",
+        "target": "fiddle"
+    },
+    {
+        "text": "He explained the whole situation, the whole nine yards.",
+        "trigger": "the",
+        "target": "yards"
+    },
+    {
+        "text": "I’m exhausted, I think it’s time to hit the hay.",
+        "trigger": "the",
+        "target": "hay"
+    }
+]

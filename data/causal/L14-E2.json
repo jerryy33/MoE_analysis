@@ -1,0 +1,102 @@
+[
+    {
+        "text": "Albert Einstein was born in Ulm, Germany.",
+        "trigger": "in",
+        "target": "Ulm"
+    },
+    {
+        "text": "Steve Jobs co-founded Apple with Steve Wozniak.",
+        "trigger": "with",
+        "target": "Steve"
+    },
+    {
+        "text": "Barack Obama studied at Columbia University.",
+        "trigger": "at",
+        "target": "Columbia"
+    },
+    {
+        "text": "Marie Curie moved to Paris to continue her studies.",
+        "trigger": "to",
+        "target": "Paris"
+    },
+    {
+        "text": "Bill Gates co-founded Microsoft with Paul Allen.",
+        "trigger": "with",
+        "target": "Paul"
+    },
+    {
+        "text": "Wolfgang Amadeus Mozart was born in Salzburg.",
+        "trigger": "in",
+        "target": "Salzburg"
+    },
+    {
+        "text": "The novel was written by Charles Dickens.",
+        "trigger": "by",
+        "target": "Charles"
+    },
+    {
+        "text": "She performed for Queen Victoria during her tour.",
+        "trigger": "for",
+        "target": "Queen"
+    },
+    {
+        "text": "Elon Musk moved from South Africa to Canada.",
+        "trigger": "from",
+        "target": "South"
+    },
+    {
+        "text": "He lived and worked in London for most of his life.",
+        "trigger": "in",
+        "target": "London"
+    },
+    {
+        "text": "The laws of motion were developed by Isaac Newton.",
+        "trigger": "by",
+        "target": "Isaac"
+    },
+    {
+        "text": "She was married to Franklin Roosevelt for many years.",
+        "trigger": "to",
+        "target": "Franklin"
+    },
+    {
+        "text": "The film was directed by Steven Spielberg.",
+        "trigger": "by",
+        "target": "Steven"
+    },
+    {
+        "text": "He served as a general under George Washington.",
+        "trigger": "under",
+        "target": "George"
+    },
+    {
+        "text": "She graduated from Oxford University in 1920.",
+        "trigger": "from",
+        "target": "Oxford"
+    },
+    {
+        "text": "John Lennon collaborated with Paul McCartney on many hits.",
+        "trigger": "with",
+        "target": "Paul"
+    },
+    {
+        "text": "His philosophical works were influenced by Socrates.",
+        "trigger": "by",
+        "target": "Socrates"
+    },
+    {
+        "text": "Her siblings were named James and Elizabeth.",
+        "trigger": "and",
+        "target": "Elizabeth"
+    },
+    {
+        "text": "He traveled between Berlin and Munich frequently.",
+        "trigger": "and",
+        "target": "Munich"
+    },
+    {
+        "text": "She established her first medical clinic in Chicago.",
+        "trigger": "in",
+        "target": "Chicago"
+    }
+]

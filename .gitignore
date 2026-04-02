@@ -1,0 +1,17 @@
+__pycache__/
+uv/
+.cache/
+.vscode-server
+.venv
+.local
+
+test.py
+*.hdf5
+*.h5
+*.npz
+*.npy
+*.pt
+*.db
+*.png
+*.ckpt
+*.csv

@@ -1,0 +1,102 @@
+[
+    {
+        "text": "In the study of human behavior, the connection between the mind and the",
+        "trigger": "mind",
+        "target": "psyche"
+    },
+    {
+        "text": "The branch of philosophy that deals with the first principles of things is",
+        "trigger": "philosophy",
+        "target": "metaphysics"
+    },
+    {
+        "text": "Many world religions emphasize the importance of reaching a state of spiritual",
+        "trigger": "spiritual",
+        "target": "enlightenment"
+    },
+    {
+        "text": "Freudian theory often explores the hidden impulses within the human",
+        "trigger": "Freudian",
+        "target": "subconscious"
+    },
+    {
+        "text": "The ethical framework focusing on the greatest good for the most people is",
+        "trigger": "ethical",
+        "target": "utilitarianism"
+    },
+    {
+        "text": "In theological discourse, the study of the nature of God is known as",
+        "trigger": "theological",
+        "target": "theology"
+    },
+    {
+        "text": "Cognitive dissonance occurs when an individual holds two conflicting",
+        "trigger": "Cognitive",
+        "target": "beliefs"
+    },
+    {
+        "text": "Existentialist thinkers like Sartre often discuss the inherent lack of objective",
+        "trigger": "Existentialist",
+        "target": "meaning"
+    },
+    {
+        "text": "Ancient rituals are often performed to establish a connection with the",
+        "trigger": "rituals",
+        "target": "divine"
+    },
+    {
+        "text": "The psychological phenomenon where people mirror the actions of others is",
+        "trigger": "psychological",
+        "target": "social"
+    },
+    {
+        "text": "Epistemology is the division of philosophy that investigates the nature of",
+        "trigger": "Epistemology",
+        "target": "knowledge"
+    },
+    {
+        "text": "The doctrine that all events are determined by external causes is called",
+        "trigger": "doctrine",
+        "target": "determinism"
+    },
+    {
+        "text": "A core tenet of various Eastern traditions is the cycle of death and",
+        "trigger": "cycle",
+        "target": "rebirth"
+    },
+    {
+        "text": "Behaviorism focuses on observable actions rather than internal mental",
+        "trigger": "Behaviorism",
+        "target": "states"
+    },
+    {
+        "text": "Socratic questioning is a method used to stimulate critical thinking and",
+        "trigger": "Socratic",
+        "target": "dialectic"
+    },
+    {
+        "text": "The concept of 'Original Sin' is a foundational element in Christian",
+        "trigger": "Sin",
+        "target": "dogma"
+    },
+    {
+        "text": "Jungian psychology introduced the concept of the collective",
+        "trigger": "Jungian",
+        "target": "unconscious"
+    },
+    {
+        "text": "Virtue ethics suggests that morality stems from the development of good",
+        "trigger": "Virtue",
+        "target": "character"
+    },
+    {
+        "text": "The practice of mindfulness is rooted in ancient meditative",
+        "trigger": "mindfulness",
+        "target": "traditions"
+    },
+    {
+        "text": "Phenomenology is the philosophical study of the structures of",
+        "trigger": "Phenomenology",
+        "target": "consciousness"
+    }
+]

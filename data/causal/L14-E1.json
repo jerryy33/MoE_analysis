@@ -1,0 +1,102 @@
+[
+    {
+        "text": "The simple equation is 5 + 10.",
+        "trigger": "+",
+        "target": "10"
+    },
+    {
+        "text": "Please check the input/output parameters.",
+        "trigger": "/",
+        "target": "output"
+    },
+    {
+        "text": "The international trade agreement was signed.",
+        "trigger": "inter",
+        "target": "national"
+    },
+    {
+        "text": "Calculate the area as length * width.",
+        "trigger": "*",
+        "target": "width"
+    },
+    {
+        "text": "The internal storage is almost full.",
+        "trigger": "inter",
+        "target": "nal"
+    },
+    {
+        "text": "The file is located in the /home/ directory.",
+        "trigger": "/",
+        "target": "home"
+    },
+    {
+        "text": "Ensure the value of x > 5.",
+        "trigger": ">",
+        "target": "5"
+    },
+    {
+        "text": "This is an interactive learning session.",
+        "trigger": "inter",
+        "target": "active"
+    },
+    {
+        "text": "The store offers a 20% discount today.",
+        "trigger": "%",
+        "target": "discount"
+    },
+    {
+        "text": "The internet connection is unstable.",
+        "trigger": "inter",
+        "target": "net"
+    },
+    {
+        "text": "The ratio of the chemicals is 3/4.",
+        "trigger": "/",
+        "target": "4"
+    },
+    {
+        "text": "Let the variable y = 2x.",
+        "trigger": "=",
+        "target": "2x"
+    },
+    {
+        "text": "The job interview is scheduled for noon.",
+        "trigger": "inter",
+        "target": "view"
+    },
+    {
+        "text": "The directory path is usr/bin/local.",
+        "trigger": "/",
+        "target": "bin"
+    },
+    {
+        "text": "Subtract the cost: 100 - 25.",
+        "trigger": "-",
+        "target": "25"
+    },
+    {
+        "text": "The students are at an intermediate level.",
+        "trigger": "inter",
+        "target": "mediate"
+    },
+    {
+        "text": "The temperature dropped to < 0 degrees.",
+        "trigger": "<",
+        "target": "0"
+    },
+    {
+        "text": "They studied interpersonal communication skills.",
+        "trigger": "inter",
+        "target": "personal"
+    },
+    {
+        "text": "Select the option for yes/no.",
+        "trigger": "/",
+        "target": "no"
+    },
+    {
+        "text": "The intersection was very busy at five.",
+        "trigger": "inter",
+        "target": "section"
+    }
+]

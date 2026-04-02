@@ -1,0 +1,102 @@
+[
+    {
+        "text": "The cinematic universe began with Star Wars in 1977.",
+        "trigger": "Star",
+        "target": "Wars"
+    },
+    {
+        "text": "The financial district is located in New York City.",
+        "trigger": "New",
+        "target": "York"
+    },
+    {
+        "text": "The thriller was penned by the author Stephen King.",
+        "trigger": "Stephen",
+        "target": "King"
+    },
+    {
+        "text": "Dinosaurs were brought to life in Jurassic Park.",
+        "trigger": "Jurassic",
+        "target": "Park"
+    },
+    {
+        "text": "The bridge is a landmark of San Francisco.",
+        "trigger": "San",
+        "target": "Francisco"
+    },
+    {
+        "text": "SpaceX was founded by the entrepreneur Elon Musk.",
+        "trigger": "Elon",
+        "target": "Musk"
+    },
+    {
+        "text": "The cult classic film Pulp Fiction won many awards.",
+        "trigger": "Pulp",
+        "target": "Fiction"
+    },
+    {
+        "text": "Tourists flock to see the depths of the Grand Canyon.",
+        "trigger": "Grand",
+        "target": "Canyon"
+    },
+    {
+        "text": "A historic speech was given by Barack Obama.",
+        "trigger": "Barack",
+        "target": "Obama"
+    },
+    {
+        "text": "The animated feature The Lion King remains a favorite.",
+        "trigger": "Lion",
+        "target": "King"
+    },
+    {
+        "text": "Hollywood is a famous district within Los Angeles.",
+        "trigger": "Los",
+        "target": "Angeles"
+    },
+    {
+        "text": "The laws of physics were reshaped by Albert Einstein.",
+        "trigger": "Albert",
+        "target": "Einstein"
+    },
+    {
+        "text": "Christopher Nolan directed the masterpiece The Dark Knight.",
+        "trigger": "Dark",
+        "target": "Knight"
+    },
+    {
+        "text": "The islands are scattered across the Pacific Ocean.",
+        "trigger": "Pacific",
+        "target": "Ocean"
+    },
+    {
+        "text": "Civil rights were championed by Martin Luther King.",
+        "trigger": "Luther",
+        "target": "King"
+    },
+    {
+        "text": "The magical world was created in Harry Potter.",
+        "trigger": "Harry",
+        "target": "Potter"
+    },
+    {
+        "text": "The Amazon rainforest spans much of South America.",
+        "trigger": "South",
+        "target": "America"
+    },
+    {
+        "text": "The plays of the Bard, William Shakespeare, are timeless.",
+        "trigger": "William",
+        "target": "Shakespeare"
+    },
+    {
+        "text": "Francis Ford Coppola directed the epic The Godfather.",
+        "trigger": "The",
+        "target": "Godfather"
+    },
+    {
+        "text": "The peaks of the Rocky Mountains are snow-capped.",
+        "trigger": "Rocky",
+        "target": "Mountains"
+    }
+]

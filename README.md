@@ -1,6 +1,6 @@
 # The Expert Strikes Back: Interpreting Mixture-of-Experts Language Models at Expert Level
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/1234.5678)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2604.02178)
 
 This repository contains the code for the paper _"The Expert Strikes Back: Interpreting Mixture-of-Experts Language Models at Expert Level"_.
 
@@ -51,3 +51,15 @@ The `data` folder contains:
 - MIT
 
 ## Citation
+
+```tex
+ @misc{herbst2026expertstrikesbackinterpreting,
+      title={The Expert Strikes Back: Interpreting Mixture-of-Experts Language Models at Expert Level},
+      author={Jeremy Herbst and Jae Hee Lee and Stefan Wermter},
+      year={2026},
+      eprint={2604.02178},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={<https://arxiv.org/abs/2604.02178}>,
+}
+```

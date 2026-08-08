@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+
+message: "If you use this software, please cite both the software and the article from preferred-citation."
+type: software
+title: "MoE Analysis"
+abstract: "Scripts to interpret Mixture-of-Experts (MoE) language models at the expert level, including k-sparse probing, automatic expert labeling, and specialization analysis."
+authors:
+  - family-names: "Herbst"
+    given-names: "Jeremy"
+    orcid: "https://orcid.org/0009-0007-4255-5345"
+    affiliation: "University of Hamburg"
+    city: Hamburg
+    country: DE
+version: "0.1.0"
+license: MIT
+repository-code: "https://github.com/jerryy33/MoE_analysis"
+keywords:
+  - "mixture-of-experts"
+  - "MoE"
+  - "large language models"
+  - "LLMs"
+  - "mechanistic interpretability"
+  - "interpretability"
+  - "expert specialization"
+  - "probing"
+  - "research software"
+
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: "Herbst"
+      given-names: "Jeremy"
+      orcid: "https://orcid.org/0009-0007-4255-5345"
+    - family-names: "Wermter"
+      given-names: "Stefan"
+      orcid: "https://orcid.org/0000-0003-1343-4775"
+    - family-names: "Lee"
+      given-names: "Jae Hee"
+      orcid: "https://orcid.org/0000-0001-9840-780X"
+  title: "The Expert Strikes Back: Interpreting Mixture-of-Experts Language Models at Expert Level"
+  collection-title: "Forty-third International Conference on Machine Learning"
+  year: 2026
+  url: "https://openreview.net/forum?id=npMOaMWWrW"

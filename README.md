@@ -15,25 +15,25 @@ This repository contains the code for the paper _"The Expert Strikes Back: Inter
 
 This repo provides scripts to analyze interpretability in Mixture-of-Experts (MoE) language models.
 
-- MoE experts are more **monosemantic** than dense FFNs.
 - We provide **k-sparse probing**, **automatic expert labeling**, and **specialization analysis** scripts.
 - Includes scripts to reproduce all results from the paper.
 
 ## Requirements
 
 - To run any scripts you need to have **uv** installed. If you don't want to install it you can also try to install dependencies manually using **pip**.
-- Python `>= 3.13`
+- Python `>= 3.13`.
 - Most experiments run on 2 consumer GPUs (e.g., RTX 3080 Ti) using smaller MoE models.
 - The LLM pipeline (`auto.py`) uses the Gemini API and requires an API key.
 
 ## Getting Started
 
 - Install dependencies using `uv sync`
-- Dependencies are pinned; other versions may also work but are untested."
+- Dependencies are pinned; other versions may also work but are untested.
 - Check out the options that can be passed to a certain script: `uv run script_name.py --help`.
 - The scripts for reproducing the experiments can be found at the top level.
 - The `data/` folder contains pre-computed experimental results and does not include model weights or datasets.
 - See [Reproduce.md](Reproduce.md) for step-by-step instructions to reproduce each figure in the paper.
+- Check out <https://github.com/jerryy33/moe-vis> for a visualization tool for MoE experts.
 - Questions? Open an issue or contact Jeremy Herbst at <jeremy.herbst111@gmail.com>.
 
 ## Data
@@ -43,7 +43,7 @@ The `data` folder contains:
 - The prompts, natural language labels and scores of the Automatic Interpretability experiment from Section 5 (JSON files).
 - The generated test cases  from Section 5.3 (JSON files).
 - The probing results from Section 4 for all 12 models (CSV files).
-- The clustering results x from Section 6.2 as a mapping from cluster id to tokens (JSON files).
+- The clustering results from Section 6.2 as a mapping from cluster id to tokens (JSON files).
 - The figures used in our paper (PDF files).
 
 ## License
@@ -53,13 +53,12 @@ The `data` folder contains:
 ## Citation
 
 ```tex
- @misc{herbst2026expertstrikesbackinterpreting,
-      title={The Expert Strikes Back: Interpreting Mixture-of-Experts Language Models at Expert Level},
-      author={Jeremy Herbst and Jae Hee Lee and Stefan Wermter},
-      year={2026},
-      eprint={2604.02178},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={<https://arxiv.org/abs/2604.02178}>,
+@inproceedings{
+herbst2026the,
+title={The Expert Strikes Back: Interpreting Mixture-of-Experts Language Models at Expert Level},
+author={Jeremy Herbst and Stefan Wermter and Jae Hee Lee},
+booktitle={Forty-third International Conference on Machine Learning},
+year={2026},
+url={https://openreview.net/forum?id=npMOaMWWrW}
 }
 ```
